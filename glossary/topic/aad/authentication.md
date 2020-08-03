@@ -1,23 +1,20 @@
-### Microsoft Glossary presents:
-# [Azure Active Directory AAD](/topic/en/aad)
-###### (Redirected from Authentication)
+# [Azure Active Directory AAD](/glossary/topic/aad)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-a_-Seh27s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Redirected from Authentication)
 
-###### [(Download the video and captions)](#download)
+> [!VIDEO https://www.youtube.com/embed/-a_-Seh27s4]
 
+## Download
+
+[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/aad.en.mp4).
 
 ## Languages
-
-<!-- OTHERLANGUAGES -->
 
 There are captions for the following language(s):
 
 - [English](https://wordsoftheday.blob.core.windows.net/captions/aad.en.en.srt)
 
-
-> Learn about [downloading and showing captions here](/captions/en).
-
+> Learn about [downloading and showing captions here](/glossary/captions).
 
 ## Links
 
@@ -33,20 +30,11 @@ There are captions for the following language(s):
 - [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
 - [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
 
-<a id="download"></a>
-
-## Download
-
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/aad.en.mp4).
-
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's word of the day is an abbreviation: AAD.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you Azure vocabulary!
 
 AAD is short for Azure Active Directory.
 
@@ -61,9 +49,3 @@ You can integrate with AAD at multiple levels: In the Microsoft cloud, with Micr
 It's easy to use multi-factor [authentication](/topic/en/test_authentication) with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
 
 Azure Active Directory has a lot of great features and it makes setting up identity services much easier than it used to be. So make sure to check all the links that we assembled for you here! Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: AAD.
-
-
-
-*Last modified: 03 Aug 2020 10:57 by [@LBugnion](http://twitter.com/LBugnion)*
-
-*Copyright 2020 by Microsoft Glossary - [Contact us](https://twitter.com/AzWordsOfTheDay)*
