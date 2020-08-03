@@ -1,23 +1,20 @@
-### Microsoft Glossary presents:
-# [Serverless](/topic/en/serverless)
-###### (Redirected from Azure Function)
+# [Serverless](/glossary/topic/serverless/azure-function)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfHWFtcrhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Redirected from Azure Function)
 
-###### [(Download the video and captions)](#download)
+> [!VIDEO https://www.youtube.com/embed/YfHWFtcrhIU]
 
+## Download
+
+[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/serverless.en.mp4).
 
 ## Languages
-
-<!-- OTHERLANGUAGES -->
 
 There are captions for the following language(s):
 
 - [English](https://wordsoftheday.blob.core.windows.net/captions/serverless.en.en.srt)
 
-
-> Learn about [downloading and showing captions here](/captions/en).
-
+> Learn about [downloading and showing captions here](/glossary/captions).
 
 ## Links
 
@@ -37,22 +34,13 @@ There are captions for the following language(s):
 
 - [Azure Pricing Calculator](http://gslb.ch/461)
 
-<a id="download"></a>
-
-## Download
-
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/serverless.en.mp4).
-
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's word of the day is: Serverless.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you the Azure vocabulary!
 
-Serverless means that your code runs on a server, but you don't have to worry about that server. It is abstracted. As a developer, you can concentrate on writing the code, [testing](/topic/en/test_testing) it and deploying it. Several features are automated: Starting the application, listening to events to start the execution of the code, scaling up and down when the demand fluctuates, etc.
+Serverless means that your code runs on a server, but you don't have to worry about that server. It is abstracted. As a developer, you can concentrate on writing the code, [testing](glossary/topic/test/testing) it and deploying it. Several features are automated: Starting the application, listening to events to start the execution of the code, scaling up and down when the demand fluctuates, etc.
 
 Typically serverless solutions are paid by the execution time, in a consumption model. Most cloud providers offer free tiers with which you can run a serverless application for a certain amount of time, or a certain amount of executions, for free.
 
@@ -65,9 +53,3 @@ Or another example of serverless application: A Logic App also starts its execut
 One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
-
-
-
-*Last modified: 03 Aug 2020 10:57 by [@LBugnion](http://twitter.com/LBugnion)*
-
-*Copyright 2020 by Microsoft Glossary - [Contact us](https://twitter.com/AzWordsOfTheDay)*

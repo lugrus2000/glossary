@@ -1,23 +1,20 @@
-### Microsoft Glossary presents:
-# [TLS/SSL](/topic/en/tls-ssl)
-###### (Redirected from TLS)
+# [TLS/SSL](/glossary/topic/tls-ssl/tls)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8cdY5jHeZik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Redirected from TLS)
 
-###### [(Download the video and captions)](#download)
+> [!VIDEO https://www.youtube.com/embed/8cdY5jHeZik]
 
+## Download
+
+[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/tls-ssl.en.mp4).
 
 ## Languages
-
-<!-- OTHERLANGUAGES -->
 
 There are captions for the following language(s):
 
 - [English](https://wordsoftheday.blob.core.windows.net/captions/tls-ssl.en.en.srt)
 
-
-> Learn about [downloading and showing captions here](/captions/en).
-
+> Learn about [downloading and showing captions here](/glossary/captions).
 
 ## Links
 
@@ -32,20 +29,11 @@ There are captions for the following language(s):
 - [Cloud security](http://gslb.ch/465) *(Module)*
 - [Fundamentals of network security](http://gslb.ch/460) *(Module)*
 
-<a id="download"></a>
-
-## Download
-
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/tls-ssl.en.mp4).
-
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's words of the day are abbreviations: TLS / SSL.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), the show that teaches you the Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
 TLS is short for Transport Layer Security
 
@@ -55,9 +43,9 @@ SSL is a standard that enables secure, encrypted transmissions over the internet
 
 TLS is similar to SSL but it is a newer, more modern version. It also relies on certificates, in fact when you purchase an SSL certificate, it is often already ready for TLS.
 
-When TLS or SSL are setup on your [web server](/topic/en/app-service_web-server), this enables you to serve web content over HTTPS. This other abbreviation means: Hypertext Transfer Protocol Secure. But just like HTTP is not just for text, HTTPS is encrypting the whole communication. HTTPS is often used in the web browser, but it can also be used for APIs, etc.
+When TLS or SSL are setup on your [web server](glossary/topic/app-service/web-server), this enables you to serve web content over HTTPS. This other abbreviation means: Hypertext Transfer Protocol Secure. But just like HTTP is not just for text, HTTPS is encrypting the whole communication. HTTPS is often used in the web browser, but it can also be used for APIs, etc.
 
-In the Azure portal, you can easily buy or import a certificate to secure your [App Service](/topic/en/app-service). Note however that web applications on Azure are secure by default. This is why you see HTTPS in the location bar when you navigate to any website on anything.azurewebsites.net, which is the default address for App Services, Azure Functions, etc. The certificate and the HTTPS settings are needed when you want to use a custom domain, for example TailwindTraders.com.
+In the Azure portal, you can easily buy or import a certificate to secure your [App Service](/glossary/topic/app-service). Note however that web applications on Azure are secure by default. This is why you see HTTPS in the location bar when you navigate to any website on anything.azurewebsites.net, which is the default address for App Services, Azure Functions, etc. The certificate and the HTTPS settings are needed when you want to use a custom domain, for example TailwindTraders.com.
 
 When navigating to an HTTPS site, you can see more information about the certificate here. This shows a valid certificate used on a custom domain, it's safe to browse it.
 
@@ -66,9 +54,3 @@ You can sometimes choose between HTTP or HTTPS. Here we see a note in the web br
 It is recommended to always require HTTPS on your web application. In Azure, you can set it up with this switch here.
 
 Security is a complex topic, and we definitely need more than just two minutes to talk about it. So check the links here to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were: TLS / SSL.
-
-
-
-*Last modified: 03 Aug 2020 10:57 by [@LBugnion](http://twitter.com/LBugnion)*
-
-*Copyright 2020 by Microsoft Glossary - [Contact us](https://twitter.com/AzWordsOfTheDay)*

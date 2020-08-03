@@ -1,4 +1,4 @@
-# [Azure Active Directory AAD](/glossary/topic/aad)
+# [Azure Active Directory AAD](/glossary/topic/aad/authentication)
 
 (Redirected from Authentication)
 
@@ -46,6 +46,6 @@ There are different editions of AAD, Free, Basic and Premium. Each edition has s
 
 You can integrate with AAD at multiple levels: In the Microsoft cloud, with Microsoft 365 or any of our Platform as a Service offerings. In Windows 10 to join a device to an organization. It can also handle single sign-on, B2C and B2B, and more.
 
-It's easy to use multi-factor [authentication](/topic/en/test_authentication) with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
+It's easy to use multi-factor [authentication](/glossary/topic/authentication/disambiguation) with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
 
 Azure Active Directory has a lot of great features and it makes setting up identity services much easier than it used to be. So make sure to check all the links that we assembled for you here! Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: AAD.
