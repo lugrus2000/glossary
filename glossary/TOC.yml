@@ -6,12 +6,10 @@
     items:
     - name: Active Directory
       href: topic/aad/active-directory.md
-    - name: Another Test
-      href: topic/another-test.md
-    - name: Another test topic
-      href: topic/test.md
+    - name: A test topic
+      href: topic/test/index.md
     - name: App Service
-      href: topic/app-service.md
+      href: topic/app-service/index.md
     - name: ASP.NET
       href: topic/app-service/asp-net.md
     - name: Authentication
@@ -19,7 +17,7 @@
     - name: Authorization
       href: topic/aad/authorization.md
     - name: Azure Active Directory AAD
-      href: topic/aad.md
+      href: topic/aad/index.md
     - name: Azure Function
       href: topic/serverless/azure-function.md
   - name: C
@@ -55,7 +53,7 @@
     - name: Secure Sockets Layer
       href: topic/tls-ssl/secure-sockets-layer.md
     - name: Serverless
-      href: topic/serverless.md
+      href: topic/serverless/index.md
     - name: SSL
       href: topic/tls-ssl/ssl.md
   - name: T
@@ -67,7 +65,7 @@
     - name: TLS
       href: topic/tls-ssl/tls.md
     - name: TLS/SSL
-      href: topic/tls-ssl.md
+      href: topic/tls-ssl/index.md
     - name: Transport Layer Security
       href: topic/tls-ssl/transport-layer-security.md
     - name: Trigger
@@ -81,4 +79,4 @@
   - name: Y
     items:
     - name: Yet another test topic
-      href: topic/another-test.md
+      href: topic/another-test/index.md
