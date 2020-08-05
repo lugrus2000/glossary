@@ -6,6 +6,7 @@ This is a work in progress! If you are interested to contribute new topics, [ple
 
 You can browse the content using the side bar to the left, or use the `Filter by title` box to look for a specific topic.
 
-Every day you will also discover a new random article on this page!
+> [!TIP]
+> Every day you will also discover a new random article on this page!
 
 [!INCLUDE [Random topic for today:](./topic/app-service/index.md)]
