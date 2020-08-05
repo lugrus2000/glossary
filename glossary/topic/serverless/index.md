@@ -1,3 +1,13 @@
+---
+title: Serverless
+description: Microsoft Glossary definition for Serverless
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Serverless](/glossary/topic/serverless)
 
 > A way to run applications on a server without having to manage this server

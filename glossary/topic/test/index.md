@@ -1,3 +1,13 @@
+---
+title: Another test topic
+description: Microsoft Glossary definition for Serverless
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Another test topic](/glossary/topic/test)
 
 > A topic used to for tests only.

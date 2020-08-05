@@ -1,3 +1,13 @@
+---
+title: Azure Active Directory AAD
+description: Microsoft Glossary definition for Azure Active Directory AAD
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Azure Active Directory AAD](/glossary/topic/aad)
 
 > An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure

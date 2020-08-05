@@ -1,3 +1,13 @@
+---
+title: Another test topic (Redirected from Testing)
+description: Microsoft Glossary definition for Serverless
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Another test topic](/glossary/topic/test/testing)
 
 (Redirected from Testing)

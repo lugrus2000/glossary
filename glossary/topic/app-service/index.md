@@ -1,3 +1,13 @@
+---
+title: App Service
+description: Microsoft Glossary definition for App Service
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [App Service](/glossary/topic/app-service)
 
 > A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux

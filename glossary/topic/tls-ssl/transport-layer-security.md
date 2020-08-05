@@ -1,3 +1,13 @@
+---
+title: TLS/SSL (Redirected from Transport Layer Security)
+description: Microsoft Glossary definition for TLS/SSL
+author: lbugnion
+manager: scottca
+ms.date: 05/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [TLS/SSL](/glossary/topic/tls-ssl/transport-layer-security)
 
 (Redirected from Transport Layer Security)

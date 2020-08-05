@@ -1,3 +1,13 @@
+---
+title: Authentication (disambiguation)
+description: Microsoft Glossary disambiguation for Authentication
+author: lbugnion
+manager: scottca
+ms.date: 08/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Authentication](/glossary/topic/authentication/disambiguation) (disambiguation)
 
 ## `Authentication` can be used in different contexts

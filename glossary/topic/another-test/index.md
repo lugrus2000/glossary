@@ -1,3 +1,13 @@
+---
+title: Yet another test topic
+description: Microsoft Glossary definition for Yet another test topic
+author: lbugnion
+manager: scottca
+ms.date: 05/19/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # [Yet another test topic](/glossary/topic/another-test)
 
 > Another topic used to for tests only, that you should probably ignore.
