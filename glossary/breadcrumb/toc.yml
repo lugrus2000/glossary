@@ -1,6 +1,8 @@
 - name: Docs
   tocHref: /
   topicHref: /
+  items:
+
   - name: Glossary
     tocHref: /glossary/
     topicHref: /glossary/

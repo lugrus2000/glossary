@@ -1,3 +1,13 @@
+---
+title: Microsoft Glossary
+description: Microsoft Glossary
+author: lbugnion
+manager: scottca
+ms.date: 08/05/2020
+ms.prod: non-product-specific
+ms.topic: glossary
+---
+
 # Microsoft Glossary
 
 This is the perfect location to find the definition of a word, expression of abbreviation related to Microsoft technologies.
