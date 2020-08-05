@@ -1,4 +1,4 @@
-# Welcome to the Microsoft Glossary
+# Microsoft Glossary
 
 This is the perfect location to find the definition of a word, expression of abbreviation related to Microsoft technologies.
 
