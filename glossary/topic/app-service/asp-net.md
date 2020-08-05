@@ -1,5 +1,5 @@
 ---
-title: App Service (Redirected from ASP.NET)
+title: App Service (redirected from ASP.NET)
 description: Microsoft Glossary definition for App Service
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [App Service](/glossary/topic/app-service/asp-net)
-
-(Redirected from ASP.NET)
+# [App Service](/glossary/topic/app-service/asp-net) (redirected from ASP.NET)
 
 > A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 

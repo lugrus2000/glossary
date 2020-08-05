@@ -1,5 +1,5 @@
 ---
-title: Yet another test topic (Redirected from Authentication)
+title: Yet another test topic (redirected from Authentication)
 description: Microsoft Glossary definition for Yet another test topic
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Yet another test topic](/glossary/topic/another-test/authentication)
-
-(Redirected from Authentication)
+# [Yet another test topic](/glossary/topic/another-test/authentication) (redirected from Authentication)
 
 > Another topic used to for tests only, that you should probably ignore.
 

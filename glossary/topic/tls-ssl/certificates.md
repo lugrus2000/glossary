@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (Redirected from Certificates)
+title: TLS/SSL (redirected from Certificates)
 description: Microsoft Glossary definition for TLS/SSL
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/certificates)
-
-(Redirected from Certificates)
+# [TLS/SSL](/glossary/topic/tls-ssl/certificates) (redirected from Certificates)
 
 > Two protocols used to encrypt communication on a network
 

@@ -1,5 +1,5 @@
 ---
-title: Serverless (Redirected from Logic App)
+title: Serverless (redirected from Logic App)
 description: Microsoft Glossary definition for Serverless
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Serverless](/glossary/topic/serverless/logic-app)
-
-(Redirected from Logic App)
+# [Serverless](/glossary/topic/serverless/logic-app) (redirected from Logic App)
 
 > A way to run applications on a server without having to manage this server
 

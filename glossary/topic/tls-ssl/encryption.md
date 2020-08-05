@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (Redirected from Encryption)
+title: TLS/SSL (redirected from Encryption)
 description: Microsoft Glossary definition for TLS/SSL
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/encryption)
-
-(Redirected from Encryption)
+# [TLS/SSL](/glossary/topic/tls-ssl/encryption) (redirected from Encryption)
 
 > Two protocols used to encrypt communication on a network
 

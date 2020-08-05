@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory AAD (Redirected from Authorization)
+title: Azure Active Directory AAD (redirected from Authorization)
 description: Microsoft Glossary definition for Azure Active Directory AAD
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Azure Active Directory AAD](/glossary/topic/aad/authorization)
-
-(Redirected from Authorization)
+# [Azure Active Directory AAD](/glossary/topic/aad/authorization) (redirected from Authorization)
 
 > An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
 

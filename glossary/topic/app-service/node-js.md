@@ -1,5 +1,5 @@
 ---
-title: App Service (Redirected from Node.JS)
+title: App Service (redirected from Node.JS)
 description: Microsoft Glossary definition for App Service
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [App Service](/glossary/topic/app-service/node-js)
-
-(Redirected from Node.JS)
+# [App Service](/glossary/topic/app-service/node-js) (redirected from Node.JS)
 
 > A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 

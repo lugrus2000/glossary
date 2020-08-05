@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory AAD (Redirected from Authentication)
+title: Azure Active Directory AAD (redirected from Authentication)
 description: Microsoft Glossary definition for Azure Active Directory AAD
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Azure Active Directory AAD](/glossary/topic/aad/authentication)
-
-(Redirected from Authentication)
+# [Azure Active Directory AAD](/glossary/topic/aad/authentication) (redirected from Authentication)
 
 > An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
 
