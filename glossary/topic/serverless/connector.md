@@ -1,5 +1,5 @@
 ---
-title: Serverless (Redirected from Connector)
+title: Serverless (redirected from Connector)
 description: Microsoft Glossary definition for Serverless
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Serverless](/glossary/topic/serverless/connector)
-
-(Redirected from Connector)
+# [Serverless](/glossary/topic/serverless/connector) (redirected from Connector)
 
 > A way to run applications on a server without having to manage this server
 

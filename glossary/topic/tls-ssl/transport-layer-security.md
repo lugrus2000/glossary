@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (Redirected from Transport Layer Security)
+title: TLS/SSL (redirected from Transport Layer Security)
 description: Microsoft Glossary definition for TLS/SSL
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/transport-layer-security)
-
-(Redirected from Transport Layer Security)
+# [TLS/SSL](/glossary/topic/tls-ssl/transport-layer-security) (redirected from Transport Layer Security)
 
 > Two protocols used to encrypt communication on a network
 

@@ -1,5 +1,5 @@
 ---
-title: Another test topic (Redirected from Testing)
+title: Another test topic (redirected from Testing)
 description: Microsoft Glossary definition for Serverless
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Another test topic](/glossary/topic/test/testing)
-
-(Redirected from Testing)
+# [Another test topic](/glossary/topic/test/testing) (redirected from Testing)
 
 > A topic used to for tests only.
 

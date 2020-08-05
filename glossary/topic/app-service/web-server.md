@@ -1,5 +1,5 @@
 ---
-title: App Service (Redirected from Web Server)
+title: App Service (redirected from Web Server)
 description: Microsoft Glossary definition for App Service
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [App Service](/glossary/topic/app-service/web-server)
-
-(Redirected from Web Server)
+# [App Service](/glossary/topic/app-service/web-server) (redirected from Web Server)
 
 > A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 

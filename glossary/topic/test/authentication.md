@@ -1,5 +1,5 @@
 ---
-title: Another test topic (Redirected from Authentication)
+title: Another test topic (redirected from Authentication)
 description: Microsoft Glossary definition for Serverless
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Another test topic](/glossary/topic/test/authentication)
-
-(Redirected from Authentication)
+# [Another test topic](/glossary/topic/test/authentication) (redirected from Authentication)
 
 > A topic used to for tests only.
 

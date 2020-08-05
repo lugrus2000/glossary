@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (Redirected from HTTPS)
+title: TLS/SSL (redirected from HTTPS)
 description: Microsoft Glossary definition for TLS/SSL
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/https)
-
-(Redirected from HTTPS)
+# [TLS/SSL](/glossary/topic/tls-ssl/https) (redirected from HTTPS)
 
 > Two protocols used to encrypt communication on a network
 

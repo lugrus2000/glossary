@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (Redirected from Secure Sockets Layer)
+title: TLS/SSL (redirected from Secure Sockets Layer)
 description: Microsoft Glossary definition for TLS/SSL
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/secure-sockets-layer)
-
-(Redirected from Secure Sockets Layer)
+# [TLS/SSL](/glossary/topic/tls-ssl/secure-sockets-layer) (redirected from Secure Sockets Layer)
 
 > Two protocols used to encrypt communication on a network
 

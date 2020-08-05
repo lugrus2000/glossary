@@ -1,5 +1,5 @@
 ---
-title: Serverless (Redirected from Trigger)
+title: Serverless (redirected from Trigger)
 description: Microsoft Glossary definition for Serverless
 author: lbugnion
 manager: scottca
@@ -8,9 +8,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Serverless](/glossary/topic/serverless/trigger)
-
-(Redirected from Trigger)
+# [Serverless](/glossary/topic/serverless/trigger) (redirected from Trigger)
 
 > A way to run applications on a server without having to manage this server
 
