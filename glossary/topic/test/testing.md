@@ -2,6 +2,8 @@
 
 (Redirected from Testing)
 
+> A topic used to for tests only.
+
 ## Definition
 
 This is a test topic only, please ignore.

@@ -2,6 +2,8 @@
 
 (Redirected from Authentication)
 
+> An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
+
 > [!VIDEO https://www.youtube.com/embed/-a_-Seh27s4]
 
 ## Download

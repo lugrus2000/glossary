@@ -1,5 +1,7 @@
 # [Serverless](/glossary/topic/serverless)
 
+> A way to run applications on a server without having to manage this server
+
 > [!VIDEO https://www.youtube.com/embed/YfHWFtcrhIU]
 
 ## Download

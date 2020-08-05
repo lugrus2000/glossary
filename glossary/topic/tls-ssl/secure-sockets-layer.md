@@ -2,6 +2,8 @@
 
 (Redirected from Secure Sockets Layer)
 
+> Two protocols used to encrypt communication on a network
+
 > [!VIDEO https://www.youtube.com/embed/8cdY5jHeZik]
 
 ## Download

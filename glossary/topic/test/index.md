@@ -1,5 +1,7 @@
 # [Another test topic](/glossary/topic/test)
 
+> A topic used to for tests only.
+
 ## Definition
 
 This is a test topic only, please ignore.

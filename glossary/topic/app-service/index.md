@@ -1,5 +1,7 @@
 # [App Service](/glossary/topic/app-service)
 
+> A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
+
 > [!VIDEO https://www.youtube.com/embed/0vChvk1-uCg]
 
 ## Download

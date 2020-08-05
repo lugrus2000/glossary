@@ -1,82 +1,80 @@
 - name: Welcome
   href: index.md
-- name: Glossary
+- name: A
   items:
-  - name: A
-    items:
-    - name: Active Directory
-      href: topic/aad/active-directory.md
-    - name: A test topic
-      href: topic/test/index.md
-    - name: App Service
-      href: topic/app-service/index.md
-    - name: ASP.NET
-      href: topic/app-service/asp-net.md
-    - name: Authentication
-      href: topic/authentication/disambiguation.md
-    - name: Authorization
-      href: topic/aad/authorization.md
-    - name: Azure Active Directory AAD
-      href: topic/aad/index.md
-    - name: Azure Function
-      href: topic/serverless/azure-function.md
-  - name: C
-    items:
-    - name: Certificates
-      href: topic/tls-ssl/certificates.md
-    - name: Connector
-      href: topic/serverless/connector.md
-    - name: Cryptography
-      href: topic/tls-ssl/cryptography.md
-  - name: E
-    items:
-    - name: Encryption
-      href: topic/tls-ssl/encryption.md
-  - name: H
-    items:
-    - name: HTTPS
-      href: topic/tls-ssl/https.md
-  - name: I
-    items:
-    - name: Identity
-      href: topic/aad/identity.md
-  - name: L
-    items:
-    - name: Logic App
-      href: topic/serverless/logic-app.md
-  - name: N
-    items:
-    - name: Node.JS
-      href: topic/app-service/node-js.md
-  - name: S
-    items:
-    - name: Secure Sockets Layer
-      href: topic/tls-ssl/secure-sockets-layer.md
-    - name: Serverless
-      href: topic/serverless/index.md
-    - name: SSL
-      href: topic/tls-ssl/ssl.md
-  - name: T
-    items:
-    - name: Test Again
-      href: topic/another-test/test-again.md
-    - name: Testing
-      href: topic/test/testing.md
-    - name: TLS
-      href: topic/tls-ssl/tls.md
-    - name: TLS/SSL
-      href: topic/tls-ssl/index.md
-    - name: Transport Layer Security
-      href: topic/tls-ssl/transport-layer-security.md
-    - name: Trigger
-      href: topic/serverless/trigger.md
-  - name: W
-    items:
-    - name: Web Api
-      href: topic/app-service/web-api.md
-    - name: Web Server
-      href: topic/app-service/web-server.md
-  - name: Y
-    items:
-    - name: Yet another test topic
-      href: topic/another-test/index.md
+  - name: Active Directory
+    href: topic/aad/active-directory.md
+  - name: A test topic
+    href: topic/test/index.md
+  - name: App Service
+    href: topic/app-service/index.md
+  - name: ASP.NET
+    href: topic/app-service/asp-net.md
+  - name: Authentication
+    href: topic/authentication/disambiguation.md
+  - name: Authorization
+    href: topic/aad/authorization.md
+  - name: Azure Active Directory AAD
+    href: topic/aad/index.md
+  - name: Azure Function
+    href: topic/serverless/azure-function.md
+- name: C
+  items:
+  - name: Certificates
+    href: topic/tls-ssl/certificates.md
+  - name: Connector
+    href: topic/serverless/connector.md
+  - name: Cryptography
+    href: topic/tls-ssl/cryptography.md
+- name: E
+  items:
+  - name: Encryption
+    href: topic/tls-ssl/encryption.md
+- name: H
+  items:
+  - name: HTTPS
+    href: topic/tls-ssl/https.md
+- name: I
+  items:
+  - name: Identity
+    href: topic/aad/identity.md
+- name: L
+  items:
+  - name: Logic App
+    href: topic/serverless/logic-app.md
+- name: N
+  items:
+  - name: Node.JS
+    href: topic/app-service/node-js.md
+- name: S
+  items:
+  - name: Secure Sockets Layer
+    href: topic/tls-ssl/secure-sockets-layer.md
+  - name: Serverless
+    href: topic/serverless/index.md
+  - name: SSL
+    href: topic/tls-ssl/ssl.md
+- name: T
+  items:
+  - name: Test Again
+    href: topic/another-test/test-again.md
+  - name: Testing
+    href: topic/test/testing.md
+  - name: TLS
+    href: topic/tls-ssl/tls.md
+  - name: TLS/SSL
+    href: topic/tls-ssl/index.md
+  - name: Transport Layer Security
+    href: topic/tls-ssl/transport-layer-security.md
+  - name: Trigger
+    href: topic/serverless/trigger.md
+- name: W
+  items:
+  - name: Web Api
+    href: topic/app-service/web-api.md
+  - name: Web Server
+    href: topic/app-service/web-server.md
+- name: Y
+  items:
+  - name: Yet another test topic
+    href: topic/another-test/index.md
