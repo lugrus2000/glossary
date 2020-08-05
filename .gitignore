@@ -6,3 +6,6 @@ _themes*/
 _repo.*/
 
 .openpublishing.buildcore.ps1
+
+# Visual Studio 2015 cache/options directory
+.vs/
