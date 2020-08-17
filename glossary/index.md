@@ -19,4 +19,4 @@ You can browse the content using the side bar to the left, or use the `Filter by
 > [!TIP]
 > Every day you will also discover a new random article on this page!
 
-[!INCLUDE [Random topic for today:](./topic/serverless/index.md)]
+[!INCLUDE [Random topic for today:](./topic/app-service/index.md)]
