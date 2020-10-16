@@ -61,4 +61,4 @@ Azure Active Directory has a lot of great features and it makes setting up ident
 
 ## Authors
 
-This topic was created by [Laurent Bugnion](http://twitter.com/lbugnion)
+This topic was created by [Laurent Bugnion](http://twitter.com/lbugnion), [Scott Cate](http://twitter.com/scottcate), [Amy Boyd](http://twitter.com/amynic)
