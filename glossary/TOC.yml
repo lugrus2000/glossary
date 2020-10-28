@@ -1,66 +1,68 @@
 - name: Microsoft Glossary
   href: index.md
 
-- name: A test topic
-  href: topic/test/index.md
+- name: Another test topic
+  href: topic/test
   items:
   - name: Testing
-    href: topic/test/testing.md
+    href: topic/test/testing
 
 - name: App Service
-  href: topic/app-service/index.md
+  href: topic/app-service
   items:
   - name: ASP.NET
-    href: topic/app-service/asp-net.md
+    href: topic/app-service/asp-net
+  - name: Node.JS
+    href: topic/app-service/node-js
   - name: Web Api
-    href: topic/app-service/web-api.md
+    href: topic/app-service/web-api
   - name: Web Server
-    href: topic/app-service/web-server.md
+    href: topic/app-service/web-server
 
 - name: Authentication
-  href: topic/authentication/disambiguation.md
-  
+  href: topic/authentication/disambiguation
 - name: Azure Active Directory AAD
-  href: topic/aad/index.md
+  href: topic/aad
   items:
   - name: Active Directory
-    href: topic/aad/active-directory.md
+    href: topic/aad/active-directory
   - name: Authorization
-    href: topic/aad/authorization.md
+    href: topic/aad/authorization
+  - name: Authentication
+    href: topic/aad/authentication
   - name: Identity
-    href: topic/aad/identity.md
-
+    href: topic/aad/identity
 - name: Serverless
-  href: topic/serverless/index.md
+  href: topic/serverless
   items:
   - name: Azure Function
-    href: topic/serverless/azure-function.md
+    href: topic/serverless/azure-function
   - name: Connector
-    href: topic/serverless/connector.md
+    href: topic/serverless/connector
   - name: Logic App
-    href: topic/serverless/logic-app.md
+    href: topic/serverless/logic-app
   - name: Trigger
-    href: topic/serverless/trigger.md
+    href: topic/serverless/trigger
 
 - name: TLS/SSL
-  href: topic/tls-ssl/index.md
+  href: topic/tls-ssl
   items:
   - name: Certificates
-    href: topic/tls-ssl/certificates.md
+    href: topic/tls-ssl/certificates
   - name: Cryptography
-    href: topic/tls-ssl/cryptography.md
+    href: topic/tls-ssl/cryptography
   - name: Encryption
-    href: topic/tls-ssl/encryption.md
+    href: topic/tls-ssl/encryption
   - name: HTTPS
-    href: topic/tls-ssl/https.md
+    href: topic/tls-ssl/https
   - name: Secure Sockets Layer
-    href: topic/tls-ssl/secure-sockets-layer.md
+    href: topic/tls-ssl/secure-sockets-layer
   - name: SSL
-    href: topic/tls-ssl/ssl.md
+    href: topic/tls-ssl/ssl
   - name: TLS
-    href: topic/tls-ssl/tls.md
+    href: topic/tls-ssl/tls
   - name: Transport Layer Security
-    href: topic/tls-ssl/transport-layer-security.md
+    href: topic/tls-ssl/transport-layer-security
 
 - name: Yet another test topic
-  href: topic/another-test/index.md
+  href: topic/another-test
