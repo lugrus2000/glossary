@@ -1,9 +1,8 @@
 ---
 title: App Service (redirected from Web Server)
 description: Microsoft Glossary definition for App Service
-author: lbugnion
-manager: scottca
-ms.date: 05/05/2020
+author: LBugnion
+ms.date: 11/2/2020
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
@@ -16,13 +15,13 @@ ms.topic: glossary
 
 ## Download
 
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/app-service.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/app-service.en.mp4).
 
 ## Languages
 
 There are captions for the following language(s):
 
-- [English](https://wordsoftheday.blob.core.windows.net/captions/app-service.en.en.srt)
+- [English](https://msglossarystore.blob.core.windows.net/captions/app-service.en.en.srt)
 
 > Learn about [downloading and showing captions here](/glossary/captions).
 
@@ -43,7 +42,7 @@ There are captions for the following language(s):
 
 Today's words of the day are: App Service.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you the Azure vocabulary!
 
 An App Service is a web server running as a service in Microsoft Azure. So you can run HTTP based applications, for example a mobile backend, a web API, a website etc. The really cool thing is that you can choose between Windows and Linux as your operating system, so you have a choice. And you can deploy your code, either in a Docker-based container, or directly from Github, from other repositories or from a continuous deployment solution.
 
@@ -56,3 +55,7 @@ In the Azure portal you can check the health of your app service, and there is a
 If I scroll down further we can see more monitoring solutions, for example the Log Stream which allows me to see what is happening in my application in real time. That's quite handy to avoid having to download the logs.
 
 App Services have a lot of additional functionalities, so make sure to check the links here to know more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's words of the day were: App Service.
+
+## Authors
+
+This topic was created by [Laurent Bugnion](http://twitter.com/@LBugnion)

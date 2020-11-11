@@ -1,9 +1,8 @@
 ---
 title: Serverless
 description: Microsoft Glossary definition for Serverless
-author: lbugnion
-manager: scottca
-ms.date: 05/05/2020
+author: LBugnion
+ms.date: 11/3/2020
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
@@ -16,13 +15,13 @@ ms.topic: glossary
 
 ## Download
 
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/serverless.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/serverless.en.mp4).
 
 ## Languages
 
 There are captions for the following language(s):
 
-- [English](https://wordsoftheday.blob.core.windows.net/captions/serverless.en.en.srt)
+- [English](https://msglossarystore.blob.core.windows.net/captions/serverless.en.en.srt)
 
 > Learn about [downloading and showing captions here](/glossary/captions).
 
@@ -63,3 +62,7 @@ Or another example of serverless application: A Logic App also starts its execut
 One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
+
+## Authors
+
+This topic was created by [Laurent Bugnion](http://twitter.com/@LBugnion)

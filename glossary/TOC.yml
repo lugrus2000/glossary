@@ -4,9 +4,10 @@
 - name: Another test topic
   href: topic/test
   items:
+  - name: Authentication
+    href: topic/test/authentication
   - name: Testing
     href: topic/test/testing
-
 - name: App Service
   href: topic/app-service
   items:
@@ -18,18 +19,17 @@
     href: topic/app-service/web-api
   - name: Web Server
     href: topic/app-service/web-server
-
-- name: Authentication
+- name: Authentication (disambiguation)
   href: topic/authentication/disambiguation
 - name: Azure Active Directory AAD
   href: topic/aad
   items:
   - name: Active Directory
     href: topic/aad/active-directory
-  - name: Authorization
-    href: topic/aad/authorization
   - name: Authentication
     href: topic/aad/authentication
+  - name: Authorization
+    href: topic/aad/authorization
   - name: Identity
     href: topic/aad/identity
 - name: Serverless
@@ -43,7 +43,6 @@
     href: topic/serverless/logic-app
   - name: Trigger
     href: topic/serverless/trigger
-
 - name: TLS/SSL
   href: topic/tls-ssl
   items:
@@ -63,6 +62,10 @@
     href: topic/tls-ssl/tls
   - name: Transport Layer Security
     href: topic/tls-ssl/transport-layer-security
-
 - name: Yet another test topic
   href: topic/another-test
+  items:
+  - name: Authentication
+    href: topic/another-test/authentication
+  - name: Test Again
+    href: topic/another-test/test-again

@@ -1,9 +1,8 @@
 ---
 title: TLS/SSL (redirected from Cryptography)
 description: Microsoft Glossary definition for TLS/SSL
-author: lbugnion
-manager: scottca
-ms.date: 05/05/2020
+author: LBugnion
+ms.date: 11/4/2020
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
@@ -16,13 +15,13 @@ ms.topic: glossary
 
 ## Download
 
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/tls-ssl.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/tls-ssl.en.mp4).
 
 ## Languages
 
 There are captions for the following language(s):
 
-- [English](https://wordsoftheday.blob.core.windows.net/captions/tls-ssl.en.en.srt)
+- [English](https://msglossarystore.blob.core.windows.net/captions/tls-ssl.en.en.srt)
 
 > Learn about [downloading and showing captions here](/glossary/captions).
 
@@ -64,3 +63,7 @@ You can sometimes choose between HTTP or HTTPS. Here we see a note in the web br
 It is recommended to always require HTTPS on your web application. In Azure, you can set it up with this switch here.
 
 Security is a complex topic, and we definitely need more than just two minutes to talk about it. So check the links here to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were: TLS / SSL.
+
+## Authors
+
+This topic was created by [Laurent Bugnion](http://twitter.com/@LBugnion)

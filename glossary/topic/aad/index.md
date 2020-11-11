@@ -1,8 +1,8 @@
 ---
 title: Azure Active Directory AAD
 description: Microsoft Glossary definition for Azure Active Directory AAD
-author: lbugnion scottcate amynic
-ms.date: 05/05/2020
+author: LBugnion
+ms.date: 10/31/2020
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
@@ -15,13 +15,13 @@ ms.topic: glossary
 
 ## Download
 
-[You can download this video here](https://wordsoftheday.blob.core.windows.net/videos/aad.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/aad.en.mp4).
 
 ## Languages
 
 There are captions for the following language(s):
 
-- [English](https://wordsoftheday.blob.core.windows.net/captions/aad.en.en.srt)
+- [English](https://msglossarystore.blob.core.windows.net/captions/aad.en.en.srt)
 
 > Learn about [downloading and showing captions here](/glossary/captions).
 
@@ -61,4 +61,4 @@ Azure Active Directory has a lot of great features and it makes setting up ident
 
 ## Authors
 
-This topic was created by [Laurent Bugnion](http://twitter.com/lbugnion), [Scott Cate](http://twitter.com/scottcate), [Amy Boyd](http://twitter.com/amynic)
+This topic was created by [Laurent Bugnion](http://twitter.com/@LBugnion), [Scott Cate](http://twitter.com/@ScottCate)
