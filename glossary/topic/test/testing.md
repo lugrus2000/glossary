@@ -9,7 +9,7 @@ ms.topic: glossary
 
 # [Another test topic](/glossary/topic/test/testing) (redirected from Testing)
 
-> A topic used to for tests only.
+> A term used to for tests only.
 
 > [!VIDEO https://www.youtube.com/embed/TEST]
 
