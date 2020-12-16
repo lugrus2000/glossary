@@ -2,70 +2,70 @@
   href: index.md
 
 - name: Another test topic
-  href: topic/test
+  href: term/test
   items:
   - name: Authentication
-    href: topic/test/authentication
+    href: term/test/authentication
   - name: Testing
-    href: topic/test/testing
+    href: term/test/testing
 - name: App Service
-  href: topic/app-service
+  href: term/app-service
   items:
   - name: ASP.NET
-    href: topic/app-service/asp-net
+    href: term/app-service/asp-net
   - name: Node.JS
-    href: topic/app-service/node-js
+    href: term/app-service/node-js
   - name: Web Api
-    href: topic/app-service/web-api
+    href: term/app-service/web-api
   - name: Web Server
-    href: topic/app-service/web-server
+    href: term/app-service/web-server
 - name: Authentication (disambiguation)
-  href: topic/authentication/disambiguation
+  href: term/authentication/disambiguation
 - name: Azure Active Directory AAD
-  href: topic/aad
+  href: term/aad
   items:
   - name: Active Directory
-    href: topic/aad/active-directory
+    href: term/aad/active-directory
   - name: Authentication
-    href: topic/aad/authentication
+    href: term/aad/authentication
   - name: Authorization
-    href: topic/aad/authorization
+    href: term/aad/authorization
   - name: Identity
-    href: topic/aad/identity
+    href: term/aad/identity
 - name: Serverless
-  href: topic/serverless
+  href: term/serverless
   items:
   - name: Azure Function
-    href: topic/serverless/azure-function
+    href: term/serverless/azure-function
   - name: Connector
-    href: topic/serverless/connector
+    href: term/serverless/connector
   - name: Logic App
-    href: topic/serverless/logic-app
+    href: term/serverless/logic-app
   - name: Trigger
-    href: topic/serverless/trigger
+    href: term/serverless/trigger
 - name: TLS/SSL
-  href: topic/tls-ssl
+  href: term/tls-ssl
   items:
   - name: Certificates
-    href: topic/tls-ssl/certificates
+    href: term/tls-ssl/certificates
   - name: Cryptography
-    href: topic/tls-ssl/cryptography
+    href: term/tls-ssl/cryptography
   - name: Encryption
-    href: topic/tls-ssl/encryption
+    href: term/tls-ssl/encryption
   - name: HTTPS
-    href: topic/tls-ssl/https
+    href: term/tls-ssl/https
   - name: Secure Sockets Layer
-    href: topic/tls-ssl/secure-sockets-layer
+    href: term/tls-ssl/secure-sockets-layer
   - name: SSL
-    href: topic/tls-ssl/ssl
+    href: term/tls-ssl/ssl
   - name: TLS
-    href: topic/tls-ssl/tls
+    href: term/tls-ssl/tls
   - name: Transport Layer Security
-    href: topic/tls-ssl/transport-layer-security
+    href: term/tls-ssl/transport-layer-security
 - name: Yet another test topic
-  href: topic/another-test
+  href: term/another-test
   items:
   - name: Authentication
-    href: topic/another-test/authentication
+    href: term/another-test/authentication
   - name: Test Again
-    href: topic/another-test/test-again
+    href: term/another-test/test-again
