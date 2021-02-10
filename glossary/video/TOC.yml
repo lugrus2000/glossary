@@ -1,0 +1,17 @@
+- name: Microsoft Video Library
+  href: index.md
+
+- name: Microsoft Ignite
+  href: video/ignite
+  items:
+  - name: Video 1
+    href: video/ignite/video1
+  - name: Video 2
+    href: video/ignite/video2
+- name: Microsoft Build
+  href: video/build
+  items:
+  - name: Video 1
+    href: video/build/video1
+  - name: Video 2
+    href: video/build/video2
