@@ -2,9 +2,7 @@
 
 This repo contains the source pages for the Microsoft Glossary.
 
-If you wish to contribute, please contact [ms-glossary-author@microsoft.com](mailto:ms-glossary-author@microsoft.com).
-
-Instructions for new authors: [GitHub Repo](https://github.com/lbugnion/ms-glossary)
+This is a work in progress! If you are interested to contribute new terms, [please check this page](https://aka.ms/glossary/getting-started) for information. Everyone is welcomed to contribute!!
 
 ## Microsoft Open Source Code of Conduct
 
