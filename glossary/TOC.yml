@@ -1,71 +1,32 @@
-- name: Microsoft Glossary
+- name: Microsoft Videos
   href: index.md
 
-- name: Another test topic
-  href: term/test
+- name: Microsoft Build 2018
+  href: videos/build
   items:
-  - name: Authentication
-    href: term/test/authentication
-  - name: Testing
-    href: term/test/testing
-- name: App Service
-  href: term/app-service
+  - name: Azure
+    href: videos/build/azure
+  - name: Dynamics 365
+    href: videos/build/dynamics-365
+  - name: Microsoft 365
+    href: videos/build/microsoft-365
+  - name: Microsoft Security
+    href: videos/build/microsoft-security
+  - name: Power Platform
+    href: videos/build/power-platform
+
+- name: Microsoft Ignite 2018
+  href: videos/ignite
   items:
-  - name: ASP.NET
-    href: term/app-service/asp-net
-  - name: Node.JS
-    href: term/app-service/node-js
-  - name: Web Api
-    href: term/app-service/web-api
-  - name: Web Server
-    href: term/app-service/web-server
-- name: Authentication (disambiguation)
-  href: term/authentication/disambiguation
-- name: Azure Active Directory AAD
-  href: term/aad
-  items:
-  - name: Active Directory
-    href: term/aad/active-directory
-  - name: Authentication
-    href: term/aad/authentication
-  - name: Authorization
-    href: term/aad/authorization
-  - name: Identity
-    href: term/aad/identity
-- name: Serverless
-  href: term/serverless
-  items:
-  - name: Azure Function
-    href: term/serverless/azure-function
-  - name: Connector
-    href: term/serverless/connector
-  - name: Logic App
-    href: term/serverless/logic-app
-  - name: Trigger
-    href: term/serverless/trigger
-- name: TLS/SSL
-  href: term/tls-ssl
-  items:
-  - name: Certificates
-    href: term/tls-ssl/certificates
-  - name: Cryptography
-    href: term/tls-ssl/cryptography
-  - name: Encryption
-    href: term/tls-ssl/encryption
-  - name: HTTPS
-    href: term/tls-ssl/https
-  - name: Secure Sockets Layer
-    href: term/tls-ssl/secure-sockets-layer
-  - name: SSL
-    href: term/tls-ssl/ssl
-  - name: TLS
-    href: term/tls-ssl/tls
-  - name: Transport Layer Security
-    href: term/tls-ssl/transport-layer-security
-- name: Yet another test topic
-  href: term/another-test
-  items:
-  - name: Authentication
-    href: term/another-test/authentication
-  - name: Test Again
-    href: term/another-test/test-again
+  - name: Azure
+    href: videos/ignite/azure
+  - name: Dynamics 365
+    href: videos/ignite/dynamics-365
+  - name: Microsoft 365
+    href: videos/ignite/microsoft-365
+  - name: Microsoft Security
+    href: videos/ignite/microsoft-security
+  - name: Power Platform
+    href: videos/ignite/power-platform
+
+
