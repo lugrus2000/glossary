@@ -1,18 +1,15 @@
-# Serverless and Node.js
+# Transforming Manufacturing, Energy & Utilities industries with Azure Stream Analytics
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L13?SFYT=true]
+*09 May 2018 23:45:00 @ Sheraton: Grand Ballroom A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3323?SFYT=true]
 
 ## Details
 
-<p>Watch Simona and Jeff as they discuss Serverless and Node.js at Build 2018</p> (00:25:02)
-
-*08 May 2018 21:45:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L13)
+<p>Handling IoT scale data for real-time analytics and low latency decision making requires specialized capabilities, on the network ‘Edge’ as well as the cloud. Azure Stream Analytics is uniquely positioned to help customers within the Manufacturing, Energy and Utilities industries . Attend this session and learn how features such as Stream Analytics on IoT Edge, Inline Anomaly detection and real-time Geospatial analytics can help you easily build and deploy end-2-end solutions and gain significant competitive advantages. We will also share the product roadmap and unveil some key new features.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:55:02)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/e7b7/7a5e013d-aca4-429c-b682-7135f3f6e7b7/C9L13_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/e7b7/7a5e013d-aca4-429c-b682-7135f3f6e7b7/C9L13_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/e7b7/7a5e013d-aca4-429c-b682-7135f3f6e7b7/C9L13.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_high.mp4) (169.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_mid.mp4) (126.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323.mp4) (60.0 MB)|

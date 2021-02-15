@@ -1,18 +1,15 @@
-# Machine Learning and AI for .NET
+# Connect Anything to Everything: Serverless Routing and Messaging with Event Grid
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2037?SFYT=true]
+*09 May 2018 01:00:00 @ Expo Hall Theater 3*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3509?SFYT=true]
 
 ## Details
 
-<p>There’s a lot of buzz and hype on AI, ML, deep-learning, Azure AI and cognitive services and so on, within Microsoft and the competition, and for good reasons!&nbsp;&nbsp; But, how can you easily learn about it without being a Data Scientist? This session will go over the various ways and solutions available to infuse AI into your existing .NET apps across connected and edge scenarios. This session will show you the multiple ways you can implement AI features on .NET apps, starting from a the easiest implementations (Cognitive Services in Azure and Azure ML) but also moving forward to more advanced and flexible scenarios based on the latest tools like Azure Workbench and the most important libraries like TensorFlow, CNTK and other AI approaches just being released to work with .NET like Tensor. Lastly,&nbsp; the session will also highlight some of the work that the .NET team is investing in to make AI an integral part of .NET!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-net">https://aka.ms/azft-net</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p> (00:18:23)
-
-*09 May 2018 01:00:00 @ Expo Hall Theater 2*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2037)
+<p>In this hands-on presentation, learn about the true value of Event Grid by seeing an example in action. You'll be able to understand what sets Event Grid apart from other services like Service Bus and messaging queues. Event Grid is an Azure service that routes events between endpoints. It provides support for virtually any existing Azure service from storage activity to serverless Azure Function calls. It also has support for custom end points. Instead of taking on the costly overhead of continuous polling in your applications, Event Grid will manage the events for you and publish them to your app when ready.&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (00:21:09)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/1460/4bc32222-c81b-4377-932b-1b8c76131460/THR2037_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/1460/4bc32222-c81b-4377-932b-1b8c76131460/THR2037_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/1460/4bc32222-c81b-4377-932b-1b8c76131460/THR2037.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509_high.mp4) (53.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509_mid.mp4) (40.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509.mp4) (21.0 MB)|

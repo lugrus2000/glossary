@@ -1,18 +1,15 @@
-# Designing for Fluent with Adobe XD and other design tools
+# Designing Inclusive Experiences to Maximize Reach and Satisfaction
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2420?SFYT=true]
+*08 May 2018 04:30:00 @ Expo Hall Theater 3*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2421?SFYT=true]
 
 ## Details
 
-Learn from Microsoft designers how they use Adobe XD, Sketch, and other design tools and resources to help them quickly go from concept to design. (00:18:35)
-
-*07 May 2018 22:00:00 @ Expo Hall Theater 3*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2420)
+Demystify accessibility by explaining what users need, what developers can do to meet those needs and how accessibility works (from an application through the platform to assistive technology) (00:20:40)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420.mp4)
+| |[Medium quality MP4](https://sec.ch9.ms/ch9/c864/b98d373a-05ea-45f1-9118-99ccf892c864/THR2421_mid.mp4) (41.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c864/b98d373a-05ea-45f1-9118-99ccf892c864/THR2421.mp4) (21.0 MB)|

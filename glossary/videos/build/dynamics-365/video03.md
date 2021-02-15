@@ -1,18 +1,15 @@
-# Explore Azure Cosmos DB
+# Secure and power the intelligent edge with Azure Sphere
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3511?SFYT=true]
+*09 May 2018 22:00:00 @ WSCC: Rooms 612*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3801?SFYT=true]
 
 ## Details
 
-<p>Learn how to harness the power of Azure Cosmos DB, a NoSQL document-based database that offers a true &quot;serverless data&quot; experience. In this session, Jeremy Likness will show you how to scale globally with point-and-click geo-replication and guaranteed single-digit latency. You'll learn how to &quot;choose your own API&quot; and be able to interact with Azure Cosmos DB using the SQL API, MongoDB, Gremlin (graph-based), Table Storage, and Cassandra APIs. You'll learn how to set up Azure Cosmos DB and build applications with demonstrations in .NET and .NET Core.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-cosmos">https://aka.ms/azft-cosmos</a></p> (00:20:41)
-
-*10 May 2018 00:30:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3511)
+<p>How about getting a close look into the new Azure Sphere solution by the team that developed it? This session will give you a unique introduction to the new Microsoft solution for creating highly-secured, Internet-connected microcontroller (MCU) devices. Not only will you learn about the hardware OS, and cloud service that make up Azure Sphere, but you will also learn how to develop Azure Sphere applications with Visual Studio and how to connect devices to Azure services.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:14:35)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/ed9f/7117a067-90d1-4cf7-9804-278c9efced9f/THR3511_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/ed9f/7117a067-90d1-4cf7-9804-278c9efced9f/THR3511_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/ed9f/7117a067-90d1-4cf7-9804-278c9efced9f/THR3511.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/2d5f/c103eccb-2c23-4abd-9083-7dca8b1f2d5f/BRK3801_high.mp4) (195.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2d5f/c103eccb-2c23-4abd-9083-7dca8b1f2d5f/BRK3801_mid.mp4) (149.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2d5f/c103eccb-2c23-4abd-9083-7dca8b1f2d5f/BRK3801.mp4) (77.0 MB)|

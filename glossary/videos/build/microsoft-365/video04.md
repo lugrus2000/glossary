@@ -1,18 +1,15 @@
-# if(dev)  { Insider(); }
+# Continuous, efficient & reliable testing with integrated reporting in CI/CD
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2428?SFYT=true]
+*09 May 2018 21:30:00 @ Expo Hall Theater 2*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2026?SFYT=true]
 
 ## Details
 
-“How do I get more people using my app and more feedback from my users?” This looks like a job for the #WindowsInsiders program! This session showcases some of the ways in which being an Insider helps you as a developer such as getting your app integrated into Feedback Hub, amplification of your app to our giant community, career coaching and our brand new, top-secret Cohorts-As-A-Service offering. You’ll also get to meet other Insider app devs and hear their stories of success. (00:18:05)
-
-*08 May 2018 03:00:00 @ Expo Hall Theater 3*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2428)
+<p>Continuous testing is integral to CI/CD. In this session we will show you how to easily run tests in the CI/CD pipeline, speed up test cycles, deal with test flakiness, get near real time test reporting &amp; debugging experience and identify top failing tests in Build and Release pipelines</p> (00:19:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_high.mp4) (58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026.mp4) (20.0 MB)|

@@ -1,18 +1,15 @@
-# Cognitive Search: Announcing the smartest enterprise search engine, now with cognitive skills!
+# Supercharge your debugging in Visual Studio 2017
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3201?SFYT=true]
+*09 May 2018 19:15:00 @ WSCC: Ballrooms 6C*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2148?SFYT=true]
 
 ## Details
 
-<p>Azure Search is now the smartest enterprise search engine! Come learn how you can use the new Cognitive Search feature to understand the content of your enterprise files, extract information and enrich it so that you can more quickly find the information and insights that you care about. We'll show demos, success stories and introduce the technical concepts to get you started.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p><div id="selenium-highlight">&nbsp;</div> (00:51:46)
-
-*09 May 2018 01:45:00 @ Sheraton: Willow AB*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3201)
+<p>Come to this all-demo session to learn how to make the most of the Visual Studio debugger. We’ll tour almost all of the debugger, throwing in tips and tricks as we go along, and also calling out what is brand new in the latest version of the debugger in Visual Studio 2017. Whatever your experience level, we guarantee you will learn something new about debugging!</p> (00:40:36)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/61b9/481e2dff-91be-4b30-8011-634beae961b9/BRK3201_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/61b9/481e2dff-91be-4b30-8011-634beae961b9/BRK3201_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/61b9/481e2dff-91be-4b30-8011-634beae961b9/BRK3201.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_high.mp4) (146.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_mid.mp4) (107.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148.mp4) (46.0 MB)|

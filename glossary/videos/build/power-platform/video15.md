@@ -1,18 +1,15 @@
-# Migrating and modernizing your data estate to Azure with Data Migration Services
+# Best Practices when using Microsoft Graph APIs platform capabilities AND How to query Microsoft Graph - tips and tricks
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2203?SFYT=true]
+*15 February 2021 21:37:47 @ *
+
+> [!VIDEO https://www.youtube.com/embed/XDzBMvcEj30]
 
 ## Details
 
-<p>Come learn all about Database Migration Service, and how anyone can utilize this service to migrate and modernize your data estate to fully managed services in Azure.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-migrate">https://aka.ms/azft-migrate</a></p> (01:22:58)
-
-*10 May 2018 01:30:00 @ Sheraton: Grand Ballroom D*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK2203)
+<p>Learn how to slice and dice the amount of data you can get Microsoft Graph, whether you are counting, expanding, filtering, ordering, searching, selecting, skipping and much more.</p> (00:08:11)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/34eb/ea9ee520-4364-44c0-b142-17e6af6334eb/BRK2203_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/34eb/ea9ee520-4364-44c0-b142-17e6af6334eb/BRK2203_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/34eb/ea9ee520-4364-44c0-b142-17e6af6334eb/BRK2203.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/5a1d/1a420a45-aba2-4756-ba9b-c5241f5c5a1d/THR5009_high.mp4) (73.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5a1d/1a420a45-aba2-4756-ba9b-c5241f5c5a1d/THR5009_mid.mp4) (26.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5a1d/1a420a45-aba2-4756-ba9b-c5241f5c5a1d/THR5009.mp4) (11.0 MB)|

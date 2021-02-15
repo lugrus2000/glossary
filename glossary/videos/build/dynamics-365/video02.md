@@ -1,18 +1,15 @@
-# Learn how to use the Microsoft Graph PHP SDK to build you next integration with Office 365
+# Technology Keynote: Microsoft Azure
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/LsO5WM7PFNU]
+*07 May 2018 19:00:00 @ WSCC: Hall 4EF*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/TK01?SFYT=true]
 
 ## Details
 
-<p>Learn how to use the Microsoft Graph PHP SDK to build you next integration with Office 365.</p> (00:10:02)
-
-*11 February 2021 20:11:09 @ *
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR5021)
+<p>Keynote.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:44:43)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/6e4b/255b04b7-55b6-4590-bb28-11937f806e4b/THR5021_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/6e4b/255b04b7-55b6-4590-bb28-11937f806e4b/THR5021_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/6e4b/255b04b7-55b6-4590-bb28-11937f806e4b/THR5021.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01_high.mp4) (2.0 GB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01_mid.mp4) (839.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01.mp4) (232.0 MB)|

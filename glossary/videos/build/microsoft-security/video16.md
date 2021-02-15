@@ -1,18 +1,15 @@
-# Interactive ad-hoc analysis at petabyte scale with HDInsight Interactive Query
+# Azure Functions and Microsoft Graph
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3312?SFYT=true]
+*09 May 2018 21:30:00 @ Expo Hall Theater 3*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3302?SFYT=true]
 
 ## Details
 
-In this session, you will learn how technologies such as Low Latency Analytical Processing [LLAP] and Hive 2.x are making it possible to analyze petabytes of data with sub second latency with common file formats such as csv, json etc. without converting to columnar file formats like ORC/Parquet. We will go deep into LLAP’s performance and architecture benefits and how it compares with Spark and Presto. We also look at how business analysts can use familiar tools such as Microsoft Excel and Power BI and do interactive query over their data lake without moving data outside the data lake. (01:14:59)
-
-*09 May 2018 01:45:00 @ WSCC: Rooms 615*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3312)
+<p>The Microsoft Graph connects data and insights across Microsoft technologies. In this session, we will develop against the Graph and build serverless applications with Azure Functions.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:24:09)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/cc01/e4ebf0c8-91a5-4dcd-a2d8-660c7bb1cc01/BRK3312_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/cc01/e4ebf0c8-91a5-4dcd-a2d8-660c7bb1cc01/BRK3312_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/cc01/e4ebf0c8-91a5-4dcd-a2d8-660c7bb1cc01/BRK3312.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/b4f7/bc61b012-5b92-4ecf-92a5-64d87b11b4f7/THR3302_high.mp4) (68.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b4f7/bc61b012-5b92-4ecf-92a5-64d87b11b4f7/THR3302_mid.mp4) (52.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b4f7/bc61b012-5b92-4ecf-92a5-64d87b11b4f7/THR3302.mp4) (25.0 MB)|

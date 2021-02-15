@@ -1,18 +1,15 @@
-# Using existing language skillsets to create large-scale, cloud-based analytics  
+# Microsoft AI overview for developers
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK4100?SFYT=true]
+*07 May 2018 22:00:00 @ WSCC: Ballrooms 6E*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3218?SFYT=true]
 
 ## Details
 
-<p>Data Scientists and Data Wranglers often have existing code that they would like to use at scale over large data sets. In this presentation we show how to meet your customers where they are, allowing them to take their existing Python, R, Java, code and libraries and existing formats --for example Parquet -- and apply them at scale to schematize unstructured data and process large amounts of data in Azure Data Lake with U-SQL. We will show how large customers meet the challenges of processing multiple cubes with data subsets to secure data for specific audiences using U-SQL partitioned output, making it easy to dynamically partition data for processing from Azure Data Lake.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:23:41)
-
-*10 May 2018 01:30:00 @ WSCC: Rooms 612*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK4100)
+<p>Building intelligent apps is something we know a little bit about, and we want to show you how you can do this today too! In this session,&nbsp;Harry&nbsp;Shum will cover the full landscape of the Microsoft AI capabilities, including how to infuse AI into your existing applications, how to do custom AI in any language, and how to scale your AI processes to the cloud and to the edge. Join us for the demo-filled survey of everything you can do with AI today.</p> (01:14:04)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_high.mp4) (325.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_mid.mp4) (232.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218.mp4) (95.0 MB)|

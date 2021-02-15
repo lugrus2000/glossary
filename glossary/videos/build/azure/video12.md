@@ -1,18 +1,15 @@
-# Multiplayer Server Scaling with Azure Container Instances
+# Excel APIs in Microsoft Graph
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3512?SFYT=true]
+*15 February 2021 21:37:09 @ *
+
+> [!VIDEO https://www.youtube.com/embed/B14rEr3KzX8]
 
 ## Details
 
-<p>There are few things more annoying to a gamer than trying to play an online multiplayer game where the backend servers are not up to the challenge of handling the onslaught of players, but a game whose multiplayer servers are constantly burning cycles with no one playing is costly and wasteful for the developer. In this session, we will explore one possible solution using Azure Container Instances, Event Grid, and Azure Functions to host a stateful, isolated multiplayer backend that is lightweight, automatically scales on demand, and is billed per second of usage. &nbsp;Using the open source game OpenArena as an example, we will create this scalable service from start to finish, and you will be able to run the OpenArena client on your own device and play against fellow attendees in real time, while the service scales as needed.</p><p>Source code: <a href="https://aka.ms/acimgmt">https://aka.ms/acimgmt</a></p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:22:46)
-
-*09 May 2018 20:00:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3512)
+<p>Learn about Excel service APIs available over Microsoft Graph to help your web and mobile solutions take advantage of Excel’s analysis and calculation power. Demo shows usage of Excel table filtering and reading of filtered view.&nbsp;</p> (00:08:44)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_high.mp4) (49.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_mid.mp4) (20.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008.mp4) (10.0 MB)|

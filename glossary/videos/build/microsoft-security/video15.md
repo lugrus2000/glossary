@@ -1,18 +1,15 @@
-# Real-World Solutions with PowerApps: Performance and optimization tips when building apps
+# Enabling a CI/CD pipeline for Azure DevOps Projects and VSTS for your existing ASP.NET 4 website
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3401?SFYT=true]
+*15 February 2021 21:37:39 @ *
+
+> [!VIDEO https://www.youtube.com/embed/_YGR9hOR_PI]
 
 ## Details
 
-Learn approaches and best practices from real apps built with PowerApps. In this session we will go over data loading patterns, asset optimizations, formula optimizations, and more. (00:19:26)
-
-*08 May 2018 22:00:00 @ Expo Hall Theater 2*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3401)
+<p>In this video, we walk you through setting up a CI/CD pipeline for your existing ASP.NET 4 app hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details &amp; to get started visit: https://aka.ms/DevOpsProjects.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-net">https://aka.ms/azft-net</a></p> (00:06:15)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/f838/7c3d1d6e-c260-4342-8bd6-e51cf566f838/THR3401_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/f838/7c3d1d6e-c260-4342-8bd6-e51cf566f838/THR3401_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/f838/7c3d1d6e-c260-4342-8bd6-e51cf566f838/THR3401.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/d673/90eea289-6c13-42a1-b8a8-3ef8aeaad673/THR5052_high.mp4) (66.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d673/90eea289-6c13-42a1-b8a8-3ef8aeaad673/THR5052_mid.mp4) (24.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d673/90eea289-6c13-42a1-b8a8-3ef8aeaad673/THR5052.mp4) (9.0 MB)|

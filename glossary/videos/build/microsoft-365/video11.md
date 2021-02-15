@@ -1,18 +1,15 @@
-# Seizing the Mixed Reality Revolution – A past, present and future Mixed Reality Partner perspective
+# Build smart productivity apps with the Microsoft Graph Java SDK  
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3504?SFYT=true]
+*15 February 2021 21:37:28 @ *
+
+> [!VIDEO https://www.youtube.com/embed/ZnTcmiQgS08]
 
 ## Details
 
-Mixed Reality with devices like the Microsoft HoloLens are turning science fiction movie technology into reality and changing how users interact with computers. It’s an amazing time to be a developer and we are shaping the future. Rene will share the journey when he and his team started in 2015 with the HoloLens and demonstrate some of their apps and share how they were able to overcome challenges. His best practices and recommendations will help you to avoid pit falls. He will also talk and demo exciting things to come with MR &#43; AI using on-device Deep Learning inference leveraging WinML and show you how to take your own Mixed Reality apps to the next level. (00:43:51)
-
-*08 May 2018 22:15:00 @ Sheraton: Metropolitan Ballroom B*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3504)
+<p>Learn how to get started using the Microsoft Graph Java SDK with an overview of the library and a demo of using the SDK to connect with OneNote and SharePoint.&nbsp;Try out the code yourself at https://github.com/cbales/onenote-content-push-java-graph-sample</p> (00:09:07)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/4ca2/04d19b90-f1f1-4586-b229-6d331ac64ca2/BRK3504_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/4ca2/04d19b90-f1f1-4586-b229-6d331ac64ca2/BRK3504_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/4ca2/04d19b90-f1f1-4586-b229-6d331ac64ca2/BRK3504.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003_high.mp4) (61.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003_mid.mp4) (25.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003.mp4) (10.0 MB)|

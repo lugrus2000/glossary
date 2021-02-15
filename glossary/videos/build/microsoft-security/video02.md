@@ -1,18 +1,15 @@
-# Computer Vision Made Easy: Consume or Build Your Own State-of-the-Art Models And Use Them Everywhere
+# Visual Studio Code Can Do That: Tips & Tricks
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3222?SFYT=true]
+*09 May 2018 19:15:00 @ WSCC: Ballrooms 6A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2136?SFYT=true]
 
 ## Details
 
-<p>From Cognitive Services computer vision APIs to Custom Vision Service to the new Azure ML Package for Computer Vision, Microsoft is making it practical for developers and data scientists to use computer vision in real world applications. This talk will cover tools for training and publishing custom computer vision models to the Cloud or Edge, as well as news about Cognitive Services Computer Vision API, OCR, Face API and Custom Vision Services.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (01:12:06)
-
-*09 May 2018 00:00:00 @ WSCC: Rooms 612*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3222)
+<p>Visual Studio Code is on fire. Everybody loves this unexpected text editor smash hit, and for good reason: it can do A LOT. It can compile JavaScript templates on the fly, execute JavaScript inline, manage Mongo DB instances and so much more! In this session, we’ll take a look at the most powerful features and plugins in Visual Studio Code, many of which, nobody knows about. John and Burke will walk you through some of their favorite tips, tricks, extensions and hacks. This is Visual Studio Code like you’ve never seen before.</p> (01:17:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/1e7b/22673b8e-8dc2-4902-a2a0-ee0bf8561e7b/BRK3222_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/1e7b/22673b8e-8dc2-4902-a2a0-ee0bf8561e7b/BRK3222_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/1e7b/22673b8e-8dc2-4902-a2a0-ee0bf8561e7b/BRK3222.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136_high.mp4) (260.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136_mid.mp4) (193.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136.mp4) (90.0 MB)|

@@ -1,18 +1,15 @@
-# Ignite: Day 2 Intro
+# Talking with SRE
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/96TSoC9aCxk]
+*26 September 2018 19:45:00 @ Channel 9 Stage*
+
+> [!VIDEO https://www.youtube.com/embed/YBBbT7oKPfQ]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:48)
-
-*25 September 2018 14:45:00 @ Channel 9 Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Ignite/2018/Ignite-Day-2-Intro)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:43)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/0f71/1d352f6f-92c6-41d3-a57e-ca2704ea0f71/ch9d2intro_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/0f71/1d352f6f-92c6-41d3-a57e-ca2704ea0f71/ch9d2intro_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/0f71/1d352f6f-92c6-41d3-a57e-ca2704ea0f71/ch9d2intro.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/18f8/a7edaac1-dc88-4389-8719-6c45efe218f8/ch9d3s05v2_high.mp4) (450.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/18f8/a7edaac1-dc88-4389-8719-6c45efe218f8/ch9d3s05v2_mid.mp4) (288.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/18f8/a7edaac1-dc88-4389-8719-6c45efe218f8/ch9d3s05v2.mp4) (63.0 MB)|

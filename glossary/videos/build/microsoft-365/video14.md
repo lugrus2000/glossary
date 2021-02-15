@@ -1,18 +1,15 @@
-# Building performant and re-engaging web apps with Service Worker
+# Building Custom AI Models on Azure using TensorFlow and Keras
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2404?SFYT=true]
+*08 May 2018 19:30:00 @ WSCC: Rooms 612*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3704?SFYT=true]
 
 ## Details
 
-Learn about the building blocks of creating an offline-enabled and re-engaging Progressive Web App: Service Worker, Push, Fetch, and Cache. We'll cover each of these web features and how they provide performance benefits and help maintain functionality even under poor network conditions as well as how to bring users back via push notifications. (01:02:57)
-
-*09 May 2018 00:00:00 @ WSCC: Ballrooms 6A*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK2404)
+<p>&nbsp;Learn how to simplify your Machine Learning workflow by using the experimentation, model management, and deployment services from AzureML. &nbsp;We'll demonstrate a real-world machine learning scenario using TensorFlow and Keras. &nbsp;You'll walk away with a clear picture of each of the AzureML services and the supporting Cloud AI infrastructure.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:30:09)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/e0f7/091048e9-0f59-43e2-a814-5516eff8e0f7/BRK3704_high.mp4) (288.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e0f7/091048e9-0f59-43e2-a814-5516eff8e0f7/BRK3704_mid.mp4) (213.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e0f7/091048e9-0f59-43e2-a814-5516eff8e0f7/BRK3704.mp4) (102.0 MB)|

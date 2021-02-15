@@ -1,18 +1,15 @@
-# Rapidly Construct LOB Applications with UWP and Visual Studio 2017
+# Query Processing Innovations for data intensive, modern applications
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3502?SFYT=true]
+*09 May 2018 22:00:00 @ Sheraton: Grand Ballroom A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3316?SFYT=true]
 
 ## Details
 
-<p>Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017. In this session we'll show you some tips and tricks in Visual Studio to accelerate your application development, as well as some new features in Windows 10 that can empower your applications to promote productivity in your businesses.</p> (01:21:05)
-
-*09 May 2018 23:45:00 @ Sheraton: Metropolitan Ballroom B*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3502)
+<p>Learn how your application can benefit from new capabilities in the Azure SQL Database and SQL Server platform, including graph data processing to model complex relationships between objects, and advanced self-tuning query processing to solve or avoid performance related problems.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-sql">https://aka.ms/azft-sql</a></p> (01:18:57)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/64fd/49b1abe6-eade-4626-9bca-4e5b2c7264fd/BRK3502_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/64fd/49b1abe6-eade-4626-9bca-4e5b2c7264fd/BRK3502_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/64fd/49b1abe6-eade-4626-9bca-4e5b2c7264fd/BRK3502.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/54c6/5b9f2a4e-8252-4c08-a5b3-9c5b735f54c6/BRK3316_high.mp4) (207.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/54c6/5b9f2a4e-8252-4c08-a5b3-9c5b735f54c6/BRK3316_mid.mp4) (157.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/54c6/5b9f2a4e-8252-4c08-a5b3-9c5b735f54c6/BRK3316.mp4) (81.0 MB)|

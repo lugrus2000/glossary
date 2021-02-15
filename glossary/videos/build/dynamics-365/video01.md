@@ -1,18 +1,15 @@
-# Day 2 Recap with Jeff and Charlotte
+# Digital Transformation at Starbucks
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L15?SFYT=true]
+*08 May 2018 19:30:00 @ WSCC: Rooms 615*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2516?SFYT=true]
 
 ## Details
 
-<p>Watch Jeff and Charlotte recount the most important news from day 2 of Build 2018</p> (00:27:50)
-
-*09 May 2018 01:15:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L15)
+Digital Transformation is a common phrase across the technology industry today, but what does it really mean? Join leaders from application development, data engineering, and DevOps to hear what it means at Starbucks, and learn how the company is leveraging cloud computing to drive next-generation experiences for customers and partners. (00:42:28)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/2f2b/131aedcc-4f56-4018-8ffe-b3f514692f2b/C9L15_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/2f2b/131aedcc-4f56-4018-8ffe-b3f514692f2b/C9L15_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/2f2b/131aedcc-4f56-4018-8ffe-b3f514692f2b/C9L15.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516_high.mp4) (126.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516_mid.mp4) (92.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516.mp4) (43.0 MB)|

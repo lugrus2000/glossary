@@ -1,18 +1,15 @@
-# A Conversation with Azure CTO, Mark Russinovich
+# Battledecks: Ignite Edition
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/aDxFfpPRZvo]
+*28 September 2018 18:00:00 @ Channel 9 Stage*
+
+> [!VIDEO https://www.youtube.com/embed/gHJmM8Zz8rE]
 
 ## Details
 
-<p>Live Q&amp;A with the CTO of Azure, Mark Russinovich at Microsoft Ignite 2018.</p> (00:30:29)
-
-*26 September 2018 21:30:00 @ Channel 9 Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Ignite/2018/A-Conversation-with-Azure-CTO-Mark-Russinovich)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:51)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_high.mp4) (480.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_mid.mp4) (141.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition.mp4) (43.0 MB)|

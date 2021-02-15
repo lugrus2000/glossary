@@ -1,18 +1,15 @@
-# Multiplayer Server Scaling with Azure Container Instances
+# What's new with Azure Machine Learning
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3512?SFYT=true]
+*09 May 2018 19:15:00 @ Sheraton: Grand Ballroom C*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3226?SFYT=true]
 
 ## Details
 
-<p>There are few things more annoying to a gamer than trying to play an online multiplayer game where the backend servers are not up to the challenge of handling the onslaught of players, but a game whose multiplayer servers are constantly burning cycles with no one playing is costly and wasteful for the developer. In this session, we will explore one possible solution using Azure Container Instances, Event Grid, and Azure Functions to host a stateful, isolated multiplayer backend that is lightweight, automatically scales on demand, and is billed per second of usage. &nbsp;Using the open source game OpenArena as an example, we will create this scalable service from start to finish, and you will be able to run the OpenArena client on your own device and play against fellow attendees in real time, while the service scales as needed.</p><p>Source code: <a href="https://aka.ms/acimgmt">https://aka.ms/acimgmt</a></p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:22:46)
-
-*09 May 2018 20:00:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3512)
+<p>In September, we launched a huge set of updates for Azure Machine Learning to let you manage the end to end lifecycle of Machine Learning Development. We made it easy to scale to the cloud, deploy through containers to the cloud and the edge, use great frameworks like Tensorflow, PyTorch, Scikit, and more, and gave you a great monitoring and management experience. 7 months later, we're back to update you on the next wave of ML capabilities that will be at your fingertips to make it faster to build models, even easier to scale, more deployment options, and a few more things we're pretty excited to share with you. In this session, you'll learn how you can easily use Azure Machine Learning to build and deploy models for any of your applications.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (01:07:31)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226_high.mp4) (189.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226_mid.mp4) (142.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226.mp4) (73.0 MB)|

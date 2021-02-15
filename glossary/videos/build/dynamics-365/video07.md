@@ -1,18 +1,15 @@
-# Cognitive Services - Discover Bing Visual Search & Developer Platform
+# Azure Tips and Tricks: Become more productive with azure in 20 minutes
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3116?SFYT=true]
+*07 May 2018 23:00:00 @ Expo Hall Theater 2*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2003?SFYT=true]
 
 ## Details
 
-<p>Learn about building visually compelling applications using Bing’s intelligent image understanding capabilities. Through Bing Visual Search API, you can interpret visual content to find related products or images, read business cards, identify barcodes, find web-source of the image, or recognize popular artwork, monuments, celebrities, and common objects. Further, by using the Bing Visual Search Developer Platform, you can extend and customize these capabilities to suit your business needs. Finally, learn how your customized visual search skills can be surfaced across a wide set of Microsoft’s products and services to bring new insights and task completion to users through visual search.</p> (00:23:35)
-
-*08 May 2018 22:30:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3116)
+<p>Spend 20 minutes in this fast-faced, demo-heavy talk with CDA Cecil Philips and PM Michael Crump, that will take you through some of my long-standing favorite Azure tips and tricks, as well as introduce you to some that have already been there. Whether you’re interested in quick ways to navigate the Azure Portal, making the most of the Azure CLI, or working with IDE and editors, there’s something for everyone. Spend 20 minutes now to shave hours off your coding tasks tomorrow.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:26:40)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/c598/177e71a4-222c-4bdc-8b99-a25cc7f5c598/THR3116_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/c598/177e71a4-222c-4bdc-8b99-a25cc7f5c598/THR3116_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/c598/177e71a4-222c-4bdc-8b99-a25cc7f5c598/THR3116.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_high.mp4) (93.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_mid.mp4) (67.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003.mp4) (31.0 MB)|

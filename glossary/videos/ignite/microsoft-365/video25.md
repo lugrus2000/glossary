@@ -1,18 +1,15 @@
-# What's New in Visual Studio Code
+# Interview with Microsoft CVP Corey Sanders
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
+*25 September 2018 16:15:00 @ Channel 9 Stage*
+
+> [!VIDEO https://www.youtube.com/embed/TyHi1mSgEKo]
 
 ## Details
 
-<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
-
-*25 September 2018 18:15:00 @ Channel 9 Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Ignite/2018/Whats-New-in-Visual-Studio-Code)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:22:51)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_high.mp4) (139.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_mid.mp4) (82.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01.mp4) (26.0 MB)|

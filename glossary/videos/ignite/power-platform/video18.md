@@ -1,18 +1,15 @@
-# Battledecks: Ignite Edition
+# Interview with Microsoft CVP Corey Sanders
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/gHJmM8Zz8rE]
+*25 September 2018 16:15:00 @ Channel 9 Stage*
+
+> [!VIDEO https://www.youtube.com/embed/TyHi1mSgEKo]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:51)
-
-*28 September 2018 18:00:00 @ Channel 9 Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Ignite/2018/Battledecks-Ignite-Edition)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:22:51)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_high.mp4) (139.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_mid.mp4) (82.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01.mp4) (26.0 MB)|

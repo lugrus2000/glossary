@@ -1,18 +1,15 @@
-# Continuous Monitoring for DevOps with Azure Application Insights & Log Analytics
+# What’s new with Cortana and the Skills Kit
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2143?SFYT=true]
+*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3236?SFYT=true]
 
 ## Details
 
-<p>Continuous monitoring through your entire DevOps life cycle can lead to better collaboration between Dev and Ops and help you optimize the user experience every step of the way, leaving more time for your next big innovation. Find out how you can integrate the experience across Dev and Ops, addressing the needs of application owners, IT pros and DevOps. Discover how monitoring solutions from Microsoft come together to help you manage, identify, understand, and resolve problems in your web apps and services. Azure Monitor with Application Insights and Log Analytics can help you close the loop between development and operations and fix issues faster with data and insights captured directly in production.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:23:39)
-
-*09 May 2018 01:45:00 @ WSCC: Ballrooms 6C*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK2143)
+Cortana is Microsoft’s personal digital assistant used by over 140 million people. In this session, we will cover how you as a developer can extend Cortana’s capabilities to interact with users via the Cortana Skills Kit. Learn about some of the exciting new features added to Cortana and the Skills Kit over the past year and things to come soon. (00:46:45)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_high.mp4) (120.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_mid.mp4) (4.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236.mp4) (47.0 MB)|

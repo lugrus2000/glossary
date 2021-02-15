@@ -1,18 +1,15 @@
-# AI Platform
+# Conversational AI: What's New?
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L03?SFYT=true]
+*09 May 2018 17:30:00 @ WSCC: Ballrooms 6B*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3232?SFYT=true]
 
 ## Details
 
-<p>Watch Seth, Eric and Chris discuss all things Artificial Intelligence.</p> (00:29:12)
-
-*07 May 2018 21:00:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L03)
+<p>Companies across the globe are laying out visions for their digital transformation, and Conversational AI is key part of that vision. In this session, we will share customer success stories on Conversational AI, cover what's new with Azure Bot Service and Microsoft's Conversational AI tools that span end-to-end bot development workflow, and share the roadmap for what's ahead.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:15:30)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/547d/926e8b4a-6804-43da-b85b-a6b48ca2547d/C9L03_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/547d/926e8b4a-6804-43da-b85b-a6b48ca2547d/C9L03_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/547d/926e8b4a-6804-43da-b85b-a6b48ca2547d/C9L03.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232_high.mp4) (215.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232_mid.mp4) (162.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232.mp4) (81.0 MB)|

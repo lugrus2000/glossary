@@ -1,18 +1,15 @@
-# Supercharge your debugging in Visual Studio 2017
+# Overview of Visual Studio and Unity
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2148?SFYT=true]
+*08 May 2018 03:30:00 @ Expo Hall Theater 2*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2018?SFYT=true]
 
 ## Details
 
-<p>Come to this all-demo session to learn how to make the most of the Visual Studio debugger. We’ll tour almost all of the debugger, throwing in tips and tricks as we go along, and also calling out what is brand new in the latest version of the debugger in Visual Studio 2017. Whatever your experience level, we guarantee you will learn something new about debugging!</p> (00:40:36)
-
-*09 May 2018 19:15:00 @ WSCC: Ballrooms 6C*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK2148)
+2018 is an exciting year for Unity developers as Unity 2018.1 finally supports .NET 4.6 and C# 6. This session will be the opportunity to learn how to benefit from a modern ecosystem in your Unity game. We’ll also look at all the new features in the Visual Studio Tools for Unity we’re building to improve your productivity! (00:10:24)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018_high.mp4) (18.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018_mid.mp4) (13.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018.mp4) (7.0 MB)|

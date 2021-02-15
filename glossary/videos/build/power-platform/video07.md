@@ -1,18 +1,15 @@
-# What's new on Microsoft Graph
+# Expediting Contract Negotiation in Icertis Using Microsoft Teams
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/3X10r2VVLCg]
+*08 May 2018 05:00:00 @ Expo Hall Theater 3*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2449?SFYT=true]
 
 ## Details
 
-<p>Learn what is Microsoft Graph, how to use it and what are the new capabilities and data added in the last year.</p> (00:12:39)
-
-*11 February 2021 20:11:44 @ *
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR5011)
+Join us to know how Icertis leveraged Microsoft Teams’ platform to collaborate around contracts to improve overall negotiation process on contracts. Collaboration is the single most factor that can improve the overall cycle time of contracts. Learn how Icertis leverages Microsoft Teams platform and Office365 Add-ins to provide visibility to authorized parties for real time collaboration. (00:21:03)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011.mp4)
+| |[Medium quality MP4](https://sec.ch9.ms/ch9/8059/22b08bfb-10bb-4f23-8c13-9d8648168059/THR2449_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8059/22b08bfb-10bb-4f23-8c13-9d8648168059/THR2449.mp4) (22.0 MB)|

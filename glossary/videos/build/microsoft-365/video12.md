@@ -1,18 +1,15 @@
-# Modernizing Desktop Apps on Windows 10 
+# MSIX: Inside and Out
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L12?SFYT=true]
+*08 May 2018 01:30:00 @ WSCC: Rooms 612*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2432?SFYT=true]
 
 ## Details
 
-<p>In this video, Tim interviews Mike Harsh about LOB and Hybrid/UWP Win 32.</p> (00:22:35)
-
-*08 May 2018 21:15:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L12)
+MSIX is the future of app installation building on top of and fully compatible with existing appx mechanisms. It provides a cross-platform, down level compliant, enterprise class installer with benefits ranging from existing LOB apps, distribution through the Microsoft Store, Store for Business, or other custom distribution methods. Come see why MSIX brings the best of MSI, Click Once, App-V and APPX together for your customers and business. (01:16:35)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/27b3/fea5172b-a334-496e-90fc-37207f1e27b3/C9L12_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/27b3/fea5172b-a334-496e-90fc-37207f1e27b3/C9L12_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/27b3/fea5172b-a334-496e-90fc-37207f1e27b3/C9L12.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432_high.mp4) (137.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432_mid.mp4) (142.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432.mp4) (78.0 MB)|

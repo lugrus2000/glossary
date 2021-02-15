@@ -1,18 +1,15 @@
-# Train your Computer Vision model in the cloud and export it to run anywhere
+# You Can’t Start a Fire Without a Spark: AI for Accessibility
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3106?SFYT=true]
+*09 May 2018 19:15:00 @ Sheraton: Grand Ballroom B*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2601?SFYT=true]
 
 ## Details
 
-CustomVision.ai makes it easy to train your model in the cloud, then easily export it to containers that can run anywhere. Join us to also learn about exporting via ONNX format, and using your Custom Vision model in a variety of apps. (00:22:37)
-
-*09 May 2018 02:00:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3106)
+<p>The world is brimming with innovative and impactful projects related to people with disabilities, and Microsoft can help you to bring those ideas to the next level with our advanced tools and platforms. Artificial Intelligence (AI) has the power to amplify human capability and bring new solutions to people with disabilities, and we want to join you on this journey towards more inclusive technologies. This is a call out to the makers, DIY-ers, innovators, and passionate advocates for disability inclusion and accessibility. The future is ready for you.</p> (01:08:56)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/9d49/ca3bbb21-8478-4d2f-854f-155072f69d49/BRK2601_high.mp4) (280.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9d49/ca3bbb21-8478-4d2f-854f-155072f69d49/BRK2601_mid.mp4) (201.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9d49/ca3bbb21-8478-4d2f-854f-155072f69d49/BRK2601.mp4) (87.0 MB)|

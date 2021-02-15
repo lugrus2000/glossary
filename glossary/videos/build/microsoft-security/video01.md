@@ -1,18 +1,15 @@
-# Why you should use F# (Part 2)
+# Azure IoT Edge: a breakthrough platform and service running cloud intelligence on any device.
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2025-2?SFYT=true]
+*08 May 2018 01:30:00 @ WSCC: Ballrooms 6A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3802?SFYT=true]
 
 ## Details
 
-<p>F# is a functional programming language that runs on .NET. It is a perfect fit for developing backend services on .NET Core, modeling complex domains, and dealing with difficult data access problems. In fact, it powers the backends of some of our top customers in Azure!</p><p>This is a two part video that was merged into one, to optimize time, as follows:</p><p>Part 1:<br>In this talk, we'll introduce F# on .NET Core while walking through its benefits, talk about the excellent support it has across multiple tools, and show how it's a perfect fit for your next backend service. Come see what F# has to offer you!</p><p>Part 2:<br>In this talk, we'll take an existing F# web service running on .NET Core and refactor it to work other projects. If you're familiar with F# or attended the first F# session, come see how you can take F# another step further!</p><p><br>Create a Free Account (Azure): <a href="https://aka.ms/azft-oss">https://aka.ms/azft-oss</a></p> (01:05:10)
-
-*08 May 2018 02:00:00 @ Expo Hall Theater 2*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2025-2)
+<p>The holy grail of the Internet of Things is the ability to easily distribute the intelligence of your application across the Cloud and the Edge. Being able to run analytics, AI or store data at the Edge addresses many common and key IoT scenarios. Come learn how to easily create deployments for IoT devices that include AI, Machine Learning, Stream Analytics, as well as your own custom code on devices smaller than a Raspberry PI.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:21:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/3914/0ea59f83-9028-4fcb-9e73-efbdc6ed3914/THR2025-2_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/3914/0ea59f83-9028-4fcb-9e73-efbdc6ed3914/THR2025-2_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/3914/0ea59f83-9028-4fcb-9e73-efbdc6ed3914/THR2025-2.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/f793/38a139e2-e1ba-43f3-ade4-73ffbeccf793/BRK3802_high.mp4) (288.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/f793/38a139e2-e1ba-43f3-ade4-73ffbeccf793/BRK3802_mid.mp4) (205.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/f793/38a139e2-e1ba-43f3-ade4-73ffbeccf793/BRK3802.mp4) (89.0 MB)|

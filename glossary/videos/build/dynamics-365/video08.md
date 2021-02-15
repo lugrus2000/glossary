@@ -1,18 +1,15 @@
-# Develop scalable Web Apps with Azure Database for MySQL and MariaDB
+# Share code and collaborate on your next project using Git and pull requests hosted by VSTS
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3307?SFYT=true]
+*15 February 2021 21:37:17 @ *
+
+> [!VIDEO https://www.youtube.com/embed/J_DHkUKxI0E]
 
 ## Details
 
-<p>Building a secure Web App on Azure has never been easier!. If you want to build a website using Wordpress, host an e-commerce site, or any Web App with LAMP stack, and want a database that is self-managed, look no further than Azure Database for MySQL and MariaDB services. These intelligent, fully managed database services provide built-in high availability and security with elastic scaling that helps you save costs, even compared to running on IaaS VM. Learn about these database services and discover how you can take advantage of these capabilities with a session that is focused on building an app with these databases.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-sql">https://aka.ms/azft-sql</a></p> (01:22:36)
-
-*09 May 2018 19:15:00 @ Sheraton: Willow AB*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3307)
+<p>This video introduces Visual Studio Code developers on how to start collaborating using code review for Git powered by Visual Studio Team Services (VSTS). You'll learn how to create a pull request, how your teammates suggested changes enable you to commit your code to master, and how to complete the pull request to make it available to your full team when it's fully ready. For more information see our documentation: https://docs.microsoft.com/en-us/vsts/git/overview?view=vsts</p> (00:05:59)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/963b/8807e97f-8340-4a6a-9649-705e6804963b/BRK3307_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/963b/8807e97f-8340-4a6a-9649-705e6804963b/BRK3307_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/963b/8807e97f-8340-4a6a-9649-705e6804963b/BRK3307.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062_high.mp4) (19.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062_mid.mp4) (11.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062.mp4) (6.0 MB)|

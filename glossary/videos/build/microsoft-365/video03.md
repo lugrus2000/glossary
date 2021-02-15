@@ -1,18 +1,15 @@
-# Distribute your apps to millions of users via AppSource
+# Hybrid multi-cloud strategies using Terraform OSS with Azure
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR1201?SFYT=true]
+*09 May 2018 22:00:00 @ Sheraton: Willow AB*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2121?SFYT=true]
 
 ## Details
 
-Learn how to package apps and custom extensions for PowerApps and distribute them via AppSource within your organization or to over 120M monthly active users across Office 365 and Dynamics 365. Ready your custom solutions for everyone to leverage. (00:19:05)
-
-*09 May 2018 18:30:00 @ Expo Hall Theater 2*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR1201)
+<p>85% of enterprises have a multi-cloud strategy. Terraform is emerging as the open source standard to provision infrastructure as code across Azure and providers beyond the Azure boundary. This session will help you understand Terraform and how it helps Azure fit into your multi-cloud strategy, meeting you where you are . We will also show you native integrations between Terraform and a set of technologies such as Kubernetes, VM Scale Sets, CloudShell, Managed Service Identity, Visual Studio Code, Yeoman Generators, etc that make Azure the best destination to author, test and use Terraform based infra as code.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-oss">https://aka.ms/azft-oss</a></p> (01:17:17)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/9803/59cdfde6-e3e4-45f0-a335-51ef18f99803/THR1201_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/9803/59cdfde6-e3e4-45f0-a335-51ef18f99803/THR1201_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/9803/59cdfde6-e3e4-45f0-a335-51ef18f99803/THR1201.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_high.mp4) (246.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_mid.mp4) (184.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121.mp4) (88.0 MB)|

@@ -1,4 +1,4 @@
-# Azure @ Microsoft Build 2018
+# Microsoft Build 2018
 
 Microsoft's ultimate developer conference focused on cloud, artificial intelligence, mixed reality, and more.
 
@@ -6,28 +6,30 @@ Microsoft's ultimate developer conference focused on cloud, artificial intellige
 
 |    |    |    |
 |:--:|:--:|:--:|
-|[![Cognitive Search: Announcing the smartest enterprise search engine, now with cognitive skills!](https://sec.ch9.ms/ch9/61b9/481e2dff-91be-4b30-8011-634beae961b9/BRK3201_220.jpg)](./video01.md)|[![Learn how to use the Microsoft Graph PHP SDK to build you next integration with Office 365](https://sec.ch9.ms/ch9/6e4b/255b04b7-55b6-4590-bb28-11937f806e4b/THR5021_220.jpg)](./video02.md)|[![Rebuilding for the cloud: Reinventing revenue reporting at Microsoft](https://sec.ch9.ms/ch9/018b/b1289e08-a81d-4bf0-9bd7-bcd370cc018b/THR2508_220.jpg)](./video03.md)|
-|<p>Azure Search is now the smartest enterprise sea...|<p>Learn how to use the Microsoft Graph PHP SDK to...|<p>Follow Microsoft’s journey to redesign its inte...|
-|[![Machine Learning and AI for .NET](https://sec.ch9.ms/ch9/1460/4bc32222-c81b-4377-932b-1b8c76131460/THR2037_220.jpg)](./video04.md)|[![Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://sec.ch9.ms/ch9/64fd/49b1abe6-eade-4626-9bca-4e5b2c7264fd/BRK3502_220.jpg)](./video05.md)|[![Making the case for Inclusive Design](https://sec.ch9.ms/ch9/9826/881a5346-e079-4ad9-8662-df516e4f9826/BRK2502_220.jpg)](./video06.md)|
-|<p>There’s a lot of buzz and hype on AI, ML, deep-...|<p>Let's build an LOB focused, data-dense applicat...|As technologists, we often start with what’s famil...|
+|**Supercharge your debugging in Visual Studio 2017**|**Microservices and Serverless with Azure and Visual Studio Code**|**Building Apps and Services for Azure Marketplace and AppSource**|
+|[![Supercharge your debugging in Visual Studio 2017](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_220.jpg)](./video01.md)|[![Microservices and Serverless with Azure and Visual Studio Code](https://sec.ch9.ms/ch9/28b6/f9bdceb2-ff01-478f-9432-18239ab828b6/THR2039_220.jpg)](./video02.md)|[![Building Apps and Services for Azure Marketplace and AppSource](https://sec.ch9.ms/ch9/0ac6/2ab8eb99-ca8b-4b5f-a392-b0061b5a0ac6/BRK2513_220.jpg)](./video03.md)|
+|<p>Come to this all-demo session to learn how to make the most of the Visual Stu...|<p>Visual Studio Code is our lightweight, open source editor with an extensibili...|<p>Azure Marketplace and AppSource offer a new set of capabilities that will all...|
+|**Connect Anything to Everything: Serverless Routing and Messaging with Event Grid**|**Query Processing Innovations for data intensive, modern applications**|**Visual Studio Futures: IntelliCode and Live Share**|
+|[![Connect Anything to Everything: Serverless Routing and Messaging with Event Grid](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509_220.jpg)](./video04.md)|[![Query Processing Innovations for data intensive, modern applications](https://sec.ch9.ms/ch9/54c6/5b9f2a4e-8252-4c08-a5b3-9c5b735f54c6/BRK3316_220.jpg)](./video05.md)|[![Visual Studio Futures: IntelliCode and Live Share](https://sec.ch9.ms/ch9/0de0/56b79ee0-9fd8-4099-9075-5512e7090de0/Build2018AmandaSilverIntelliCode_220.jpg)](./video06.md)|
+|<p>In this hands-on presentation, learn about the true value of Event Grid by se...|<p>Learn how your application can benefit from new capabilities in the Azure SQL...|<p>Brian Clark sits down with Amanda Silver to talk about the future of Visual S...|
 
 ## Day 1
 
 |    |   |
 |:--:|:--|
-|[![Supercharge your debugging in Visual Studio 2017](https://sec.ch9.ms/ch9/590d/c05000f4-f361-482a-ad06-3ee0bc1b590d/BRK2148_220.jpg)](./video07.md)|<p>Come to this all-demo session to learn how to make the most of the Visual Studio debugger. We’ll tour almost all of the debugge...|
-|[![Work with files everywhere: Store files, extend user experiences, and build business processes](https://sec.ch9.ms/ch9/66ab/21ff9538-ef0f-4979-ac3e-70e8ee3266ab/THR2442_220.jpg)](./video08.md)|Every app works with and store files in some form or another. Learn everythign you need to know on how to read, write, and extend ...|
-|[![AI Platform](https://sec.ch9.ms/ch9/547d/926e8b4a-6804-43da-b85b-a6b48ca2547d/C9L03_220.jpg)](./video09.md)|<p>Watch Seth, Eric and Chris discuss all things Artificial Intelligence.</p>|
-|[![Azure Tips and Tricks: Become more productive with azure in 20 minutes](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_220.jpg)](./video10.md)|<p>Spend 20 minutes in this fast-faced, demo-heavy talk with CDA Cecil Philips and PM Michael Crump, that will take you through so...|
-|[![Achieving Scale with HoloLens and BIM: Designing for interactions with large construction simulation models](https://sec.ch9.ms/ch9/a942/f4c11b28-f3e6-4564-a96a-c973dc63a942/THR2405_220.jpg)](./video11.md)|<p>The adoption of Building Information Modeling (BIM) has led to an explosion of 3D model content. These models are highly detail...|
+|[![Overview of Visual Studio and Unity](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018_220.jpg)](./video07.md)|2018 is an exciting year for Unity developers as Unity 2018.1 finally supports .NET 4.6 and C# 6. This session will be the opportu...|
+|[![Cloud Migration App Development](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev_220.jpg)](./video08.md)|<p>In this interview, Seth connects with Rohan Kumar and Corey Sanders to discuss cloud migration application development.</p>|
+|[![Conversational AI: What's New?](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232_220.jpg)](./video09.md)|<p>Companies across the globe are laying out visions for their digital transformation, and Conversational AI is key part of that v...|
+|[![High Fidelity Simulations: The Critical Path to Real-World AI](https://sec.ch9.ms/ch9/e905/344fd49a-e882-4eb0-b5b1-4fd6d864e905/THR3130_220.jpg)](./video10.md)|Developing and testing real-world AI is an expensive and time consuming process. Machine Learning is one of the key component that...|
+|[![Authentication in Apps for Microsoft Teams](https://sec.ch9.ms/ch9/597e/5d6964c2-292b-4228-bb39-1619e0cc597e/THR5023_220.jpg)](./video11.md)|<p>In this video, Joshua Trick walks through various authentication flows for an app in Microsoft Teams. He demonstrates a tab tha...|
 
 ## Day 2
 
 |    |   |
 |:--:|:--|
-|[![Multiplayer Server Scaling with Azure Container Instances](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_220.jpg)](./video12.md)|<p>There are few things more annoying to a gamer than trying to play an online multiplayer game where the backend servers are not ...|
-|[![Using existing language skillsets to create large-scale, cloud-based analytics  ](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_220.jpg)](./video13.md)|<p>Data Scientists and Data Wranglers often have existing code that they would like to use at scale over large data sets. In this ...|
-|[![OneNote APIs in Microsoft Graph](https://sec.ch9.ms/ch9/fede/1f3eee20-c2f5-4677-9dae-31b13a72fede/THR5018_220.jpg)](./video14.md)|<p>Gary Neitzke and Manjusha Mangaonkar discuss what’s new OneNote API and Microsoft Graph with a demo showing you how to get star...|
-|[![OneDrive and SharePoint APIs in Microsoft Graph](https://sec.ch9.ms/ch9/0a9f/3ec8df6a-f61b-45eb-8195-8ef2b1cd0a9f/THR5027_220.jpg)](./video15.md)|<p>Learn how OneDrive, OneDrive for Business, and SharePoint let you use Microsoft Graph to access files and sites, enabling your ...|
-|[![ISV Showcase: End-to-end Machine Learning using H2O on Azure](https://sec.ch9.ms/ch9/cd4c/e0bc8b8d-f24a-4a68-9db8-c55b4d70cd4c/THR3203_220.jpg)](./video16.md)|<p>H2O’s AI platform provides open source machine learning framework that works with sparklyr and PySpark. H2O’s Sparkling Water a...|
+|[![Excel APIs in Microsoft Graph](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_220.jpg)](./video12.md)|<p>Learn about Excel service APIs available over Microsoft Graph to help your web and mobile solutions take advantage of Excel’s a...|
+|[![How to incorporate data classification capabilities within your application](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414_220.jpg)](./video13.md)|<p>Learn how to utilize the capabilities of the Information Protection SDK to classify, label and protect your unstructured data w...|
+|[![Designing for Fluent with Adobe XD and other design tools](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420_220.jpg)](./video14.md)|Learn from Microsoft designers how they use Adobe XD, Sketch, and other design tools and resources to help them quickly go from co...|
+|[![Building secure cloud apps – lessons learned from Microsoft’s internal security and software engineering teams](https://sec.ch9.ms/ch9/f0da/d98fc12c-47d7-48e7-9592-e92e9660f0da/BRK4001_220.jpg)](./video15.md)|<p>Learn from Core Services Engineering &amp; Operations (formerly Microsoft IT) software engineering leads and our Digital Securi...|
+|[![Migrating from TFS to VSTS – Using the TFS Database Import Service](https://sec.ch9.ms/ch9/75bb/21223a27-8698-43e8-8bac-42554fb375bb/THR2023_220.jpg)](./video16.md)|If you like all the great features of VSTS and the ease of automatic upgrades, but want to know how to get your projects moved ove...|
 

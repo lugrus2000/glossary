@@ -1,18 +1,15 @@
-# DevOps for Data Science
+# Hybrid multi-cloud strategies using Terraform OSS with Azure
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3501?SFYT=true]
+*09 May 2018 22:00:00 @ Sheraton: Willow AB*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2121?SFYT=true]
 
 ## Details
 
-<p>Join Damian Brady and Paige Bailey as they collaborate to show you how Data Science and DevOps can work together in your business. &nbsp;You'll see how to handle everything from networking, security, and data ingress through all the normal phases of a deployment cycle. &nbsp;You'll learn how to expertly plan, prepare, and productionalize your Data Science workflows.</p> (00:24:25)
-
-*10 May 2018 00:00:00 @ Expo Hall Theater 2*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3501)
+<p>85% of enterprises have a multi-cloud strategy. Terraform is emerging as the open source standard to provision infrastructure as code across Azure and providers beyond the Azure boundary. This session will help you understand Terraform and how it helps Azure fit into your multi-cloud strategy, meeting you where you are . We will also show you native integrations between Terraform and a set of technologies such as Kubernetes, VM Scale Sets, CloudShell, Managed Service Identity, Visual Studio Code, Yeoman Generators, etc that make Azure the best destination to author, test and use Terraform based infra as code.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-oss">https://aka.ms/azft-oss</a></p> (01:17:17)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/8325/0f42b447-01b2-4b17-99ac-a161e7588325/THR3501_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/8325/0f42b447-01b2-4b17-99ac-a161e7588325/THR3501_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/8325/0f42b447-01b2-4b17-99ac-a161e7588325/THR3501.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_high.mp4) (246.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_mid.mp4) (184.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121.mp4) (88.0 MB)|

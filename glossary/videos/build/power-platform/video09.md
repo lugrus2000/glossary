@@ -1,18 +1,15 @@
-# Microsoft AI overview for developers
+# Project Rome APIs in Microsoft Graph 
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3218?SFYT=true]
+*15 February 2021 21:37:43 @ *
+
+> [!VIDEO https://www.youtube.com/embed/zcw_iRfkfVo]
 
 ## Details
 
-<p>Building intelligent apps is something we know a little bit about, and we want to show you how you can do this today too! In this session,&nbsp;Harry&nbsp;Shum will cover the full landscape of the Microsoft AI capabilities, including how to infuse AI into your existing applications, how to do custom AI in any language, and how to scale your AI processes to the cloud and to the edge. Join us for the demo-filled survey of everything you can do with AI today.</p> (01:14:04)
-
-*07 May 2018 22:00:00 @ WSCC: Ballrooms 6E*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3218)
+<p>Jennifer Showe demonstrates how you can make your users productive by using the Activity feed API on Microsoft Graph to build experiences that help users pick up where they left off, across devices and platforms; all the while promoting your app or website through Microsoft experiences powered by user activities including Windows Timeline and Sets.</p> (00:11:02)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013_high.mp4) (8.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013_mid.mp4) (3.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013.mp4) (1.0 MB)|

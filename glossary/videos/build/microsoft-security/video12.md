@@ -1,18 +1,15 @@
-# What’s new with Cortana and the Skills Kit
+# Hybrid multi-cloud strategies using Terraform OSS with Azure
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3236?SFYT=true]
+*09 May 2018 22:00:00 @ Sheraton: Willow AB*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2121?SFYT=true]
 
 ## Details
 
-Cortana is Microsoft’s personal digital assistant used by over 140 million people. In this session, we will cover how you as a developer can extend Cortana’s capabilities to interact with users via the Cortana Skills Kit. Learn about some of the exciting new features added to Cortana and the Skills Kit over the past year and things to come soon. (00:46:45)
-
-*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom A*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3236)
+<p>85% of enterprises have a multi-cloud strategy. Terraform is emerging as the open source standard to provision infrastructure as code across Azure and providers beyond the Azure boundary. This session will help you understand Terraform and how it helps Azure fit into your multi-cloud strategy, meeting you where you are . We will also show you native integrations between Terraform and a set of technologies such as Kubernetes, VM Scale Sets, CloudShell, Managed Service Identity, Visual Studio Code, Yeoman Generators, etc that make Azure the best destination to author, test and use Terraform based infra as code.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-oss">https://aka.ms/azft-oss</a></p> (01:17:17)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_high.mp4) (246.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_mid.mp4) (184.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121.mp4) (88.0 MB)|

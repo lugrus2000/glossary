@@ -1,18 +1,15 @@
-# Keynote Recap
+# Serverless in Action
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L10?SFYT=true]
+*09 May 2018 00:00:00 @ WSCC: Ballrooms 6B*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2132?SFYT=true]
 
 ## Details
 
-<p>In this video, we meet with Kevin Gallo and Yina Arenas to discuss some of the day's most important announcements.</p> (00:23:36)
-
-*08 May 2018 19:00:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L10)
+<p>Serverless is a hot trend but are you taking full advantage of all the productivity and scalability benefits serverless architectures have to offer?&nbsp; In this session you will learn about the best practices for building serverless applications – both for architectural patterns using various Azure services as well as for tools to accelerate development.&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (01:13:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/fbe8/2cb1651e-48d2-490c-9434-c83ed54ffbe8/C9L10_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/fbe8/2cb1651e-48d2-490c-9434-c83ed54ffbe8/C9L10_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/fbe8/2cb1651e-48d2-490c-9434-c83ed54ffbe8/C9L10.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132_high.mp4) (213.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132_mid.mp4) (85.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132.mp4) (79.0 MB)|

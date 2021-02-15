@@ -1,18 +1,15 @@
-# Day 2 Wrap Up
+# Getting started with Azure DevOps Projects to setup your CI/CD pipeline for Node.js and Containers
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L16?SFYT=true]
+*15 February 2021 21:37:19 @ *
+
+> [!VIDEO https://www.youtube.com/embed/3etwjubReJs]
 
 ## Details
 
-<p>Join Seth and Christina as we wrap day 2 of Build 2018.</p> (00:15:09)
-
-*09 May 2018 03:00:00 @ C9L Stage*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/C9L16)
+<p>In this video, we walk you through setting up a CI/CD pipeline for your node.js app running in a container, hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details &amp; to get started visit: https://aka.ms/DevOpsProjects.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-node">https://aka.ms/azft-node</a></p> (00:06:00)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/2f1d/0d652b7b-beb4-49a1-b7c9-60fa7c1c2f1d/C9L16_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/2f1d/0d652b7b-beb4-49a1-b7c9-60fa7c1c2f1d/C9L16_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/2f1d/0d652b7b-beb4-49a1-b7c9-60fa7c1c2f1d/C9L16.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_high.mp4) (48.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_mid.mp4) (19.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051.mp4) (8.0 MB)|

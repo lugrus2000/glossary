@@ -1,18 +1,15 @@
-# PaaS and Container Innovation – What’s new with App Service
+# Be more productive with Visual Studio extensibility
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2129?SFYT=true]
+*08 May 2018 03:00:00 @ Expo Hall Theater 2*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2002?SFYT=true]
 
 ## Details
 
-<p>App Service keeps pushing the boundaries on agility, scale, security and reliability. Join us for an overview session where you will learn about all the new innovations coming to the Linux and Windows variants of App Service including its container-based offerings.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:10:34)
-
-*07 May 2018 22:00:00 @ WSCC: Ballrooms 6C*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK2129)
+Extending Visual Studio with new capabilities is something that can make our lives easier and greatly improve our productivity on a daily basis. Don’t know how to get started? In this session, Mads writes an extension from scratch live on stage to show you a bunch of tips and tricks to get you writing your own extensions in no time. (00:24:21)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/5e2b/32930083-27ff-4d48-8fa1-4fb977dd5e2b/BRK2129_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/5e2b/32930083-27ff-4d48-8fa1-4fb977dd5e2b/BRK2129_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/5e2b/32930083-27ff-4d48-8fa1-4fb977dd5e2b/BRK2129.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_high.mp4) (79.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_mid.mp4) (58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002.mp4) (27.0 MB)|

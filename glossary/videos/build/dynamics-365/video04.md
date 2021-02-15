@@ -1,18 +1,15 @@
-# Azure SQL Database the intelligent database – Your database on Autopilot
+# Azure DevOps with VSTS
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3301?SFYT=true]
+*09 May 2018 19:15:00 @ WSCC: Ballrooms 6B*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2105?SFYT=true]
 
 ## Details
 
-<p>Come learn how Azure SQL DB, the most intelligent cloud database, uses machine learning and best practices to ensure your database is always performing at its best. Come learn about features like Adaptive Query Processing, Autotuning and Performance Recommendations, to see how Azure SQL Database can help you spend more time developing applications and less time managing your databases.&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-sql">https://aka.ms/azft-sql</a></p> (01:17:06)
-
-*09 May 2018 17:30:00 @ Sheraton: Grand Ballroom D*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3301)
+<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. Microsoft has a fantastic set of products that can adapt to any language on any platform. In this demo heavy session, starting from just a blank desktop, we will create a new DevOps project and a complete pipeline. We will show you how to deploy to a number of different Azure services, all live and hands on.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:58:49)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/d3a1/5e29d46d-ea34-41b6-89d9-0e24b76ad3a1/BRK3301_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/d3a1/5e29d46d-ea34-41b6-89d9-0e24b76ad3a1/BRK3301_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/d3a1/5e29d46d-ea34-41b6-89d9-0e24b76ad3a1/BRK3301.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_high.mp4) (166.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_mid.mp4) (124.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105.mp4) (61.0 MB)|

@@ -1,18 +1,15 @@
-# Custom Voice Update
+# AI @ Microsoft, How we do it and how you can too!
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3111?SFYT=true]
+*07 May 2018 23:45:00 @ Sheraton: Metropolitan Ballroom B*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3227?SFYT=true]
 
 ## Details
 
-<p>We are releasing a new service in Preview that allows you to create Custom Voice fonts. Come learn about the new service as well as the new features of the existing TTS</p> (00:20:42)
-
-*09 May 2018 01:00:00 @ Expo Hall Theater 1*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR3111)
+<p>For the last 3 decades, Microsoft has been powered by Machine Learning. Come to this session for a first time ever, under the hood look at how we use ML to improve every product and business at Microsoft. Then, see how that same technology is available to you in Azure.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:12:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/4edc/93dbb2c3-c94f-4fdb-b77b-ad96175e4edc/THR3111_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/4edc/93dbb2c3-c94f-4fdb-b77b-ad96175e4edc/THR3111_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/4edc/93dbb2c3-c94f-4fdb-b77b-ad96175e4edc/THR3111.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227_high.mp4) (220.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227_mid.mp4) (160.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227.mp4) (75.0 MB)|

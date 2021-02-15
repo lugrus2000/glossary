@@ -1,18 +1,15 @@
-# Work with files everywhere: Store files, extend user experiences, and build business processes
+# Cloud Migration App Development
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2442?SFYT=true]
+*08 May 2018 01:00:00 @ C9L Stage*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/C9L06?SFYT=true]
 
 ## Details
 
-Every app works with and store files in some form or another. Learn everythign you need to know on how to read, write, and extend files within OneDrive and SharePoint. (00:20:38)
-
-*08 May 2018 20:00:00 @ Expo Hall Theater 3*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2442)
+<p>In this interview, Seth connects with Rohan Kumar and Corey Sanders to discuss cloud migration application development.</p> (00:20:06)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/66ab/21ff9538-ef0f-4979-ac3e-70e8ee3266ab/THR2442_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/66ab/21ff9538-ef0f-4979-ac3e-70e8ee3266ab/THR2442_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/66ab/21ff9538-ef0f-4979-ac3e-70e8ee3266ab/THR2442.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev_high.mp4) (643.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev_mid.mp4) (400.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev.mp4) (79.0 MB)|

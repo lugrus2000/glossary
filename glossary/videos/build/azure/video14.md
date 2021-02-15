@@ -1,18 +1,15 @@
-# OneNote APIs in Microsoft Graph
+# Designing for Fluent with Adobe XD and other design tools
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/6CIJgB9dzWM]
+*07 May 2018 22:00:00 @ Expo Hall Theater 3*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2420?SFYT=true]
 
 ## Details
 
-<p>Gary Neitzke and Manjusha Mangaonkar discuss what’s new OneNote API and Microsoft Graph with a demo showing you how to get started using the OneNote APIs.</p> (00:08:01)
-
-*11 February 2021 20:10:55 @ *
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR5018)
+Learn from Microsoft designers how they use Adobe XD, Sketch, and other design tools and resources to help them quickly go from concept to design. (00:18:35)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/fede/1f3eee20-c2f5-4677-9dae-31b13a72fede/THR5018_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/fede/1f3eee20-c2f5-4677-9dae-31b13a72fede/THR5018_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/fede/1f3eee20-c2f5-4677-9dae-31b13a72fede/THR5018.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420_high.mp4) (59.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9245/54d5bb01-eca4-4e0c-b924-3070dd839245/THR2420.mp4) (20.0 MB)|

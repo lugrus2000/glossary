@@ -1,18 +1,15 @@
-# Project Rome APIs in Microsoft Graph 
+# Unlocking security insights with Microsoft Graph API
 
-## Watch the video
-> [!VIDEO https://www.youtube.com/embed/zcw_iRfkfVo]
+*08 May 2018 22:15:00 @ Sheraton: Grand Ballroom A*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2435?SFYT=true]
 
 ## Details
 
-<p>Jennifer Showe demonstrates how you can make your users productive by using the Activity feed API on Microsoft Graph to build experiences that help users pick up where they left off, across devices and platforms; all the while promoting your app or website through Microsoft experiences powered by user activities including Windows Timeline and Sets.</p> (00:11:02)
-
-*11 February 2021 20:11:33 @ *
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR5013)
+As organizations deploy additional security controls to combat today’s evolving threats, integration challenges often limit the return of investment. The new security API in the Microsoft Graph makes it easier for enterprise developers and ISVs to unlock insights from these solutions by unifying and standardizing alerts for easier integration and correlation, bringing together contextual data to inform investigations, and enabling automation for greater SecOps efficiency. We will walk through real world examples of applications that leverage the security API to help customers realize the full value of their security investments. (00:45:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435_high.mp4) (108.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435_mid.mp4) (83.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435.mp4) (45.0 MB)|

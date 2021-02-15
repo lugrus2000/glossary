@@ -1,18 +1,15 @@
-# Building Resilient Microservices with .NET Core and Azure Container Services (AKS)
+# High Fidelity Simulations: The Critical Path to Real-World AI
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3811?SFYT=true]
+*08 May 2018 19:30:00 @ Expo Hall Theater 1*
+
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3130?SFYT=true]
 
 ## Details
 
-<p>Microservices are highly scalable, resilient, and composable units of deployment for modern applications. But building them is hard. There are a lot of development and deployment considerations to take into account. In this session we'll show you how we're making .NET Core microservices easier to build with new application patterns in .NET Core 2.1 as well as how to deploy and manage them with Kubernetes and Helm.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-net">https://aka.ms/azft-net</a></p> (00:45:09)
-
-*07 May 2018 23:45:00 @ WSCC: Ballrooms 6C*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/BRK3811)
+Developing and testing real-world AI is an expensive and time consuming process. Machine Learning is one of the key component that enables these systems to operate under uncertainty. However, in order to utilize recent advances in machine intelligence and deep learning we need to collect a large amount of annotated training data in a variety of conditions and environments. Also, such data driven system are far from perfect and can result in failure cases that can jeopardize safety. In this session we will explore how high fidelity simulations can help us alleviate some of these problems. We will discuss how such near-realistic simulations can help not only with gathering training but also can be embedded in imitation-learning or reinforcement learning loops in order to improve sample complexity. Our discussion will center around AirSim, an open-source simulator built on Unreal Engine that offers physically and visually realistic simulations. (00:18:18)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/c9cf/e7dc7c67-10dc-4514-b092-1dfd3f01c9cf/BRK3811_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/c9cf/e7dc7c67-10dc-4514-b092-1dfd3f01c9cf/BRK3811_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/c9cf/e7dc7c67-10dc-4514-b092-1dfd3f01c9cf/BRK3811.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/e905/344fd49a-e882-4eb0-b5b1-4fd6d864e905/THR3130_high.mp4) (108.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e905/344fd49a-e882-4eb0-b5b1-4fd6d864e905/THR3130_mid.mp4) (78.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e905/344fd49a-e882-4eb0-b5b1-4fd6d864e905/THR3130.mp4) (30.0 MB)|

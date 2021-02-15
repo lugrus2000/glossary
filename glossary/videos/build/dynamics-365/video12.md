@@ -1,18 +1,15 @@
-# Designing for Black Friday and other surge events
+# Bing Developer Updates
 
-## Watch the video
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2512?SFYT=true]
+*09 May 2018 19:45:00 @ C9L Stage*
+
+> [!VIDEO https://www.youtube.com/embed/juTyAr1OWT8]
 
 ## Details
 
-<p>Peak load periods are a fact of life in online retail and many other industries. In this session, join technical architects from ASOS, one of the worlds leading online fashion retailers, &nbsp;to learn how they manage Black Friday sales of X% their daily norm. Get practical advice on how to use Azure microservices, Cosmos DB and Kubernetes to ensure your applications can handle planned an unplanned spikes in usage.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:19:41)
-
-*08 May 2018 22:30:00 @ Expo Hall Theater 3*
-
-- [Link to the session page](https://channel9.msdn.com/Events/Build/2018/THR2512)
+<p>Seth Juarez sits down with Gurpreet Singh Pall to talk about Bing developer updates.</p> (00:24:26)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality](https://sec.ch9.ms/ch9/bf42/1b8580d0-9c92-4a04-a974-c31ffd7abf42/THR2512_high.mp4)|[Medium quality](https://sec.ch9.ms/ch9/bf42/1b8580d0-9c92-4a04-a974-c31ffd7abf42/THR2512_mid.mp4)|[Low quality](https://sec.ch9.ms/ch9/bf42/1b8580d0-9c92-4a04-a974-c31ffd7abf42/THR2512.mp4)
+|[High quality MP4](https://sec.ch9.ms/ch9/4a3b/2aa96f1c-ea8b-4a12-8494-fe1413374a3b/Build2018BingDeveloperUpdatesGurpreetSinghPall_high.mp4) (741.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4a3b/2aa96f1c-ea8b-4a12-8494-fe1413374a3b/Build2018BingDeveloperUpdatesGurpreetSinghPall_mid.mp4) (438.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4a3b/2aa96f1c-ea8b-4a12-8494-fe1413374a3b/Build2018BingDeveloperUpdatesGurpreetSinghPall.mp4) (82.0 MB)|
