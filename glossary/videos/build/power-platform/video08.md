@@ -1,15 +1,15 @@
-# Build intelligent applications by infusing knowledge from the web
+# Train your Computer Vision model in the cloud and export it to run anywhere
 
-*07 May 2018 22:00:00 @ WSCC: Rooms 615*
+*09 May 2018 02:00:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3223?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3106?SFYT=true]
 
 ## Details
 
-Intelligent applications are now expected to connect to and have awareness of a vast amount of information usually beyond the domain of the core experience. In this session we'll discuss how businesses are making use of Bing’s powerful knowledge graph and index through our cognitive APIs to embed the world’s knowledge into their applications, making them more intelligent, and delivering insights to their customers. (01:08:03)
+CustomVision.ai makes it easy to train your model in the cloud, then easily export it to containers that can run anywhere. Join us to also learn about exporting via ONNX format, and using your Custom Vision model in a variety of apps. (00:22:37)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_high.mp4) (268.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_mid.mp4) (195.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223.mp4) (87.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_high.mp4)<br />(72.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_mid.mp4)<br />(53.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106.mp4)<br />(25.0 MB)|

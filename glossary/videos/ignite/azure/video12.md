@@ -1,15 +1,15 @@
-# Identity and Microsoft 365 Secure Store
+# Interview with X.Glu, 2017 Imagine Cup Champions
 
-*26 September 2018 16:30:00 @ Channel 9 Stage*
+*25 September 2018 15:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/dY85YU575BY]
+> [!VIDEO https://www.youtube.com/embed/3F0HWqRjato]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:37)
+<p>Scott Hanselman interviews the Imagine Cup Champions of 2017, Team X.Glu&nbsp;of the Czech Republic.</p><p>X.Glu's project is a combination hardware and Microsoft Azure cloud solution designed to help people with diabetes better cope with the disease's symptoms.</p> (00:04:27)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_high.mp4) (270.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_mid.mp4) (168.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02.mp4) (36.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01_high.mp4)<br />(252.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01_mid.mp4)<br />(58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01.mp4)<br />(16.0 MB)|

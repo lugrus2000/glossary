@@ -1,15 +1,15 @@
-# Identity and Microsoft 365 Secure Store
+# OpSec with CVP Ann Johnson
 
-*26 September 2018 16:30:00 @ Channel 9 Stage*
+*25 September 2018 21:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/dY85YU575BY]
+> [!VIDEO https://www.youtube.com/embed/K0pBmSjJ7Nc]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:37)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:14:07)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_high.mp4) (270.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_mid.mp4) (168.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02.mp4) (36.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/389f/8d9d22f9-173c-480d-97b5-d393b3e2389f/ch9d2s07_high.mp4)<br />(738.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/389f/8d9d22f9-173c-480d-97b5-d393b3e2389f/ch9d2s07_mid.mp4)<br />(187.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/389f/8d9d22f9-173c-480d-97b5-d393b3e2389f/ch9d2s07.mp4)<br />(51.0 MB)|

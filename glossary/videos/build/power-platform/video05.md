@@ -1,15 +1,15 @@
-# Building Web API Solutions with Authentication
+# Adaptive Cards in Bots, Windows, Outlook and your own applications
 
-*15 February 2021 22:06:49 @ *
+*09 May 2018 17:30:00 @ Sheraton: Grand Ballroom C*
 
-> [!VIDEO https://www.youtube.com/embed/5qZRzwjKNJ4]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2401?SFYT=true]
 
 ## Details
 
-<p>Learn how to implement Web authentication for your next integration and walkthrough the code required for this scenario.</p> (00:12:13)
+<p>Adaptive Cards is a new, simple yet highly capable declarative format that makes it a breeze to display rich card-like interfaces in any application. Learn how Bots, Windows and Outlook use the power of Adaptive cards to showcase information from applications like yours. Using the same technology, your application can do the same to help create interactive and actionable experiences that are both engaging and can simplify business processes across your organization.</p> (01:18:30)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000_high.mp4) (117.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000_mid.mp4) (51.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000.mp4) (19.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/b740/ebbd4ab9-421a-4ca8-87b0-4cb69471b740/BRK2401_high.mp4)<br />(229.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b740/ebbd4ab9-421a-4ca8-87b0-4cb69471b740/BRK2401_mid.mp4)<br />(173.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b740/ebbd4ab9-421a-4ca8-87b0-4cb69471b740/BRK2401.mp4)<br />(87.0 MB)|

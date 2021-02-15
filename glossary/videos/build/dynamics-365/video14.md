@@ -1,15 +1,15 @@
-# The Microsoft AI platform: a State of the Union
+# Increase customer conversion rates by customizing your Sign In Experience with Azure AD B2C
 
-*08 May 2018 01:30:00 @ WSCC: Ballrooms 6E*
+*10 May 2018 00:30:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3224?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2429?SFYT=true]
 
 ## Details
 
-<p>Join Joseph Sirosh, Corporate Vice President of the Cloud AI Platform, for a deep dive into the AI platform and exciting AI use cases. Joseph will showcase how every developer can infuse intelligence into their applications and create amazing new experiences with AI. In this exciting overview, you will learn about the application of AI technologies in the cloud. We will help you understand how to add pre-built AI capabilities like object detection, face understanding, translation and speech to applications. We will show how developers can build Cognitive Search applications that understand deep content in images, text and other data. We will also show how the platform can be used to build your own custom AI models for predictive applications and how to use the Azure platform to accelerate machine learning. Joseph will also show how companies assemble end-to-end systems of intelligence using the rich variety of data and application development services on Azure.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:16:56)
+<p>Come learn about the new ways we are making it easier than ever to customize your sign in experience with Azure AD B2C. Customize experiences for subsets of your audience along with run experiments to figure out how to optimize your conversion rates to make your applications even more successful! &nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:14:26)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/5931/2a928110-fa00-4a10-86bc-1228d9755931/BRK3224_high.mp4) (369.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5931/2a928110-fa00-4a10-86bc-1228d9755931/BRK3224_mid.mp4) (260.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5931/2a928110-fa00-4a10-86bc-1228d9755931/BRK3224.mp4) (106.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3ed0/939a2922-7e32-45da-8d91-573622a43ed0/THR2429_high.mp4)<br />(38.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3ed0/939a2922-7e32-45da-8d91-573622a43ed0/THR2429_mid.mp4)<br />(29.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3ed0/939a2922-7e32-45da-8d91-573622a43ed0/THR2429.mp4)<br />(15.0 MB)|

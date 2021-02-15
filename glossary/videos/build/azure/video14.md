@@ -1,15 +1,15 @@
-# Notifications, Upstreams, and Retention in VSTS Package Management
+# Smart UI with Adaptive Cards, Microsoft Graph and beyond
 
-*15 February 2021 22:06:29 @ *
+*09 May 2018 23:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://www.youtube.com/embed/m52wrocBvxs]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2437?SFYT=true]
 
 ## Details
 
-<p>Join Alex &amp; Mitch while they walk through some of the latest improvements to VSTS Package Management. See how you can easily subscribe to notifications when packages that you use are updated, how you can simplify the way you consume packages from outside and across your organization, and how to reduce the number of package versions you are managing with retention policies. For more details see our documentation: https://docs.microsoft.com/en-us/vsts/package/overview?view=vsts</p> (00:11:40)
+People Cards, Document Cards, People Pickers, Document Pickers - learn how Office UI Fabric, our File pickers and Microsoft Graph can help your app provide smart contextual experiences. (00:22:02)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/397e/9986c084-b045-499f-8447-ff9a12ea397e/THR5058_high.mp4) (215.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/397e/9986c084-b045-499f-8447-ff9a12ea397e/THR5058_mid.mp4) (61.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/397e/9986c084-b045-499f-8447-ff9a12ea397e/THR5058.mp4) (19.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/6f9e/17d70f25-83c1-49b2-92fb-14c234266f9e/THR2437_high.mp4)<br />(62.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/6f9e/17d70f25-83c1-49b2-92fb-14c234266f9e/THR2437_mid.mp4)<br />(46.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/6f9e/17d70f25-83c1-49b2-92fb-14c234266f9e/THR2437.mp4)<br />(23.0 MB)|

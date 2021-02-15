@@ -1,15 +1,15 @@
-# Demystifying Machine and Deep Learning for Developers
+# Entity Framework Core 2.1: Simple, Powerful Data Access for .NET
 
-*09 May 2018 17:30:00 @ WSCC: Ballrooms 6E*
+*10 May 2018 01:30:00 @ WSCC: Ballrooms 6E*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3215?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2144?SFYT=true]
 
 ## Details
 
-<p>To build the next set of personalized and engaging applications, more and more developers are adding ML to their applications. In this session, you'll learn the basics behind machine learning and deep learning, and you'll walk out with all the things you need to build an image classifier for your application.</p> (01:12:43)
+<p>We know the data tier is one of the most important parts of your application. That's why we've worked hard on the latest release of Entity Framework Core 2.1 introducing some significant new capabilities. Come learn about new features like lazy loading, data seeding, query types, new data providers we're working on, and much, much more.</p> (00:42:13)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/0f7e/d1f648a6-93ec-42c6-99a1-869f8c9e0f7e/BRK3215_high.mp4) (82.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0f7e/d1f648a6-93ec-42c6-99a1-869f8c9e0f7e/BRK3215_mid.mp4) (60.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0f7e/d1f648a6-93ec-42c6-99a1-869f8c9e0f7e/BRK3215.mp4) (26.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/baf4/a45ab421-d64d-44ec-a126-2fbe1fcfbaf4/BRK2144_high.mp4)<br />(154.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/baf4/a45ab421-d64d-44ec-a126-2fbe1fcfbaf4/BRK2144_mid.mp4)<br />(111.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/baf4/a45ab421-d64d-44ec-a126-2fbe1fcfbaf4/BRK2144.mp4)<br />(49.0 MB)|

@@ -1,15 +1,15 @@
-# What's new with Visual Studio for Mac
+# App Modernization with Microsoft Azure
 
-*08 May 2018 01:30:00 @ WSCC: Rooms 620*
+*08 May 2018 19:30:00 @ WSCC: Ballrooms 6B*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2152?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2102?SFYT=true]
 
 ## Details
 
-<p>Visual Studio for Mac launched last year at Build as the Microsoft IDE natively designed for the Mac. Since then, regular releases have added improvements and features for .NET Core 2.0, Azure Functions, Docker, and more. Join us in this session to get a whirlwind tour of what is new and also learn about what’s coming in Visual Studio for Mac to make .NET developers even more productive on the Mac.</p><p>Learn more here about <a href="https://www.visualstudio.com/vs/visual-studio-mac/"><strong>Visual Studio for Mac</strong></a>!</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p><div id="selenium-highlight">&nbsp;</div> (00:44:14)
+<p>There are options beyond a straight forward lift and shift into Azure IaaS. What are your options? Learn how Azure helps modernize applications faster with containers and how you can use serverless to add additional functionality while keeping your production codebase 'clean'. We'll also learn how to incorporate DevOps throughout your apps lifecycle and take advantage of data-driven intelligence. Demo intensive session integrating the likes of Service Fabric, AKS VSTS and more.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:11:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/723a/66cbc014-0926-4911-8482-8d1e0ec5723a/BRK2152_high.mp4) (152.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/723a/66cbc014-0926-4911-8482-8d1e0ec5723a/BRK2152_mid.mp4) (110.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/723a/66cbc014-0926-4911-8482-8d1e0ec5723a/BRK2152.mp4) (50.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/67e6/aa51050e-0d4a-4ee1-8e75-74a28d8967e6/BRK2102_high.mp4)<br />(283.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/67e6/aa51050e-0d4a-4ee1-8e75-74a28d8967e6/BRK2102_mid.mp4)<br />(207.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/67e6/aa51050e-0d4a-4ee1-8e75-74a28d8967e6/BRK2102.mp4)<br />(91.0 MB)|

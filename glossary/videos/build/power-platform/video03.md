@@ -1,15 +1,15 @@
-# Multiplayer Server Scaling with Azure Container Instances
+# Machine learning at scale
 
-*09 May 2018 20:00:00 @ Expo Hall Theater 1*
+*09 May 2018 19:15:00 @ Sheraton: Metropolitan Ballroom B*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3512?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3708?SFYT=true]
 
 ## Details
 
-<p>There are few things more annoying to a gamer than trying to play an online multiplayer game where the backend servers are not up to the challenge of handling the onslaught of players, but a game whose multiplayer servers are constantly burning cycles with no one playing is costly and wasteful for the developer. In this session, we will explore one possible solution using Azure Container Instances, Event Grid, and Azure Functions to host a stateful, isolated multiplayer backend that is lightweight, automatically scales on demand, and is billed per second of usage. &nbsp;Using the open source game OpenArena as an example, we will create this scalable service from start to finish, and you will be able to run the OpenArena client on your own device and play against fellow attendees in real time, while the service scales as needed.</p><p>Source code: <a href="https://aka.ms/acimgmt">https://aka.ms/acimgmt</a></p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:22:46)
+<p>AI/ML expert Paige Bailey takes you on a tour of the powerful services available on Azure. You'll see how to take your predictive model to production, dynamically train it online with streaming updates, and add realtime data to your models from IoT sources. Paige covers Azure DataBricks, Batch AI, KubeFlow &#43; AKS, Stream Analytics, and Event Hub in a session you won't want to miss.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (00:45:32)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_high.mp4) (75.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_mid.mp4) (54.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512.mp4) (25.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/f00c/b2c3cc15-9a92-44dc-9694-39e480d6f00c/BRK3708_high.mp4)<br />(140.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/f00c/b2c3cc15-9a92-44dc-9694-39e480d6f00c/BRK3708_mid.mp4)<br />(104.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/f00c/b2c3cc15-9a92-44dc-9694-39e480d6f00c/BRK3708.mp4)<br />(48.0 MB)|

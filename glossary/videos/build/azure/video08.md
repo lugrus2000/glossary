@@ -1,15 +1,15 @@
-# How to incorporate data classification capabilities within your application
+# Decoding your users – addressing cognitive bias in product feedback
 
-*09 May 2018 01:45:00 @ Sheraton: Grand Ballroom A*
+*09 May 2018 22:00:00 @ WSCC: Rooms 615*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2414?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2504?SFYT=true]
 
 ## Details
 
-<p>Learn how to utilize the capabilities of the Information Protection SDK to classify, label and protect your unstructured data within and beyond the Office 365 environment.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:15:31)
+<p>It’s an age old problem - a feature request is addressed, but the user still isn’t happy. Why? Because it’s hard for humans to articulate what they need.&nbsp; Blame cognitive biases – the ways in which our brain reacts to new information and avoids conflict.&nbsp;. In this session, hear from Cindy Alvarez, author of “Lean Customer Development” and principal design researcher for Microsoft Visual Studio, about key techniques to understand your users. Learn about some of the common cognitive biases and how you can help counteract them.&nbsp; &nbsp;You’ll leave this session with a set of effective questions that will help you get the non-biased feedback and insights you need to build better solutions.</p> (01:22:13)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414_high.mp4) (202.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414_mid.mp4) (153.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/432d/a15533aa-65c6-4a69-a90b-237b5c38432d/BRK2504_high.mp4)<br />(181.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/432d/a15533aa-65c6-4a69-a90b-237b5c38432d/BRK2504_mid.mp4)<br />(136.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/432d/a15533aa-65c6-4a69-a90b-237b5c38432d/BRK2504.mp4)<br />(77.0 MB)|

@@ -1,15 +1,15 @@
-# Diagnosing and debugging live cloud applications
+# Demopalooza - Get started infusing AI into your applications today
 
-*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom C*
+*07 May 2018 23:45:00 @ WSCC: Rooms 620*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2117?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3214?SFYT=true]
 
 ## Details
 
-<p>In this talk we’ll show you how Azure can help you fix issues impacting your live sites faster. From the Azure portal to Visual Studio if your .NET app is running on Azure App Services and is having a functional or performance issue we’ve got a tool to help you. The talk will included demos of the Profiler, Snapshot debugger and more.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:12:48)
+The success of any organization in adopting AI to solve real-world problems is dependent on how we empower every developer to be productive using a comprehensive set of AI services, tools and infrastructure. Developers can build intelligent apps of the future by insusing AI, that delivers a unique, differentiated and personalized experience. In this demo and code heavy session, we will demonstrate how easy it is for every developers (without deep AI expertise) to build intelligence into their apps. (01:08:29)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117_high.mp4) (207.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117_mid.mp4) (157.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9b69/802db2ca-87e4-4fa5-b4bd-4f6551db9b69/BRK3214_high.mp4)<br />(241.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9b69/802db2ca-87e4-4fa5-b4bd-4f6551db9b69/BRK3214_mid.mp4)<br />(176.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9b69/802db2ca-87e4-4fa5-b4bd-4f6551db9b69/BRK3214.mp4)<br />(80.0 MB)|

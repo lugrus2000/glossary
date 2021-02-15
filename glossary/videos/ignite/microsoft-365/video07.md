@@ -1,15 +1,15 @@
-# What's New in Visual Studio Code
+# Azure Identity
 
-*25 September 2018 18:15:00 @ Channel 9 Stage*
+*26 September 2018 18:15:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
+> [!VIDEO https://www.youtube.com/embed/Dnrvw3vWPGg]
 
 ## Details
 
-<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:38)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4) (338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4) (214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4) (53.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_high.mp4)<br />(247.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_mid.mp4)<br />(155.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04.mp4)<br />(35.0 MB)|

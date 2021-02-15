@@ -1,15 +1,15 @@
-# What’s new in Xamarin.Forms 3.0
+# Analyze and report on your work using the new VSTS analytics service
 
-*09 May 2018 22:00:00 @ WSCC: Ballrooms 6E*
+*08 May 2018 19:30:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2437?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2020?SFYT=true]
 
 ## Details
 
-<p>Xamarin.Forms enables you to build a native UI for multiple platforms with one shared C# and XAML codebase. Simply put, if you know C# then you already know how to build Android, iOS, and Windows apps. In this session come find out what is new, next, and absolutely awesome in Xamarin.Forms 3.0.</p><p>For more information, check out the following resources:</p><ul><li><a href="https://university.xamarin.com/lightninglectures">Xamarin.Forms Lightning Lectures on Xamarin.Forms 3.0</a></li><li><a href="https://blog.xamarin.com/xamarin-forms-3-0-released/">Xamarin.Forms 3.0 release blog</a></li></ul><div id="selenium-highlight">&nbsp;</div><div id="selenium-highlight">&nbsp;</div> (00:45:42)
+Having a clear view on your teams backlog and in-flight work is essential with a fast moving Agile team. Presenting all the information about your work and how the project is doing is key to helping to build stakeholder trust. Learn about the brand new analytics and reporting capabilities in VSTS and how they help you get instant visibility on the progress of your development teams. (00:23:17)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/41f3/6f6f8fe9-97ff-44a5-b40d-6969e32241f3/BRK2437_high.mp4) (159.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/41f3/6f6f8fe9-97ff-44a5-b40d-6969e32241f3/BRK2437_mid.mp4) (115.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/41f3/6f6f8fe9-97ff-44a5-b40d-6969e32241f3/BRK2437.mp4) (53.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/aa91/17a784d5-211b-4a3b-8deb-a904cba8aa91/THR2020_high.mp4)<br />(58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/aa91/17a784d5-211b-4a3b-8deb-a904cba8aa91/THR2020_mid.mp4)<br />(43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/aa91/17a784d5-211b-4a3b-8deb-a904cba8aa91/THR2020.mp4)<br />(23.0 MB)|

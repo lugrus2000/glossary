@@ -1,15 +1,15 @@
-# Azure DevOps with VSTS
+# Grow your business with custom visuals for Power BI
 
-*09 May 2018 19:15:00 @ WSCC: Ballrooms 6B*
+*07 May 2018 23:45:00 @ WSCC: Rooms 615*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2105?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3412?SFYT=true]
 
 ## Details
 
-<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. Microsoft has a fantastic set of products that can adapt to any language on any platform. In this demo heavy session, starting from just a blank desktop, we will create a new DevOps project and a complete pipeline. We will show you how to deploy to a number of different Azure services, all live and hands on.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:58:49)
+Learn how the unique open source visualization platform of Power BI can enrich your BI solution and delight your customers with stunning visualizations in their report and dashboards, tailor-made to your customer’s needs. Learn how Power BI custom visuals generate a competitive edge for your business, empowering you to create best-of-breed solutions to your customers. Get up to speed with what’s new and what’s coming up for custom visuals. (00:42:32)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_high.mp4) (166.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_mid.mp4) (124.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105.mp4) (61.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/8dc0/08d928ef-9125-40ee-a89a-78db82238dc0/BRK3412_high.mp4)<br />(113.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/8dc0/08d928ef-9125-40ee-a89a-78db82238dc0/BRK3412_mid.mp4)<br />(84.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8dc0/08d928ef-9125-40ee-a89a-78db82238dc0/BRK3412.mp4)<br />(44.0 MB)|

@@ -1,15 +1,15 @@
-# #FiveThings Live with Burke Holland
+# Collaborating with MS Teams
 
-*26 September 2018 18:00:00 @ Channel 9 Stage*
+*25 September 2018 20:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/fY7B_dAGrlY]
+> [!VIDEO https://www.youtube.com/embed/JfqsEu3OW6M]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:22)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:26)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_high.mp4) (403.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_mid.mp4) (258.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03.mp4) (61.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05_high.mp4)<br />(416.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05_mid.mp4)<br />(263.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05.mp4)<br />(62.0 MB)|

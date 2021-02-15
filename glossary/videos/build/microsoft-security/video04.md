@@ -1,15 +1,15 @@
-# Be more productive with Visual Studio extensibility
+# Past, Present, and Future of .NET
 
-*08 May 2018 03:00:00 @ Expo Hall Theater 2*
+*08 May 2018 01:30:00 @ C9L Stage*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2002?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/LBsGSW2-qr4]
 
 ## Details
 
-Extending Visual Studio with new capabilities is something that can make our lives easier and greatly improve our productivity on a daily basis. Don’t know how to get started? In this session, Mads writes an extension from scratch live on stage to show you a bunch of tips and tricks to get you writing your own extensions in no time. (00:24:21)
+<p>Beth Massi, Mads Torgersen, Scott Hunter, and Richard Campbell sit down at the Channel 9 Live desk to discuss the future of .NET.</p> (00:54:47)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_high.mp4) (79.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_mid.mp4) (58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002.mp4) (27.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2_high.mp4)<br />(1.0 GB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2_mid.mp4)<br />(1.0 GB)|[Low quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2.mp4)<br />(213.0 MB)|

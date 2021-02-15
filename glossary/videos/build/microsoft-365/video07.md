@@ -1,15 +1,15 @@
-# PowerApps + Microsoft Graph
+# Excel JavaScript API Update
 
-*08 May 2018 01:30:00 @ Expo Hall Theater 3*
+*15 February 2021 22:21:59 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2425?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/RvE8F-pmddc]
 
 ## Details
 
-Learn how to quickly build custom business apps leveraging Microsoft Graph inside the PowerApps studio. (00:16:19)
+<p>Learn the latest updates on the Excel JavaScript API.</p> (00:13:00)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/d1d0/35e0a4ef-37a4-4081-84fa-aaf560b3d1d0/THR2425_high.mp4) (44.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d1d0/35e0a4ef-37a4-4081-84fa-aaf560b3d1d0/THR2425_mid.mp4) (33.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d1d0/35e0a4ef-37a4-4081-84fa-aaf560b3d1d0/THR2425.mp4) (17.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026_high.mp4)<br />(34.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026_mid.mp4)<br />(24.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026.mp4)<br />(13.0 MB)|

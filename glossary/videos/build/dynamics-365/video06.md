@@ -1,15 +1,15 @@
-# How to take advantage of scale out graph in Azure Cosmos DB
+# Visual Studio for Mac Tips & Tricks
 
-*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom B*
+*09 May 2018 23:00:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3311?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2021?SFYT=true]
 
 ## Details
 
-<p>Real-world data is naturally connected. Learn how to create graph database applications on Azure Cosmos DB and explore the different solutions that it provides to common data scenarios in the enterprise. We will also cover customer cases that currently leverage graph databases in their day-to-day workloads.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-cosmos">https://aka.ms/azft-cosmos</a></p> (01:11:31)
+<p>Visual Studio for Mac is the Microsoft IDE natively designed for the Mac. You get everything you need for mobile, web, game and cloud development with C# and F#, with rich support for Xamarin, .NET Core, Unity and Azure development. In this session, come hang out with Jordan as he takes you through tips and tricks to help you get the most out of Visual Studio for Mac. This one's for beginners and experts alike!</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p><div id="selenium-highlight">&nbsp;</div> (00:15:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/3ec0/741090b7-9da8-40c8-9622-d5b614ed3ec0/BRK3311_high.mp4) (182.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3ec0/741090b7-9da8-40c8-9622-d5b614ed3ec0/BRK3311_mid.mp4) (139.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3ec0/741090b7-9da8-40c8-9622-d5b614ed3ec0/BRK3311.mp4) (74.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021_high.mp4)<br />(45.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021_mid.mp4)<br />(33.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021.mp4)<br />(16.0 MB)|

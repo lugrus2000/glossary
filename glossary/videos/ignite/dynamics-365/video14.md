@@ -1,15 +1,15 @@
-# All About Exchange 2019
+# The Windows Admin Center
 
-*25 September 2018 18:00:00 @ Channel 9 Stage*
+*27 September 2018 16:15:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/eOhTTcooM1M]
+> [!VIDEO https://www.youtube.com/embed/HtVveL9gbXs]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:13)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:11:25)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_high.mp4) (348.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_mid.mp4) (222.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02.mp4) (50.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3f9c/27001f53-85b9-4534-926f-591df4883f9c/ch9d4s01_high.mp4)<br />(368.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3f9c/27001f53-85b9-4534-926f-591df4883f9c/ch9d4s01_mid.mp4)<br />(234.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3f9c/27001f53-85b9-4534-926f-591df4883f9c/ch9d4s01.mp4)<br />(54.0 MB)|

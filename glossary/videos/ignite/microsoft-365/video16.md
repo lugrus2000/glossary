@@ -1,15 +1,15 @@
-# Azure Identity
+# #FiveThings Live with Burke Holland
 
-*26 September 2018 18:15:00 @ Channel 9 Stage*
+*26 September 2018 18:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/Dnrvw3vWPGg]
+> [!VIDEO https://www.youtube.com/embed/fY7B_dAGrlY]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:38)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:22)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_high.mp4) (247.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_mid.mp4) (155.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04.mp4) (35.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_high.mp4)<br />(403.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_mid.mp4)<br />(258.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03.mp4)<br />(61.0 MB)|

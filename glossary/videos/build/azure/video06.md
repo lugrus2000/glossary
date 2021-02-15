@@ -1,15 +1,15 @@
-# How to Adopt Modern C++17 into Your C++ Code
+# Train your Computer Vision model in the cloud and export it to run anywhere
 
-*08 May 2018 19:30:00 @ WSCC: Rooms 603*
+*09 May 2018 02:00:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2146?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3106?SFYT=true]
 
 ## Details
 
-Just how different is &quot;Modern C&#43;&#43;&quot; from &quot;legacy C&#43;&#43;&quot;? Is my codebase ready for C&#43;&#43;17? Do I need a full rewrite of my app to modernize my code? If you're looking for answers to some of these questions, join us for a session on how to effectively leverage modern C&#43;&#43;17 features in your existing C&#43;&#43; projects; and no, you don't need to rewrite your app. (00:50:50)
+CustomVision.ai makes it easy to train your model in the cloud, then easily export it to containers that can run anywhere. Join us to also learn about exporting via ONNX format, and using your Custom Vision model in a variety of apps. (00:22:37)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146_high.mp4) (134.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146_mid.mp4) (102.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146.mp4) (53.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_high.mp4)<br />(72.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106_mid.mp4)<br />(53.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d071/354a1405-2b06-4a4e-81a6-f6547eb4d071/THR3106.mp4)<br />(25.0 MB)|

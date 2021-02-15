@@ -1,15 +1,15 @@
-# Enhancing DevOps with SQL Server on Linux + containers
+# Using existing language skillsets to create large-scale, cloud-based analytics  
 
-*09 May 2018 17:30:00 @ WSCC: Rooms 612*
+*10 May 2018 01:30:00 @ WSCC: Rooms 612*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3308?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK4100?SFYT=true]
 
 ## Details
 
-<p>SQL Server 2017 runs now on both Linux and containers. In this session you will learn how SQL Server 2017 supports Continuous Deployment/Continuous Integration (CD/CI) and other DevOps processes. You will also learn the latest on cross-platform tooling, APIs, and how to develop apps with SQL Server running anywhere. We will also demo how easy it is to use SQL Server in your modern database development workflows.</p> (01:14:33)
+<p>Data Scientists and Data Wranglers often have existing code that they would like to use at scale over large data sets. In this presentation we show how to meet your customers where they are, allowing them to take their existing Python, R, Java, code and libraries and existing formats --for example Parquet -- and apply them at scale to schematize unstructured data and process large amounts of data in Azure Data Lake with U-SQL. We will show how large customers meet the challenges of processing multiple cubes with data subsets to secure data for specific audiences using U-SQL partitioned output, making it easy to dynamically partition data for processing from Azure Data Lake.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:23:41)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308_high.mp4) (162.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308_mid.mp4) (121.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308.mp4) (64.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_high.mp4)<br />(216.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_mid.mp4)<br />(166.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100.mp4)<br />(86.0 MB)|

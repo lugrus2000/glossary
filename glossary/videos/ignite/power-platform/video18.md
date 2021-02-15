@@ -1,15 +1,15 @@
-# Driving Your Career Through Change
+# Identity and Microsoft 365 Secure Store
 
-*27 September 2018 19:45:00 @ Channel 9 Studio*
+*26 September 2018 16:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/m51h7khBS_k]
+> [!VIDEO https://www.youtube.com/embed/dY85YU575BY]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:16:35)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:37)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/6b28/aabfbea3-0f5f-440a-93b2-488ec4416b28/ch9d4s05_high.mp4) (456.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/6b28/aabfbea3-0f5f-440a-93b2-488ec4416b28/ch9d4s05_mid.mp4) (284.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/6b28/aabfbea3-0f5f-440a-93b2-488ec4416b28/ch9d4s05.mp4) (60.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_high.mp4)<br />(270.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02_mid.mp4)<br />(168.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0351/19ca2ee0-8d37-4f99-a605-0ff1c6ec0351/ch9d3s02.mp4)<br />(36.0 MB)|

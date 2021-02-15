@@ -1,15 +1,15 @@
-# Azure IoT Platform services - The modern IoT developer toolbox
+# Amplifying human ingenuity with Microsoft AI
 
-*08 May 2018 19:30:00 @ WSCC: Ballrooms 6A*
+*07 May 2018 21:30:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3803?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3125?SFYT=true]
 
 ## Details
 
-<p>In this demo heavy session you will learn what’s available for modern IoT developers. Azure IoT Hub, Device Provisioning Service, Time Series Insight, Azure Location Based Services, Visual Studio Code will all be put to contribution and you won’t believe all that can be achieved in only 60 minutes.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:18:34)
+<p>Microsoft is delivering a flexible AI platform for organizations and developers to infuse intelligence into their products and services using tools and services like Microsoft Cognitive Services, Azure Bot Service, Azure Machine Learning, and Cognitive Toolkit. In this session, we provide a high-level view of the Microsoft AI Platform and show demos for you to amplify your ingenuity with intelligent technology.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (00:20:40)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/6eaf/25c7e4be-1c44-4e8d-84b9-f4a3486e6eaf/BRK3803_high.mp4) (226.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/6eaf/25c7e4be-1c44-4e8d-84b9-f4a3486e6eaf/BRK3803_mid.mp4) (168.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/6eaf/25c7e4be-1c44-4e8d-84b9-f4a3486e6eaf/BRK3803.mp4) (81.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/85bf/c32467ba-0796-446b-bbbb-2256a38f85bf/THR3125_high.mp4)<br />(69.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/85bf/c32467ba-0796-446b-bbbb-2256a38f85bf/THR3125_mid.mp4)<br />(50.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/85bf/c32467ba-0796-446b-bbbb-2256a38f85bf/THR3125.mp4)<br />(23.0 MB)|

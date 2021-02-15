@@ -1,15 +1,15 @@
-# Azure Identity
+# Ignite: Day 5 Intro
 
-*26 September 2018 18:15:00 @ Channel 9 Stage*
+*28 September 2018 14:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/Dnrvw3vWPGg]
+> [!VIDEO https://www.youtube.com/embed/1T5U3fado_E]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:38)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:04)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_high.mp4) (247.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_mid.mp4) (155.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04.mp4) (35.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_high.mp4)<br />(252.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_mid.mp4)<br />(159.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro.mp4)<br />(36.0 MB)|

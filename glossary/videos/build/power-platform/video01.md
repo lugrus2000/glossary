@@ -1,15 +1,15 @@
-# Find Security Flaws with AI using Microsoft Security Risk Detection, VSTS, and Azure
+# Coding Enterprise Apps for Intune – Protected, Secured & Integrated
 
-*08 May 2018 03:30:00 @ Expo Hall Theater 1*
+*09 May 2018 17:30:00 @ WSCC: Rooms 615*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3115?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2406?SFYT=true]
 
 ## Details
 
-<p>You will learn how to find “million dollar bugs” in your code, report those bugs, and prioritize them right from inside Visual Studio Team Services. Microsoft Security Risk Detection brings 15 years of innovation in fuzz testing from Microsoft to you, including the latest AI for finding security holes. Now you can kick off security testing from a Visual Studio build definition! Once bugs are found, you will see how Azure Logic Apps make it easy for you to create alerts, file work items, and fit security testing into your workflow.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-security">https://aka.ms/azft-security</a></p> (00:16:53)
+<p>Developing iOS, Android or Windows apps?&nbsp; Join Intune Engineering team members for an in-depth discussion of the capabilities behind the Intune Application Management SDK and the recently available Microsoft Graph API’s for Intune.&nbsp; Understand the security benefits of deploying Intune managed apps, and how easy it is to include app protection controls in your mobile applications.&nbsp; We’ll demo building a managed app through Xamarin.&nbsp; Maybe your integrating your applications with Intune? &nbsp;Understand how to use Microsoft Graph API’s to access Intune data, and automate any IT Pro administrative actions. We’ll demonstrate how to take Xamarin apps even further by integrating Intune Graph API’s.&nbsp;</p> (01:14:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115_high.mp4) (44.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115_mid.mp4) (33.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115.mp4) (17.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/2361/01d16770-7d17-4a1b-875e-898d4d012361/BRK2406_high.mp4)<br />(201.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2361/01d16770-7d17-4a1b-875e-898d4d012361/BRK2406_mid.mp4)<br />(150.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2361/01d16770-7d17-4a1b-875e-898d4d012361/BRK2406.mp4)<br />(75.0 MB)|

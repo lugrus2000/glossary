@@ -1,15 +1,15 @@
-# Interview with X.Glu, 2017 Imagine Cup Champions
+# What's New in Visual Studio Code
 
-*25 September 2018 15:45:00 @ Channel 9 Stage*
+*25 September 2018 18:15:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/3F0HWqRjato]
+> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
 
 ## Details
 
-<p>Scott Hanselman interviews the Imagine Cup Champions of 2017, Team X.Glu&nbsp;of the Czech Republic.</p><p>X.Glu's project is a combination hardware and Microsoft Azure cloud solution designed to help people with diabetes better cope with the disease's symptoms.</p> (00:04:27)
+<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01_high.mp4) (252.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01_mid.mp4) (58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9e74/913d53e6-450f-4322-9b34-ce6355499e74/ch9d2r01.mp4) (16.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4)<br />(338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4)<br />(214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4)<br />(53.0 MB)|

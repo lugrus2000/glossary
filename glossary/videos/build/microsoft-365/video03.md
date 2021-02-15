@@ -1,15 +1,15 @@
-# What's New in TypeScript
+# Be more productive with Visual Studio extensibility
 
-*08 May 2018 01:30:00 @ WSCC: Ballrooms 6B*
+*08 May 2018 03:00:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2150?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2002?SFYT=true]
 
 ## Details
 
-TypeScript has introduced groundbreaking innovations over the last year to truly describe the expressivity of JavaScript in its type system. Between conditional types, new stricter checks, general tooling, and some experimental work in cross-project management, we'll look at the sort of innovative new features that TypeScript brings to make building complex JavaScript apps a breeze. (01:17:16)
+Extending Visual Studio with new capabilities is something that can make our lives easier and greatly improve our productivity on a daily basis. Don’t know how to get started? In this session, Mads writes an extension from scratch live on stage to show you a bunch of tips and tricks to get you writing your own extensions in no time. (00:24:21)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4871/2ffba85e-32d6-4722-ad63-93baab074871/BRK2150_high.mp4) (220.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4871/2ffba85e-32d6-4722-ad63-93baab074871/BRK2150_mid.mp4) (163.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4871/2ffba85e-32d6-4722-ad63-93baab074871/BRK2150.mp4) (81.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_high.mp4)<br />(79.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_mid.mp4)<br />(58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002.mp4)<br />(27.0 MB)|

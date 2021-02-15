@@ -1,15 +1,15 @@
-# Streamline business processes with Flow and Office 365
+# Real-time data streams with Apache Kafka and Spark
 
-*07 May 2018 22:00:00 @ Sheraton: Grand Ballroom D*
+*08 May 2018 00:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2420?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3504?SFYT=true]
 
 ## Details
 
-<p>Microsoft Flow provides a growing and flexible framework for connecting different systems together to achieve tasks ranging from the simple (notifications and approvals) to the complex.&nbsp; You can also extend Flow with custom services, including Azure Functions.&nbsp; In this session, see how you can use both the powerful set of Flow capabilities in Office 365, and build custom service integrations as well.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (01:20:27)
+<p>This action-packed session will show you how to keep up with the ever-increasing stream of data that developers are tasked with processing. &nbsp;From ingestion through real-time stream processing, Alena will teach you how Azure Databricks and HDInsight can keep up with your distributed streaming workflow. &nbsp;You'll learn how to make a fast, flexible, scalable, and resilient data workflow using frameworks like Apache Kafka and Spark Structured Streaming. &nbsp;You'll use these systems to process data from multiple real-time sources, process machine learning tasks, and how to effectively experiment with the real-time streams with real-world examples and code.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-databricks">https://aka.ms/azft-databricks</a></p> (00:26:45)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/d0a4/7c2f3417-1a73-4657-9faf-96b6c65bd0a4/BRK2420_high.mp4) (196.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d0a4/7c2f3417-1a73-4657-9faf-96b6c65bd0a4/BRK2420_mid.mp4) (152.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d0a4/7c2f3417-1a73-4657-9faf-96b6c65bd0a4/BRK2420.mp4) (82.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/e56a/0550efde-f103-4d31-b2fe-0ac56a93e56a/THR3504_high.mp4)<br />(88.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e56a/0550efde-f103-4d31-b2fe-0ac56a93e56a/THR3504_mid.mp4)<br />(1.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e56a/0550efde-f103-4d31-b2fe-0ac56a93e56a/THR3504.mp4)<br />(31.0 MB)|

@@ -1,15 +1,15 @@
-# Why developers are eating the world!
+# if(dev)  { Insider(); }
 
-*07 May 2018 23:45:00 @ WSCC: Rooms 603*
+*08 May 2018 03:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2510?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2428?SFYT=true]
 
 ## Details
 
-As a developer in an increasingly software-driven world, your role is more critical than ever. Plus, your code has the potential to impact real people in real ways, making the job more complex. Ethical concerns, social responsibility, and inclusive design are important to the work you do, and addressing them well takes time and resources. Join Jeffrey Snover, Technical Fellow at Microsoft, to learn how modernizing your development processes can free you up to focus on building great software, minimizing technical debt, protecting sensitive data, and empowering your users. (01:14:20)
+“How do I get more people using my app and more feedback from my users?” This looks like a job for the #WindowsInsiders program! This session showcases some of the ways in which being an Insider helps you as a developer such as getting your app integrated into Feedback Hub, amplification of your app to our giant community, career coaching and our brand new, top-secret Cohorts-As-A-Service offering. You’ll also get to meet other Insider app devs and hear their stories of success. (00:18:05)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/c02b/742b3950-d772-4bf9-a076-7fda348fc02b/BRK2510_high.mp4) (257.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c02b/742b3950-d772-4bf9-a076-7fda348fc02b/BRK2510_mid.mp4) (191.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c02b/742b3950-d772-4bf9-a076-7fda348fc02b/BRK2510.mp4) (88.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428_high.mp4)<br />(53.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428_mid.mp4)<br />(39.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/815e/487423dd-636c-4afe-90f8-0bcd5e0c815e/THR2428.mp4)<br />(20.0 MB)|

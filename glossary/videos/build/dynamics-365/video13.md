@@ -1,15 +1,15 @@
-# Azure Service Bus and Logic Apps for messaging and process automation
+# Excel JavaScript API Update
 
-*08 May 2018 22:30:00 @ Expo Hall Theater 2*
+*15 February 2021 22:21:56 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2015?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/RvE8F-pmddc]
 
 ## Details
 
-Messaging and process automation are key elements to architect microservice solutions. Learn how Azure Service Bus and Logic Apps can help you build cloud-native applications in a serverless world. (00:20:48)
+<p>Learn the latest updates on the Excel JavaScript API.</p> (00:13:00)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_high.mp4) (52.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_mid.mp4) (38.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015.mp4) (20.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026_high.mp4)<br />(34.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026_mid.mp4)<br />(24.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/656b/bffe2a78-3d5f-4dbf-9210-e4097e84656b/THR5026.mp4)<br />(13.0 MB)|

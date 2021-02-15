@@ -1,15 +1,15 @@
-# Getting Started with Visual Studio Tools for AI
+# Start building mobile apps in 5 minutes with Xamarin Live Player
 
-*09 May 2018 22:30:00 @ Expo Hall Theater 1*
+*07 May 2018 23:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3129?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2438?SFYT=true]
 
 ## Details
 
-<p>Visual Studio Tools for AI makes it easy to train, debug and deploy AI infused applications and services. Come learn how to easily infuse AI into your applications and services, get started with machine learning and scale out model training in the cloud using Azure Machine Learning and Azure Batch AI all from Visual Studio for maximum productivity.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (00:24:58)
+Sometimes getting started is half the battle with any new development environment. Come see how the Xamarin Live Player accelerates using&nbsp; your existing C# and .NET skills to create fully native apps on every platform. (00:20:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_high.mp4) (99.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_mid.mp4) (70.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129.mp4) (29.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9a89/b4f1c2ea-738d-4f37-a2f4-26285e6b9a89/THR2438_high.mp4)<br />(65.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9a89/b4f1c2ea-738d-4f37-a2f4-26285e6b9a89/THR2438_mid.mp4)<br />(48.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9a89/b4f1c2ea-738d-4f37-a2f4-26285e6b9a89/THR2438.mp4)<br />(23.0 MB)|

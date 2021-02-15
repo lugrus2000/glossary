@@ -1,15 +1,15 @@
-# Continuous, efficient & reliable testing with integrated reporting in CI/CD
+# Accelerating Windows 10 enterprise app deployment with MSIX
 
-*09 May 2018 21:30:00 @ Expo Hall Theater 2*
+*09 May 2018 22:00:00 @ Sheraton: Grand Ballroom D*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2026?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2416?SFYT=true]
 
 ## Details
 
-<p>Continuous testing is integral to CI/CD. In this session we will show you how to easily run tests in the CI/CD pipeline, speed up test cycles, deal with test flakiness, get near real time test reporting &amp; debugging experience and identify top failing tests in Build and Release pipelines</p> (00:19:16)
+<p>MSIX provides lots of benefits across the app lifecycle management. Learn how to take advantage of MSIX in your enterprise and the benefits to developers, IT Pros and end users. During the session we will deep dive into the benefits of MSIX and the new tooling and features available to make it easy to move your existing apps to MSIX. As you move to MSIX we will also discuss what it means for things like legacy plug-ins.</p> (01:14:48)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_high.mp4) (58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026.mp4) (20.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416_high.mp4)<br />(176.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416_mid.mp4)<br />(136.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416.mp4)<br />(74.0 MB)|

@@ -1,15 +1,15 @@
-# Using Node.js to Build for the Enterprise
+# Deliver a compelling experience on Microsoft AppSource
 
-*08 May 2018 04:00:00 @ Expo Hall Theater 2*
+*09 May 2018 19:30:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2027?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR1202?SFYT=true]
 
 ## Details
 
-Node.js core contributor James M Snell will highlight the unique benefits that the Node.js core project brings to the enterprise, as well as share tips and tricks on tools and frameworks that Node.js developers can use when building enterprise-scale cloud apps. (00:20:51)
+Learn how to deliver a compelling experience on Microsoft AppSource. You’ll hear best practices for publishing your app, how to create a Test Drive, and discover how ISVs are achieving success on our platform. (00:28:06)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/e664/b6b4b42d-077e-4605-8975-48b6aedde664/THR2027_high.mp4) (54.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e664/b6b4b42d-077e-4605-8975-48b6aedde664/THR2027_mid.mp4) (40.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e664/b6b4b42d-077e-4605-8975-48b6aedde664/THR2027.mp4) (21.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/8dbe/73712e47-7904-49a3-91a6-04611e258dbe/THR1202_high.mp4)<br />(79.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/8dbe/73712e47-7904-49a3-91a6-04611e258dbe/THR1202_mid.mp4)<br />(58.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8dbe/73712e47-7904-49a3-91a6-04611e258dbe/THR1202.mp4)<br />(28.0 MB)|

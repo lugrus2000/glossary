@@ -1,15 +1,15 @@
-# Continuous Monitoring for DevOps with Azure Application Insights & Log Analytics
+# What's new with Azure Machine Learning
 
-*09 May 2018 01:45:00 @ WSCC: Ballrooms 6C*
+*09 May 2018 19:15:00 @ Sheraton: Grand Ballroom C*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2143?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3226?SFYT=true]
 
 ## Details
 
-<p>Continuous monitoring through your entire DevOps life cycle can lead to better collaboration between Dev and Ops and help you optimize the user experience every step of the way, leaving more time for your next big innovation. Find out how you can integrate the experience across Dev and Ops, addressing the needs of application owners, IT pros and DevOps. Discover how monitoring solutions from Microsoft come together to help you manage, identify, understand, and resolve problems in your web apps and services. Azure Monitor with Application Insights and Log Analytics can help you close the loop between development and operations and fix issues faster with data and insights captured directly in production.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:23:39)
+<p>In September, we launched a huge set of updates for Azure Machine Learning to let you manage the end to end lifecycle of Machine Learning Development. We made it easy to scale to the cloud, deploy through containers to the cloud and the edge, use great frameworks like Tensorflow, PyTorch, Scikit, and more, and gave you a great monitoring and management experience. 7 months later, we're back to update you on the next wave of ML capabilities that will be at your fingertips to make it faster to build models, even easier to scale, more deployment options, and a few more things we're pretty excited to share with you. In this session, you'll learn how you can easily use Azure Machine Learning to build and deploy models for any of your applications.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (01:07:31)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143_high.mp4) (267.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143_mid.mp4) (195.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143.mp4) (89.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226_high.mp4)<br />(189.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226_mid.mp4)<br />(142.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/01db/25aa20e3-df51-4e15-9a75-56323bb601db/BRK3226.mp4)<br />(73.0 MB)|

@@ -1,15 +1,15 @@
-# All About Exchange 2019
+# Ignite: Day 3 Intro
 
-*25 September 2018 18:00:00 @ Channel 9 Stage*
+*26 September 2018 14:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/eOhTTcooM1M]
+> [!VIDEO https://www.youtube.com/embed/Jl5hBqAoeL0]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:13)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:07:05)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_high.mp4) (348.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_mid.mp4) (222.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02.mp4) (50.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_high.mp4)<br />(194.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_mid.mp4)<br />(122.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro.mp4)<br />(29.0 MB)|

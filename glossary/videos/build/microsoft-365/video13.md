@@ -1,15 +1,15 @@
-# Azure Storage – Foundation for Building Secure, Scalable Cloud Applications
+# Masterclass on extracting insights from your video using AI technologies
 
-*09 May 2018 00:00:00 @ WSCC: Rooms 615*
+*09 May 2018 23:30:00 @ Expo Hall Theater 1*
 
-> [!VIDEO ]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3126?SFYT=true]
 
 ## Details
 
-<p>A durable, scalable and secure data infrastructure is a key piece of building, scaling and securing your existing applications. Azure Storage services provide the data substrate to migrate legacy applications as well as build new applications in the cloud. In this talk, learn about best practices and patterns for using Azure Managed Disks for your lift and shift VMs, Azure Files and File Sync for seamlessly leveraging the cloud from your file servers and Azure Blob Storage for cloud native applications. We will cover new and roadmap features including tiered storage with life cycle management, immutable storage, Azure AD based authentication, encryption and network security, and zone redundant storage.</p> (01:13:46)
+Join us on this theatre presentation and learn how to use the Video Indexer application and it’s API to extract advanced insights from your videos and improve your video app’s search, accessibility and monetization opportunities. (00:17:47)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/fbee/20d0c98a-effd-4a14-aa28-caa77a2efbee/BRK2112_high.mp4) (413.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/fbee/20d0c98a-effd-4a14-aa28-caa77a2efbee/BRK2112_mid.mp4) (176.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/fbee/20d0c98a-effd-4a14-aa28-caa77a2efbee/BRK2112.mp4) (88.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1a35/70c33960-7382-4e89-b306-839744731a35/THR3126_high.mp4)<br />(75.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1a35/70c33960-7382-4e89-b306-839744731a35/THR3126_mid.mp4)<br />(51.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1a35/70c33960-7382-4e89-b306-839744731a35/THR3126.mp4)<br />(21.0 MB)|

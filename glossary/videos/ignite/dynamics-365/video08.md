@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_high.mp4) (194.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_mid.mp4) (122.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro.mp4) (29.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_high.mp4)<br />(194.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro_mid.mp4)<br />(122.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1334/9230754f-eb2d-4455-9376-e57c48cb1334/ch9d3intro.mp4)<br />(29.0 MB)|

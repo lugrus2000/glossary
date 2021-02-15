@@ -1,15 +1,15 @@
-# Battledecks: Ignite Edition
+# #FiveThings Live with Burke Holland
 
-*28 September 2018 18:00:00 @ Channel 9 Stage*
+*26 September 2018 18:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/gHJmM8Zz8rE]
+> [!VIDEO https://www.youtube.com/embed/fY7B_dAGrlY]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:51)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:22)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_high.mp4) (480.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_mid.mp4) (141.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition.mp4) (43.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_high.mp4)<br />(403.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03_mid.mp4)<br />(258.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9218/af75b1bb-c24a-4dcb-bd8d-8bb4e2e59218/ch9d3s03.mp4)<br />(61.0 MB)|

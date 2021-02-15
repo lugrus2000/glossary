@@ -1,15 +1,15 @@
-# How VSTS can power your process and product documentation needs with markdown powered Wiki
+# Introducing the all-new Starbucks Progressive Web App
 
-*15 February 2021 22:06:27 @ *
+*08 May 2018 21:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://www.youtube.com/embed/BdtlTJM6LpM]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2403?SFYT=true]
 
 ## Details
 
-<p>In this video we'll show you how Visual Studio Team Services (VSTS) Wiki powered by Git, markdown and elastic search can be your complete solution for any documentation needs. We'll cover both the web UI and Git-clone scenarios for editing the markdown documentation and show you the workflow that can power your teams next doc project. For more information visit our documentation: https://docs.microsoft.com/en-us/vsts/collaborate/?view=vsts</p> (00:13:39)
+<p>In this theater session, join Starbucks as they walk through how they re-built their website and replaced their Windows app using the new Progressive Web App platform. This new app enables ordering ahead, mobile pay, and Starbucks Rewards engagement across Web, Android devices, Windows, and more. It is a reliable, fast and engaging experience that leverages the best capabilities that PWAs have to offer.</p> (00:12:09)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064_high.mp4) (99.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064_mid.mp4) (31.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064.mp4) (14.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/0a9e/33dd4403-bcc8-4da7-8b0e-1621d4150a9e/THR2403_high.mp4)<br />(34.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0a9e/33dd4403-bcc8-4da7-8b0e-1621d4150a9e/THR2403_mid.mp4)<br />(25.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0a9e/33dd4403-bcc8-4da7-8b0e-1621d4150a9e/THR2403.mp4)<br />(12.0 MB)|

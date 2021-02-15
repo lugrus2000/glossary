@@ -1,15 +1,15 @@
-# Intelligent Edge: Microsoft Graph and IoT
+# Fluent Design: Evolving our Design System
 
-*09 May 2018 18:00:00 @ Expo Hall Theater 3*
+*09 May 2018 00:00:00 @ WSCC: Rooms 608*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2430?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2413?SFYT=true]
 
 ## Details
 
-Ask your toaster to update you on the location of your next meeting! Then ask your PC to resume the document you were reading. (00:14:07)
+Microsoft has continued to evolve the Fluent Design System’s set of controls, patterns, principles and design guidance since its debut at Build 2017. Get a hands-on look at how 1st-party Microsoft experiences are taking advantage of the system and empowering their users to achieve more by crafting experiences that are natural on each device, intuitive, powerful, engaging, and immersive. Come learn how you can build experiences with the latest Fluent Design features to help your users do more in our multi-device, multi-sensory world (00:58:05)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430_high.mp4) (43.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430_mid.mp4) (31.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430.mp4) (15.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/a81b/4a8cab53-b3b6-4e15-b3a6-c6c249bda81b/BRK2413_high.mp4)<br />(216.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a81b/4a8cab53-b3b6-4e15-b3a6-c6c249bda81b/BRK2413_mid.mp4)<br />(156.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a81b/4a8cab53-b3b6-4e15-b3a6-c6c249bda81b/BRK2413.mp4)<br />(71.0 MB)|

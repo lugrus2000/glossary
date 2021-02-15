@@ -1,15 +1,15 @@
-# Java at Microsoft
+# All About Exchange 2019
 
-*27 September 2018 21:45:00 @ Channel 9 Studio*
+*25 September 2018 18:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/XKWW6I8mY1g]
+> [!VIDEO https://www.youtube.com/embed/eOhTTcooM1M]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:16:06)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:13)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/b6d9/c16a1b6d-65c7-4052-be6b-3f83bfbcb6d9/ch9d4s08_high.mp4) (386.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b6d9/c16a1b6d-65c7-4052-be6b-3f83bfbcb6d9/ch9d4s08_mid.mp4) (240.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b6d9/c16a1b6d-65c7-4052-be6b-3f83bfbcb6d9/ch9d4s08.mp4) (56.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_high.mp4)<br />(348.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02_mid.mp4)<br />(222.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4285/b1d70338-5a7d-415c-b95d-43a1afad4285/ch9d2s02.mp4)<br />(50.0 MB)|

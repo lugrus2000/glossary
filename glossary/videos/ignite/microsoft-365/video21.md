@@ -1,15 +1,15 @@
-# Outlook Mobile Client in the Enterprise
+# Ignite: Day 5 Intro
 
-*26 September 2018 16:15:00 @ Channel 9 Stage*
+*28 September 2018 14:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/ZsoAGCHBXLA]
+> [!VIDEO https://www.youtube.com/embed/1T5U3fado_E]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:14:03)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:04)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/e7e5/fc1e8dd7-8593-4359-9b27-f1128c0ae7e5/ch9d3s01_high.mp4) (399.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e7e5/fc1e8dd7-8593-4359-9b27-f1128c0ae7e5/ch9d3s01_mid.mp4) (247.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e7e5/fc1e8dd7-8593-4359-9b27-f1128c0ae7e5/ch9d3s01.mp4) (50.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_high.mp4)<br />(252.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_mid.mp4)<br />(159.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro.mp4)<br />(36.0 MB)|

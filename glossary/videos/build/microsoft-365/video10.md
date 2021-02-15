@@ -1,15 +1,15 @@
-# What's new on Microsoft Graph
+# Getting your development projects in order with the tooling for Agile teams in VSTS
 
-*15 February 2021 22:06:38 @ *
+*15 February 2021 22:22:00 @ *
 
-> [!VIDEO https://www.youtube.com/embed/3X10r2VVLCg]
+> [!VIDEO https://www.youtube.com/embed/wOCDyv4k4vA]
 
 ## Details
 
-<p>Learn what is Microsoft Graph, how to use it and what are the new capabilities and data added in the last year.</p> (00:12:39)
+<p>In this video we'll show you how Agile tools in Visual Studio Team Services (VSTS) can make planning your next project easier then ever. We'll go over features such as backlog management (Tasks, bugs, features, etc.), Kanban boards, powerful queries using our query language and delivery plans. For more details see our documentation: https://docs.microsoft.com/en-us/vsts/?view=vsts#pivot=services&amp;panel=agile</p> (00:08:25)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_high.mp4) (138.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_mid.mp4) (54.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011.mp4) (21.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1b3d/23f78fa6-3eee-4ec5-b678-06ce9ef81b3d/THR5056_high.mp4)<br />(35.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1b3d/23f78fa6-3eee-4ec5-b678-06ce9ef81b3d/THR5056_mid.mp4)<br />(18.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1b3d/23f78fa6-3eee-4ec5-b678-06ce9ef81b3d/THR5056.mp4)<br />(9.0 MB)|

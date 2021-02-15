@@ -1,15 +1,15 @@
-# Excel APIs in Microsoft Graph
+# Getting started with Azure DevOps Projects to setup your CI/CD pipeline for Node.js and Containers
 
-*15 February 2021 22:06:49 @ *
+*15 February 2021 22:22:09 @ *
 
-> [!VIDEO https://www.youtube.com/embed/B14rEr3KzX8]
+> [!VIDEO https://www.youtube.com/embed/3etwjubReJs]
 
 ## Details
 
-<p>Learn about Excel service APIs available over Microsoft Graph to help your web and mobile solutions take advantage of Excel’s analysis and calculation power. Demo shows usage of Excel table filtering and reading of filtered view.&nbsp;</p> (00:08:44)
+<p>In this video, we walk you through setting up a CI/CD pipeline for your node.js app running in a container, hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details &amp; to get started visit: https://aka.ms/DevOpsProjects.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-node">https://aka.ms/azft-node</a></p> (00:06:00)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_high.mp4) (49.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_mid.mp4) (20.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008.mp4) (10.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_high.mp4)<br />(48.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_mid.mp4)<br />(19.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051.mp4)<br />(8.0 MB)|

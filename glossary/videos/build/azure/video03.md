@@ -1,15 +1,15 @@
-# Fun ways to Explore ML.NET
+# Introducing the Oracle Data Provider for .NET Core
 
-*08 May 2018 21:30:00 @ Expo Hall Theater 1*
+*07 May 2018 23:30:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3100?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2024?SFYT=true]
 
 ## Details
 
-<p>ML.NET is a new machine learning framework, built for .NET developers. This demo-heavy session will look at some fun things we can do with ML.NET. You'll learn how to use ML.NET to bring custom machine learning to your .NET applications.</p> (00:17:31)
+<p>Meet members of the .NET teams at Oracle and Microsoft to learn about Oracle’s new ADO.NET provider for .NET Core (currently in beta), discuss future plans for Oracle support on EF Core, and more. We will have demos and answer questions from the audience.</p> (00:19:14)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/b7e8/82606e19-c95f-4673-b288-fb200d55b7e8/THR3100_high.mp4) (49.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b7e8/82606e19-c95f-4673-b288-fb200d55b7e8/THR3100_mid.mp4) (37.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b7e8/82606e19-c95f-4673-b288-fb200d55b7e8/THR3100.mp4) (18.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9b20/0b8835aa-c02b-4abd-b1a3-11b4ed709b20/THR2024_high.mp4)<br />(64.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9b20/0b8835aa-c02b-4abd-b1a3-11b4ed709b20/THR2024_mid.mp4)<br />(47.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9b20/0b8835aa-c02b-4abd-b1a3-11b4ed709b20/THR2024.mp4)<br />(22.0 MB)|

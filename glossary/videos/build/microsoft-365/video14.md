@@ -1,15 +1,15 @@
-# Transforming Manufacturing, Energy & Utilities industries with Azure Stream Analytics
+# Deep learning at scale in Azure
 
-*09 May 2018 23:45:00 @ Sheraton: Grand Ballroom A*
+*09 May 2018 01:45:00 @ Sheraton: Metropolitan Ballroom A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3323?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3213?SFYT=true]
 
 ## Details
 
-<p>Handling IoT scale data for real-time analytics and low latency decision making requires specialized capabilities, on the network ‘Edge’ as well as the cloud. Azure Stream Analytics is uniquely positioned to help customers within the Manufacturing, Energy and Utilities industries . Attend this session and learn how features such as Stream Analytics on IoT Edge, Inline Anomaly detection and real-time Geospatial analytics can help you easily build and deploy end-2-end solutions and gain significant competitive advantages. We will also share the product roadmap and unveil some key new features.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:55:02)
+<p>More data means better models, but it also means that you've got to scale in order to create those models. In this session we'll dive into scaling deep learning with Azure, showing how you can use any framework like Tensorflow, MXNet, PyTorch, Caffe, and more and take advantage of elastic GPU enabled hardware.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:11:01)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_high.mp4) (169.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_mid.mp4) (126.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323.mp4) (60.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/728d/14d1e27f-9c30-4de7-b965-5b333f34728d/BRK3213_high.mp4)<br />(210.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/728d/14d1e27f-9c30-4de7-b965-5b333f34728d/BRK3213_mid.mp4)<br />(156.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/728d/14d1e27f-9c30-4de7-b965-5b333f34728d/BRK3213.mp4)<br />(76.0 MB)|

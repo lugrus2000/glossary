@@ -1,15 +1,15 @@
-# Azure Serverless with Mr. Serverless
+# Dealing with and Managing Burn Out
 
-*25 September 2018 19:45:00 @ Channel 9 Stage*
+*28 September 2018 16:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/f88aSPUkxd4]
+> [!VIDEO https://www.youtube.com/embed/tAj2OBqPJ9U]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:20:19)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4b5c/3307be66-c2ab-49fc-8903-fbdbdf574b5c/ch9d2s04_high.mp4) (652.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4b5c/3307be66-c2ab-49fc-8903-fbdbdf574b5c/ch9d2s04_mid.mp4) (404.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4b5c/3307be66-c2ab-49fc-8903-fbdbdf574b5c/ch9d2s04.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_high.mp4)<br />(320.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_mid.mp4)<br />(204.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02.mp4)<br />(43.0 MB)|

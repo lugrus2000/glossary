@@ -1,15 +1,15 @@
-# Building applications at warehouse scale for HoloLens
+# Accelerate your SaaS App development using the power of the Business Application Platform
 
-*08 May 2018 22:00:00 @ Expo Hall Theater 3*
+*09 May 2018 01:45:00 @ WSCC: Rooms 603*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3305?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3411?SFYT=true]
 
 ## Details
 
-Spatially aware devices are enabling applications to freely mix real and virtual worlds, untethered, at the scale of event spaces, factories and warehouses, not just room-scale. In our talk, we will discuss the lessons we have learned while developing applications for the HoloLens. These large-space interactions raise new challenges in UI, input, and associating of holograms to the real world. (00:22:34)
+Join this session to learn how the Business Application Platform can accelerate the time to market for your next Line of Business SaaS app. Through the lens of an ISV/software developer, we will walk you through the entire application development process showcasing what it takes to build a new, composite app from the ground up using out of the box no-code/no-code tooling, to extending with custom code and connectors through to packaging and publishing to AppSource allowing you to reach 120M&#43; monthly active users. During this session we will also touch upon the value of the Common Data Service for Apps as it applies specifically to you as an ISV, how you can extend and contribute to the ISV ecosystem flywheel and greatly reduce both cost and time to market for new SaaS apps. (01:18:48)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305_high.mp4) (86.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305_mid.mp4) (60.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305.mp4) (26.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/a612/388e9e0d-5c2a-48bc-8098-fae6ce33a612/BRK3411_high.mp4)<br />(177.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a612/388e9e0d-5c2a-48bc-8098-fae6ce33a612/BRK3411_mid.mp4)<br />(136.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a612/388e9e0d-5c2a-48bc-8098-fae6ce33a612/BRK3411.mp4)<br />(75.0 MB)|

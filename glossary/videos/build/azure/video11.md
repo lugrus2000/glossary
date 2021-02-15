@@ -1,15 +1,15 @@
-# Designing Realities - Building experiences not games
+# Leveraging SharePoint as a development platform for the modern intranet
 
-*08 May 2018 20:30:00 @ Expo Hall Theater 3*
+*09 May 2018 01:45:00 @ Sheraton: Grand Ballroom D*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2422?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2409?SFYT=true]
 
 ## Details
 
-<p>The first wave of experiences that enter this new interactive world is coming to a close. Let's apply what we've learned and stop building discrete interactions or focusing on mechanics. Instead, focus on building realities people want to live in. We've been making games for decades using these tools and now they're evolving to support so much more. Small adjustments can make all the difference in your application. Keith Bradner, from Bend Labs, will talk about why we need to evolve our design, and specific examples around what that means.</p> (00:19:51)
+SharePoint has been re-built to make it much quicker and easier to deliver compelling web experiences across your organization.&nbsp; Deeply extend&nbsp;SharePoint user experiences using modern script and frameworks like React and Angular.&nbsp; Connect to SharePoint and beyond with MIcrosoft Graph technologies. Discover the foundation of modern intranets, and what's new for building them, within SharePoint in Office 365. (01:09:50)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422_high.mp4) (105.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422_mid.mp4) (75.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422.mp4) (29.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/f04d/14d86b79-f288-49e4-a9d0-2e4217f4f04d/BRK2409_high.mp4)<br />(176.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/f04d/14d86b79-f288-49e4-a9d0-2e4217f4f04d/BRK2409_mid.mp4)<br />(135.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/f04d/14d86b79-f288-49e4-a9d0-2e4217f4f04d/BRK2409.mp4)<br />(71.0 MB)|

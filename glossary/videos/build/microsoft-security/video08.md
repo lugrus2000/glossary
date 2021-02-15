@@ -1,15 +1,15 @@
-# Getting started with CI/CD & Azure Container Service (AKS) powered by VSTS
+# Visual Studio for Mac Tips & Tricks
 
-*15 February 2021 22:06:44 @ *
+*09 May 2018 23:00:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://www.youtube.com/embed/HMIxLaisKiI]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2021?SFYT=true]
 
 ## Details
 
-<p>In this video we walk through, step by step, how to setup a complete CI/CD pipeline for Azure Container Service (AKS) and VSTS. You will learn how to build and push a Docker image to Azure Container Registry, and then use that image as part of your release definition where you create a deployment to your AKS Kubernetes cluster. If you are completely new to Kubernetes, this is the video for you. We use two simple commands as tasks to handle the deployment during release: kubectl run [deployment-name] --image [image-name] --port [application-port] kubectl expose deployment [deployment-name] --type=LoadBalancer --port 80 --target-port [application-port] That's it! Try it out and tag me on Twitter (@jldeen) if you deploy your first container (pod)! Get started today with VSTS, visit: <a href="https://www.visualstudio.com/vsts">https://www.visualstudio.com/vsts</a></p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:24:30)
+<p>Visual Studio for Mac is the Microsoft IDE natively designed for the Mac. You get everything you need for mobile, web, game and cloud development with C# and F#, with rich support for Xamarin, .NET Core, Unity and Azure development. In this session, come hang out with Jordan as he takes you through tips and tricks to help you get the most out of Visual Studio for Mac. This one's for beginners and experts alike!</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p><div id="selenium-highlight">&nbsp;</div> (00:15:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/156e/d4f9da4e-3d3b-4dba-b32b-fdf4d43d156e/THR5061_high.mp4) (229.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/156e/d4f9da4e-3d3b-4dba-b32b-fdf4d43d156e/THR5061_mid.mp4) (64.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/156e/d4f9da4e-3d3b-4dba-b32b-fdf4d43d156e/THR5061.mp4) (29.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021_high.mp4)<br />(45.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021_mid.mp4)<br />(33.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3860/2a6b85eb-13d9-4cc5-a300-dfd847323860/THR2021.mp4)<br />(16.0 MB)|

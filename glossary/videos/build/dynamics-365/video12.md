@@ -1,15 +1,15 @@
-# Serverless, SPAs, and Scalability
+# Modernize applications and reduce TCO with Windows containers on Azure Service Fabric 
 
-*09 May 2018 01:45:00 @ WSCC: Rooms 612*
+*08 May 2018 00:30:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3710?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2034?SFYT=true]
 
 ## Details
 
-<p>Learn to build SPAs that take advantage of serverless optimizations, giving you epic scalability and super-low latencies at a fraction of the cost. We'll demonstrate why serverless is the perfect companion to SPAs and how to architect the REST of your application using Azure Functions and Azure Logic Apps. Walk away knowing how to convert an existing app or create a brand new one using a full serverless stack fronted by an SPA.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (00:33:25)
+<p>Join us to learn how Accenture is using Windows containers on Service Fabric for their existing .NET legacy apps. Containers greatly improve server utilization and management while enabling your developers to spin up an environment to run without the need of infrastructure. In this session, we introduce—through a real-world customer example—the use of containers on Azure Service Fabric to modernize, deploy and operate .NET applications at scale.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:20:52)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/5fe6/8f9e8213-6e44-4f23-9a82-8fcda5105fe6/BRK3710_high.mp4) (88.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5fe6/8f9e8213-6e44-4f23-9a82-8fcda5105fe6/BRK3710_mid.mp4) (65.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5fe6/8f9e8213-6e44-4f23-9a82-8fcda5105fe6/BRK3710.mp4) (34.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/95df/cc159443-3d27-4411-a280-bc4198fb95df/THR2034_high.mp4)<br />(58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/95df/cc159443-3d27-4411-a280-bc4198fb95df/THR2034_mid.mp4)<br />(42.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/95df/cc159443-3d27-4411-a280-bc4198fb95df/THR2034.mp4)<br />(21.0 MB)|

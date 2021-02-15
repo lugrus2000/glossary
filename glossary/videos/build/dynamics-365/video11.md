@@ -1,15 +1,15 @@
-# Developing custom connectors for Microsoft Flow and PowerApps
+# Talking PWAs with Twitter
 
-*09 May 2018 22:00:00 @ WSCC: Rooms 603*
+*09 May 2018 18:45:00 @ C9L Stage*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3405?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/C9L18?SFYT=true]
 
 ## Details
 
-<p>PowerApps already provides over 200 connectors -to Microsoft as well as to 3d party services- for app makers to use and combine into their apps. Learn how you can build custom connectors and make them available to app makers around the world.</p> (01:18:18)
+<p>Watch this session to find out why Twitter brought its PWA to the Microsoft Store and integrated it into Windows 10.</p> (00:28:43)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405_high.mp4) (197.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405_mid.mp4) (150.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1dbb/c13824a5-d628-4660-af8a-226d74921dbb/C9L18_high.mp4)<br />(671.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1dbb/c13824a5-d628-4660-af8a-226d74921dbb/C9L18_mid.mp4)<br />(461.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1dbb/c13824a5-d628-4660-af8a-226d74921dbb/C9L18.mp4)<br />(103.0 MB)|
