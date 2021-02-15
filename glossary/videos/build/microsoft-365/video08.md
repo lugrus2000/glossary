@@ -1,15 +1,15 @@
-# Spatial Analytics for Mixed Reality
+# Enhancing DevOps with SQL Server on Linux + containers
 
-*08 May 2018 01:30:00 @ Sheraton: Grand Ballroom D*
+*09 May 2018 17:30:00 @ WSCC: Rooms 612*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2427?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3308?SFYT=true]
 
 ## Details
 
-Get hands on with spatial intelligence for mixed reality. We'll be working with time-series spatial data from IoT devices and integrating insights from that data into applications using the Microsoft Graph API. (00:38:08)
+<p>SQL Server 2017 runs now on both Linux and containers. In this session you will learn how SQL Server 2017 supports Continuous Deployment/Continuous Integration (CD/CI) and other DevOps processes. You will also learn the latest on cross-platform tooling, APIs, and how to develop apps with SQL Server running anywhere. We will also demo how easy it is to use SQL Server in your modern database development workflows.</p> (01:14:33)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/0fbd/a43cf850-774f-4a53-9c52-5b0133e40fbd/BRK2427_high.mp4) (113.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0fbd/a43cf850-774f-4a53-9c52-5b0133e40fbd/BRK2427_mid.mp4) (85.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0fbd/a43cf850-774f-4a53-9c52-5b0133e40fbd/BRK2427.mp4) (42.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308_high.mp4) (162.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308_mid.mp4) (121.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308.mp4) (64.0 MB)|

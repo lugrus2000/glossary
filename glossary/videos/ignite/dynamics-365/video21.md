@@ -1,15 +1,15 @@
-# Azure Identity
+# Building a More Diverse and Inclusive Team
 
-*26 September 2018 18:15:00 @ Channel 9 Stage*
+*27 September 2018 21:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/Dnrvw3vWPGg]
+> [!VIDEO https://www.youtube.com/embed/P2T_NxxZpeg]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:38)
+<p>Building a More Diverse and Inclusive Team at Microsoft Ignite 2018.</p> (00:12:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_high.mp4) (247.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04_mid.mp4) (155.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/46d8/b750181d-dc76-45fd-a36e-84ec91bf46d8/ch9d3s04.mp4) (35.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07_high.mp4) (389.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07_mid.mp4) (251.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07.mp4) (57.0 MB)|

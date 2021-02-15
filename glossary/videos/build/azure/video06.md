@@ -1,15 +1,15 @@
-# Visual Studio Futures: IntelliCode and Live Share
+# How to Adopt Modern C++17 into Your C++ Code
 
-*09 May 2018 00:00:00 @ C9L Stage*
+*08 May 2018 19:30:00 @ WSCC: Rooms 603*
 
-> [!VIDEO https://www.youtube.com/embed/MefPybag9LE]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2146?SFYT=true]
 
 ## Details
 
-<p>Brian Clark sits down with Amanda Silver to talk about the future of Visual Studio.</p> (00:15:24)
+Just how different is &quot;Modern C&#43;&#43;&quot; from &quot;legacy C&#43;&#43;&quot;? Is my codebase ready for C&#43;&#43;17? Do I need a full rewrite of my app to modernize my code? If you're looking for answers to some of these questions, join us for a session on how to effectively leverage modern C&#43;&#43;17 features in your existing C&#43;&#43; projects; and no, you don't need to rewrite your app. (00:50:50)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/0de0/56b79ee0-9fd8-4099-9075-5512e7090de0/Build2018AmandaSilverIntelliCode_high.mp4) (280.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0de0/56b79ee0-9fd8-4099-9075-5512e7090de0/Build2018AmandaSilverIntelliCode_mid.mp4) (168.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0de0/56b79ee0-9fd8-4099-9075-5512e7090de0/Build2018AmandaSilverIntelliCode.mp4) (37.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146_high.mp4) (134.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146_mid.mp4) (102.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/206f/ac0d5904-9b86-4c36-a3b5-1f2d52ad206f/BRK2146.mp4) (53.0 MB)|

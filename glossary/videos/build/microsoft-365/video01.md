@@ -1,15 +1,15 @@
-# Microsoft AI overview for developers
+# Object Detection Made Easy: Know what objects show up in your images, and where they are located
 
-*07 May 2018 22:00:00 @ WSCC: Ballrooms 6E*
+*08 May 2018 23:30:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3218?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3104?SFYT=true]
 
 ## Details
 
-<p>Building intelligent apps is something we know a little bit about, and we want to show you how you can do this today too! In this session,&nbsp;Harry&nbsp;Shum will cover the full landscape of the Microsoft AI capabilities, including how to infuse AI into your existing applications, how to do custom AI in any language, and how to scale your AI processes to the cloud and to the edge. Join us for the demo-filled survey of everything you can do with AI today.</p> (01:14:04)
+<p>Computer Vision API does object detection for thousands of objects; CustomVision.ai then enables you to easily define your own custom objects to detect in images. In this talk, we will cover best practices on how to build a balanced training set, and how to get the best object detection results with CustomVision.ai</p> (00:17:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_high.mp4) (325.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_mid.mp4) (232.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218.mp4) (95.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1dd4/66178867-fedc-4594-a4ed-153688471dd4/THR3104_high.mp4) (43.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1dd4/66178867-fedc-4594-a4ed-153688471dd4/THR3104_mid.mp4) (32.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1dd4/66178867-fedc-4594-a4ed-153688471dd4/THR3104.mp4) (17.0 MB)|

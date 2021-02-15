@@ -1,15 +1,15 @@
-# Collaborating with MS Teams
+# Discussing Azure AD with CVP Alex Simons
 
-*25 September 2018 20:00:00 @ Channel 9 Stage*
+*27 September 2018 20:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/JfqsEu3OW6M]
+> [!VIDEO https://www.youtube.com/embed/2Yp-bViSuUk]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:26)
+<p>Discussing Azure AD with CVP Alex Simons</p> (00:15:29)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05_high.mp4) (416.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05_mid.mp4) (263.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/40ca/c8eab9a6-ca88-42e9-9810-8ba6e68640ca/ch9d2s05.mp4) (62.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_high.mp4) (427.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_mid.mp4) (270.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06.mp4) (60.0 MB)|

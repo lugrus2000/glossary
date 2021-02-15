@@ -1,15 +1,15 @@
-# Azure Service Bus and Logic Apps for messaging and process automation
+# All Things Mobile
 
-*08 May 2018 22:30:00 @ Expo Hall Theater 2*
+*08 May 2018 20:45:00 @ C9L Stage*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2015?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/C9L11?SFYT=true]
 
 ## Details
 
-Messaging and process automation are key elements to architect microservice solutions. Learn how Azure Service Bus and Logic Apps can help you build cloud-native applications in a serverless world. (00:20:48)
+<p>In this video, Christina and Jim interview Miguel de Icaza, Simina Pasat and Thomas Dohmke about all things mobile.</p><div id="selenium-highlight">&nbsp;</div> (00:32:07)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_high.mp4) (52.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_mid.mp4) (38.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015.mp4) (20.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/0b4a/eb25f901-4375-4c69-84c9-5786a37c0b4a/C9L11_high.mp4) (683.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0b4a/eb25f901-4375-4c69-84c9-5786a37c0b4a/C9L11_mid.mp4) (451.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0b4a/eb25f901-4375-4c69-84c9-5786a37c0b4a/C9L11.mp4) (99.0 MB)|

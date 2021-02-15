@@ -1,15 +1,15 @@
-# Continuous, efficient & reliable testing with integrated reporting in CI/CD
+# Tooling and DevOps for the Hybrid Cloud with Azure and Azure Stack
 
-*09 May 2018 21:30:00 @ Expo Hall Theater 2*
+*09 May 2018 19:15:00 @ Sheraton: Grand Ballroom A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2026?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2135?SFYT=true]
 
 ## Details
 
-<p>Continuous testing is integral to CI/CD. In this session we will show you how to easily run tests in the CI/CD pipeline, speed up test cycles, deal with test flakiness, get near real time test reporting &amp; debugging experience and identify top failing tests in Build and Release pipelines</p> (00:19:16)
+<p>Azure and Azure Stack provide a unified tooling and DevOps experience across clouds. Learn how you can speed development with a consistent cloud platform.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:09:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_high.mp4) (58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026.mp4) (20.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/67ae/73cdbb9a-d3e4-4e9d-9a8a-d82e94f967ae/BRK2135_high.mp4) (199.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/67ae/73cdbb9a-d3e4-4e9d-9a8a-d82e94f967ae/BRK2135_mid.mp4) (149.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/67ae/73cdbb9a-d3e4-4e9d-9a8a-d82e94f967ae/BRK2135.mp4) (76.0 MB)|

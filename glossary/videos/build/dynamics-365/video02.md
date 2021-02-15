@@ -1,15 +1,15 @@
-# Technology Keynote: Microsoft Azure
+# Intelligent Edge: Microsoft Graph and IoT
 
-*07 May 2018 19:00:00 @ WSCC: Hall 4EF*
+*09 May 2018 18:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/TK01?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2430?SFYT=true]
 
 ## Details
 
-<p>Keynote.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:44:43)
+Ask your toaster to update you on the location of your next meeting! Then ask your PC to resume the document you were reading. (00:14:07)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01_high.mp4) (2.0 GB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01_mid.mp4) (839.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01.mp4) (232.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430_high.mp4) (43.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430_mid.mp4) (31.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430.mp4) (15.0 MB)|

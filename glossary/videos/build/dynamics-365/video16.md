@@ -1,15 +1,15 @@
-# Designing Inclusive Experiences to Maximize Reach and Satisfaction
+# Building performant and re-engaging web apps with Service Worker
 
-*08 May 2018 04:30:00 @ Expo Hall Theater 3*
+*09 May 2018 00:00:00 @ WSCC: Ballrooms 6A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2421?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2404?SFYT=true]
 
 ## Details
 
-Demystify accessibility by explaining what users need, what developers can do to meet those needs and how accessibility works (from an application through the platform to assistive technology) (00:20:40)
+Learn about the building blocks of creating an offline-enabled and re-engaging Progressive Web App: Service Worker, Push, Fetch, and Cache. We'll cover each of these web features and how they provide performance benefits and help maintain functionality even under poor network conditions as well as how to bring users back via push notifications. (01:02:57)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-| |[Medium quality MP4](https://sec.ch9.ms/ch9/c864/b98d373a-05ea-45f1-9118-99ccf892c864/THR2421_mid.mp4) (41.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c864/b98d373a-05ea-45f1-9118-99ccf892c864/THR2421.mp4) (21.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404_high.mp4) (184.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404_mid.mp4) (133.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404.mp4) (66.0 MB)|

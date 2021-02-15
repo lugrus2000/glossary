@@ -1,15 +1,15 @@
-# Battledecks: Ignite Edition
+# What's New in Visual Studio Code
 
-*28 September 2018 18:00:00 @ Channel 9 Stage*
+*25 September 2018 18:15:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/gHJmM8Zz8rE]
+> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:12:51)
+<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_high.mp4) (480.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition_mid.mp4) (141.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1543/0a917a46-7f45-4e1c-8d1d-be23ad4d1543/BattledecksIgniteEdition.mp4) (43.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4) (338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4) (214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4) (53.0 MB)|

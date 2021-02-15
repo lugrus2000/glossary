@@ -1,15 +1,15 @@
-# Inside Azure Datacenter Architecture with Mark Russinovich
+# Multiplayer Server Scaling with Azure Container Instances
 
-*09 May 2018 19:15:00 @ WSCC: Ballrooms 6E*
+*09 May 2018 20:00:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2508?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3512?SFYT=true]
 
 ## Details
 
-<p>Microsoft Azure has achieved massive, global scale, with 50 announced regions consisting of over 100 datacenters, and it is growing fast. It delivers the promise of cloud computing, including high-availability, extreme performance, and security, by custom designing software and hardware to work best together. Mark takes you on a tour of Azure’s datacenter architecture and implementation innovations, describing everything from Azure’s reliable clean-energy datacenter designs, to how we are using FPGAs to accelerate networking and machine learning, to how we design storage servers to deliver ultra-low latency and high throughput, and more.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:18:35)
+<p>There are few things more annoying to a gamer than trying to play an online multiplayer game where the backend servers are not up to the challenge of handling the onslaught of players, but a game whose multiplayer servers are constantly burning cycles with no one playing is costly and wasteful for the developer. In this session, we will explore one possible solution using Azure Container Instances, Event Grid, and Azure Functions to host a stateful, isolated multiplayer backend that is lightweight, automatically scales on demand, and is billed per second of usage. &nbsp;Using the open source game OpenArena as an example, we will create this scalable service from start to finish, and you will be able to run the OpenArena client on your own device and play against fellow attendees in real time, while the service scales as needed.</p><p>Source code: <a href="https://aka.ms/acimgmt">https://aka.ms/acimgmt</a></p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:22:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/8c19/f90315c3-3f34-429a-b2e9-3059de6d8c19/BRK2508_high.mp4) (85.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/8c19/f90315c3-3f34-429a-b2e9-3059de6d8c19/BRK2508_mid.mp4) (226.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8c19/f90315c3-3f34-429a-b2e9-3059de6d8c19/BRK2508.mp4) (27.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_high.mp4) (75.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_mid.mp4) (54.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512.mp4) (25.0 MB)|

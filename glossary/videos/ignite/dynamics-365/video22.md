@@ -1,15 +1,15 @@
-# Ignite: Day 4 Intro
+# Discussing Azure AD with CVP Alex Simons
 
-*27 September 2018 14:45:00 @ Channel 9 Stage*
+*27 September 2018 20:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/825TFP3rZmI]
+> [!VIDEO https://www.youtube.com/embed/2Yp-bViSuUk]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:08:58)
+<p>Discussing Azure AD with CVP Alex Simons</p> (00:15:29)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro_high.mp4) (260.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro_mid.mp4) (164.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro.mp4) (40.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_high.mp4) (427.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_mid.mp4) (270.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06.mp4) (60.0 MB)|

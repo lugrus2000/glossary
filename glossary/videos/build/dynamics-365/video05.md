@@ -1,15 +1,15 @@
-# Serverless in Action
+# Building applications at warehouse scale for HoloLens
 
-*09 May 2018 00:00:00 @ WSCC: Ballrooms 6B*
+*08 May 2018 22:00:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2132?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3305?SFYT=true]
 
 ## Details
 
-<p>Serverless is a hot trend but are you taking full advantage of all the productivity and scalability benefits serverless architectures have to offer?&nbsp; In this session you will learn about the best practices for building serverless applications – both for architectural patterns using various Azure services as well as for tools to accelerate development.&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (01:13:16)
+Spatially aware devices are enabling applications to freely mix real and virtual worlds, untethered, at the scale of event spaces, factories and warehouses, not just room-scale. In our talk, we will discuss the lessons we have learned while developing applications for the HoloLens. These large-space interactions raise new challenges in UI, input, and associating of holograms to the real world. (00:22:34)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132_high.mp4) (213.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132_mid.mp4) (85.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305_high.mp4) (86.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305_mid.mp4) (60.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305.mp4) (26.0 MB)|

@@ -1,15 +1,15 @@
-# What’s new with Cortana and the Skills Kit
+# Automating business processes and approvals with Microsoft Flow
 
-*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom A*
+*08 May 2018 22:15:00 @ Sheraton: Grand Ballroom D*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3236?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2302?SFYT=true]
 
 ## Details
 
-Cortana is Microsoft’s personal digital assistant used by over 140 million people. In this session, we will cover how you as a developer can extend Cortana’s capabilities to interact with users via the Cortana Skills Kit. Learn about some of the exciting new features added to Cortana and the Skills Kit over the past year and things to come soon. (00:46:45)
+<p>Use Microsoft Flow to easily add business process automation and approval processes to your solutions. You'll learn to build Flows with a few simple clicks and extend your learnings to more advanced techniques and expressions used to build complex workflows. Finally discover how you can take it up to Azure Logic Apps when it makes sense.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:15:47)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_high.mp4) (120.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_mid.mp4) (4.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236.mp4) (47.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/fba2/484c274b-c373-4a16-93a3-8bb35d3bfba2/BRK2302_high.mp4) (185.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/fba2/484c274b-c373-4a16-93a3-8bb35d3bfba2/BRK2302_mid.mp4) (143.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/fba2/484c274b-c373-4a16-93a3-8bb35d3bfba2/BRK2302.mp4) (77.0 MB)|

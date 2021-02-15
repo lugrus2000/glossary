@@ -1,15 +1,15 @@
-# Interview with Microsoft CVP Corey Sanders
+# A Conversation with Azure CTO, Mark Russinovich
 
-*25 September 2018 16:15:00 @ Channel 9 Stage*
+*26 September 2018 21:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/TyHi1mSgEKo]
+> [!VIDEO https://www.youtube.com/embed/aDxFfpPRZvo]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:22:51)
+<p>Live Q&amp;A with the CTO of Azure, Mark Russinovich at Microsoft Ignite 2018.</p> (00:30:29)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_high.mp4) (139.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_mid.mp4) (82.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01.mp4) (26.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_high.mp4) (882.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_mid.mp4) (554.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07.mp4) (131.0 MB)|

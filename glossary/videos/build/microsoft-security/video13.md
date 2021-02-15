@@ -1,15 +1,15 @@
-# What's new for Serverless Computing in Azure
+# Git patterns and anti-patterns for successful developers
 
-*07 May 2018 23:45:00 @ WSCC: Ballrooms 6A*
+*08 May 2018 20:00:00 @ Expo Hall Theater 2*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2137?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2017?SFYT=true]
 
 ## Details
 
-<p>Serverless applications are transforming the ways that developers are solving problems by radically increasing productivity and reducing operational friction. In this session, we review the various Azure technologies enabling this trend, including Functions, Logic Apps, Event Grid, and more. &nbsp;Learn what Azure serverless platform can do for you with examples of successful serverless applications.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (01:16:21)
+In this session we show how to use Git in teams with pull requests and how to use branches to manage your releases. In this session we will compare GitHub flow with the 'Release Flow' practised at Microsoft. (00:20:25)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/54bd/8343ce5a-652f-4f00-875a-49e1590454bd/BRK2137_high.mp4) (255.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/54bd/8343ce5a-652f-4f00-875a-49e1590454bd/BRK2137_mid.mp4) (186.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/54bd/8343ce5a-652f-4f00-875a-49e1590454bd/BRK2137.mp4) (84.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/d01e/06487279-c2df-4be3-9790-022c337fd01e/THR2017_high.mp4) (55.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d01e/06487279-c2df-4be3-9790-022c337fd01e/THR2017_mid.mp4) (40.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d01e/06487279-c2df-4be3-9790-022c337fd01e/THR2017.mp4) (21.0 MB)|

@@ -1,15 +1,15 @@
-# Build smart productivity apps with the Microsoft Graph Java SDK  
+# Microsoft Store and Dev Center: Updated and new features to help you be successful
 
-*15 February 2021 21:37:28 @ *
+*09 May 2018 19:15:00 @ WSCC: Rooms 620*
 
-> [!VIDEO https://www.youtube.com/embed/ZnTcmiQgS08]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2415?SFYT=true]
 
 ## Details
 
-<p>Learn how to get started using the Microsoft Graph Java SDK with an overview of the library and a demo of using the SDK to connect with OneNote and SharePoint.&nbsp;Try out the code yourself at https://github.com/cbales/onenote-content-push-java-graph-sample</p> (00:09:07)
+<p>In this session you'll learn how Microsoft Store is evolving to be the best place for you to distribute your applications on Windows. We'll talk about the new features we are building in Dev Center to make publishing easier, increase your monetization opportunities and discover analytics that can help you optimize your applications.</p> (01:12:44)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003_high.mp4) (61.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003_mid.mp4) (25.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003.mp4) (10.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/b0f6/c1d3f519-aade-4583-901a-dbd5474cb0f6/BRK2415_high.mp4) (199.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b0f6/c1d3f519-aade-4583-901a-dbd5474cb0f6/BRK2415_mid.mp4) (146.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b0f6/c1d3f519-aade-4583-901a-dbd5474cb0f6/BRK2415.mp4) (75.0 MB)|

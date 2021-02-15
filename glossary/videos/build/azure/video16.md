@@ -1,15 +1,15 @@
-# Migrating from TFS to VSTS – Using the TFS Database Import Service
+# Unlocking security insights with Microsoft Graph API
 
-*09 May 2018 02:30:00 @ Expo Hall Theater 2*
+*08 May 2018 22:15:00 @ Sheraton: Grand Ballroom A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2023?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2435?SFYT=true]
 
 ## Details
 
-If you like all the great features of VSTS and the ease of automatic upgrades, but want to know how to get your projects moved over, this session will discuss how to move from TFS to the cloud. The best part is your data comes with you! We will show you how to get your team up and running in the cloud quickly. (00:21:39)
+As organizations deploy additional security controls to combat today’s evolving threats, integration challenges often limit the return of investment. The new security API in the Microsoft Graph makes it easier for enterprise developers and ISVs to unlock insights from these solutions by unifying and standardizing alerts for easier integration and correlation, bringing together contextual data to inform investigations, and enabling automation for greater SecOps efficiency. We will walk through real world examples of applications that leverage the security API to help customers realize the full value of their security investments. (00:45:16)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/75bb/21223a27-8698-43e8-8bac-42554fb375bb/THR2023_high.mp4) (67.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/75bb/21223a27-8698-43e8-8bac-42554fb375bb/THR2023_mid.mp4) (49.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/75bb/21223a27-8698-43e8-8bac-42554fb375bb/THR2023.mp4) (23.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435_high.mp4) (108.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435_mid.mp4) (83.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cfac/a13fcdd3-391a-4179-81db-c86fe124cfac/BRK2435.mp4) (45.0 MB)|

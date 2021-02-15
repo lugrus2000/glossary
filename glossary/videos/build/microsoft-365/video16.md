@@ -1,15 +1,15 @@
-# Transforming Manufacturing, Energy & Utilities industries with Azure Stream Analytics
+# Modernizing existing .NET applications with Windows Containers and Azure cloud
 
-*09 May 2018 23:45:00 @ Sheraton: Grand Ballroom A*
+*10 May 2018 01:30:00 @ WSCC: Rooms 608*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3323?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3810?SFYT=true]
 
 ## Details
 
-<p>Handling IoT scale data for real-time analytics and low latency decision making requires specialized capabilities, on the network ‘Edge’ as well as the cloud. Azure Stream Analytics is uniquely positioned to help customers within the Manufacturing, Energy and Utilities industries . Attend this session and learn how features such as Stream Analytics on IoT Edge, Inline Anomaly detection and real-time Geospatial analytics can help you easily build and deploy end-2-end solutions and gain significant competitive advantages. We will also share the product roadmap and unveil some key new features.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:55:02)
+<p>In this talk we’ll show why you’d want to modernize your existing .NET apps (traditional ASP.NET WebForms, MVC apps and WCF services) with Windows Containers and Azure. What are the benefits you get with those new technologies and how you can actually implement it and move it to the cloud quickly, showing you many demos about it.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-net">https://aka.ms/azft-net</a></p> (01:09:45)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_high.mp4) (169.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_mid.mp4) (126.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323.mp4) (60.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cf0e/8c83e6ca-6234-45b0-969f-4bbd6465cf0e/BRK3810_high.mp4) (201.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf0e/8c83e6ca-6234-45b0-969f-4bbd6465cf0e/BRK3810_mid.mp4) (152.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf0e/8c83e6ca-6234-45b0-969f-4bbd6465cf0e/BRK3810.mp4) (76.0 MB)|

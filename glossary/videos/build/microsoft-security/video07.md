@@ -1,15 +1,15 @@
-# Building full-stack Node.js web apps with Visual Studio Code
+# Visual Studio futures: Amanda Silver and Deborah Chen
 
-*09 May 2018 22:00:00 @ WSCC: Ballrooms 6C*
+*08 May 2018 17:00:00 @ C9L Stage*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2140?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/LWkLUa-CkUY]
 
 ## Details
 
-<p>Node.js is a scalable JavaScript server runtime with a huge ecosystem of open source packages and a variety of front-end frameworks to build web apps with, like Angular, React, and Vue. In this demo-packed session you'll learn how Visual Studio Code, our open source, cross-platform editor, supercharges your productivity as we build a web app, including debugging front-end and server-side code and deploying.</p> (00:45:11)
+<p>In this video, Seth interviews Amanda Silver&nbsp;and Deborah Chen about Intellicode. Intellicode is an AI-enhanced version of IntelliSense for Visual Studio.</p> (00:24:30)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140_high.mp4) (156.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140_mid.mp4) (114.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140.mp4) (52.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/5087/4a67857e-d53e-4de9-9d2d-a87816d85087/C9L09_high.mp4) (106.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5087/4a67857e-d53e-4de9-9d2d-a87816d85087/C9L09_mid.mp4) (288.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5087/4a67857e-d53e-4de9-9d2d-a87816d85087/C9L09.mp4) (77.0 MB)|

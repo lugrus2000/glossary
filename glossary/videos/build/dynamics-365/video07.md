@@ -1,15 +1,15 @@
-# Azure Tips and Tricks: Become more productive with azure in 20 minutes
+# Getting Started with Visual Studio Tools for AI
 
-*07 May 2018 23:00:00 @ Expo Hall Theater 2*
+*09 May 2018 22:30:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2003?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3129?SFYT=true]
 
 ## Details
 
-<p>Spend 20 minutes in this fast-faced, demo-heavy talk with CDA Cecil Philips and PM Michael Crump, that will take you through some of my long-standing favorite Azure tips and tricks, as well as introduce you to some that have already been there. Whether you’re interested in quick ways to navigate the Azure Portal, making the most of the Azure CLI, or working with IDE and editors, there’s something for everyone. Spend 20 minutes now to shave hours off your coding tasks tomorrow.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:26:40)
+<p>Visual Studio Tools for AI makes it easy to train, debug and deploy AI infused applications and services. Come learn how to easily infuse AI into your applications and services, get started with machine learning and scale out model training in the cloud using Azure Machine Learning and Azure Batch AI all from Visual Studio for maximum productivity.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (00:24:58)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_high.mp4) (93.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_mid.mp4) (67.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003.mp4) (31.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_high.mp4) (99.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_mid.mp4) (70.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129.mp4) (29.0 MB)|

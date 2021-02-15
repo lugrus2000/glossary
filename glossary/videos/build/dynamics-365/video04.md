@@ -1,15 +1,15 @@
-# Azure DevOps with VSTS
+# Accelerating Windows 10 enterprise app deployment with MSIX
 
-*09 May 2018 19:15:00 @ WSCC: Ballrooms 6B*
+*09 May 2018 22:00:00 @ Sheraton: Grand Ballroom D*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2105?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2416?SFYT=true]
 
 ## Details
 
-<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. Microsoft has a fantastic set of products that can adapt to any language on any platform. In this demo heavy session, starting from just a blank desktop, we will create a new DevOps project and a complete pipeline. We will show you how to deploy to a number of different Azure services, all live and hands on.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:58:49)
+<p>MSIX provides lots of benefits across the app lifecycle management. Learn how to take advantage of MSIX in your enterprise and the benefits to developers, IT Pros and end users. During the session we will deep dive into the benefits of MSIX and the new tooling and features available to make it easy to move your existing apps to MSIX. As you move to MSIX we will also discuss what it means for things like legacy plug-ins.</p> (01:14:48)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_high.mp4) (166.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_mid.mp4) (124.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105.mp4) (61.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416_high.mp4) (176.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416_mid.mp4) (136.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416.mp4) (74.0 MB)|

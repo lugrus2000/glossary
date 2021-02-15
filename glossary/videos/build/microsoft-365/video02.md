@@ -1,15 +1,15 @@
-# AI @ Microsoft, How we do it and how you can too!
+# Build Xamarin solutions with authentication and Microsoft Graph
 
-*07 May 2018 23:45:00 @ Sheraton: Metropolitan Ballroom B*
+*15 February 2021 22:06:36 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3227?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/7WKrWyA9zfc]
 
 ## Details
 
-<p>For the last 3 decades, Microsoft has been powered by Machine Learning. Come to this session for a first time ever, under the hood look at how we use ML to improve every product and business at Microsoft. Then, see how that same technology is available to you in Azure.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:12:46)
+<p>Learn how to implement mobile authentication for your next integration and walkthrough the code required for this scenario and access the Microsoft Graph.</p> (00:26:53)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227_high.mp4) (220.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227_mid.mp4) (160.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227.mp4) (75.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/71af/49afbecf-87e3-4d83-a365-f884bd8d71af/THR5006_high.mp4) (472.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/71af/49afbecf-87e3-4d83-a365-f884bd8d71af/THR5006_mid.mp4) (133.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/71af/49afbecf-87e3-4d83-a365-f884bd8d71af/THR5006.mp4) (42.0 MB)|

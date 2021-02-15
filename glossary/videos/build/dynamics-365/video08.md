@@ -1,15 +1,15 @@
-# Share code and collaborate on your next project using Git and pull requests hosted by VSTS
+# Diagnosing and debugging live cloud applications
 
-*15 February 2021 21:37:17 @ *
+*09 May 2018 00:00:00 @ Sheraton: Grand Ballroom C*
 
-> [!VIDEO https://www.youtube.com/embed/J_DHkUKxI0E]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2117?SFYT=true]
 
 ## Details
 
-<p>This video introduces Visual Studio Code developers on how to start collaborating using code review for Git powered by Visual Studio Team Services (VSTS). You'll learn how to create a pull request, how your teammates suggested changes enable you to commit your code to master, and how to complete the pull request to make it available to your full team when it's fully ready. For more information see our documentation: https://docs.microsoft.com/en-us/vsts/git/overview?view=vsts</p> (00:05:59)
+<p>In this talk we’ll show you how Azure can help you fix issues impacting your live sites faster. From the Azure portal to Visual Studio if your .NET app is running on Azure App Services and is having a functional or performance issue we’ve got a tool to help you. The talk will included demos of the Profiler, Snapshot debugger and more.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:12:48)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062_high.mp4) (19.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062_mid.mp4) (11.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062.mp4) (6.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117_high.mp4) (207.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117_mid.mp4) (157.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117.mp4) (79.0 MB)|

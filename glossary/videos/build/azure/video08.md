@@ -1,15 +1,15 @@
-# Cloud Migration App Development
+# How to incorporate data classification capabilities within your application
 
-*08 May 2018 01:00:00 @ C9L Stage*
+*09 May 2018 01:45:00 @ Sheraton: Grand Ballroom A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/C9L06?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2414?SFYT=true]
 
 ## Details
 
-<p>In this interview, Seth connects with Rohan Kumar and Corey Sanders to discuss cloud migration application development.</p> (00:20:06)
+<p>Learn how to utilize the capabilities of the Information Protection SDK to classify, label and protect your unstructured data within and beyond the Office 365 environment.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (01:15:31)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev_high.mp4) (643.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev_mid.mp4) (400.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/03ed/6bb1f3ec-1118-40bf-a2a4-69c40db203ed/Build2018CloudMigrationAppDev.mp4) (79.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414_high.mp4) (202.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414_mid.mp4) (153.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/bed0/999bbecf-f390-4add-be89-7a236051bed0/BRK2414.mp4) (79.0 MB)|

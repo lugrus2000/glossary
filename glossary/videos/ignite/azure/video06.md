@@ -1,15 +1,15 @@
-# A Conversation with Azure CTO, Mark Russinovich
+# Discussing Azure AD with CVP Alex Simons
 
-*26 September 2018 21:30:00 @ Channel 9 Stage*
+*27 September 2018 20:00:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/aDxFfpPRZvo]
+> [!VIDEO https://www.youtube.com/embed/2Yp-bViSuUk]
 
 ## Details
 
-<p>Live Q&amp;A with the CTO of Azure, Mark Russinovich at Microsoft Ignite 2018.</p> (00:30:29)
+<p>Discussing Azure AD with CVP Alex Simons</p> (00:15:29)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_high.mp4) (882.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07_mid.mp4) (554.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/d423/601503de-30a7-4d77-9f8e-d92426ecd423/ch9d3s07.mp4) (131.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_high.mp4) (427.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06_mid.mp4) (270.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c8dc/f6b83f63-8876-4ef0-89e1-5c80717ec8dc/ch9d4s06.mp4) (60.0 MB)|

@@ -1,15 +1,15 @@
-# Visual Studio Code Can Do That: Tips & Tricks
+# Harnessing the Power of AI with Windows Ink
 
-*09 May 2018 19:15:00 @ WSCC: Ballrooms 6A*
+*09 May 2018 19:15:00 @ WSCC: Rooms 615*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2136?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2430?SFYT=true]
 
 ## Details
 
-<p>Visual Studio Code is on fire. Everybody loves this unexpected text editor smash hit, and for good reason: it can do A LOT. It can compile JavaScript templates on the fly, execute JavaScript inline, manage Mongo DB instances and so much more! In this session, we’ll take a look at the most powerful features and plugins in Visual Studio Code, many of which, nobody knows about. John and Burke will walk you through some of their favorite tips, tricks, extensions and hacks. This is Visual Studio Code like you’ve never seen before.</p> (01:17:19)
+<p>Windows Ink is an extremely powerful feature in Windows 10 and learn how your application gets the fastest ink on Windows across even more devices. Learn to easily incorporating inline handwriting in to your application and use Ink Analysis to differentiate your application on Windows.</p> (00:46:02)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136_high.mp4) (260.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136_mid.mp4) (193.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ce84/6f83a5cb-43b3-4709-b6ae-6eac9a32ce84/BRK2136.mp4) (90.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/31eb/f7159a7f-6e75-4bc4-9b8e-2e00e39231eb/BRK2430_high.mp4) (117.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/31eb/f7159a7f-6e75-4bc4-9b8e-2e00e39231eb/BRK2430_mid.mp4) (88.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/31eb/f7159a7f-6e75-4bc4-9b8e-2e00e39231eb/BRK2430.mp4) (46.0 MB)|

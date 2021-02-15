@@ -1,4 +1,4 @@
-# Microsoft Build 2018
+# Microsoft 365 @ Microsoft Build 2018
 
 Microsoft's ultimate developer conference focused on cloud, artificial intelligence, mixed reality, and more.
 
@@ -6,30 +6,30 @@ Microsoft's ultimate developer conference focused on cloud, artificial intellige
 
 |    |    |    |
 |:--:|:--:|:--:|
-|**Microsoft AI overview for developers**|**AI @ Microsoft, How we do it and how you can too!**|**Hybrid multi-cloud strategies using Terraform OSS with Azure**|
-|[![Microsoft AI overview for developers](https://sec.ch9.ms/ch9/9cca/259f9cc6-2a83-4001-9722-b04305609cca/BRK3218_220.jpg)](./video01.md)|[![AI @ Microsoft, How we do it and how you can too!](https://sec.ch9.ms/ch9/cf58/bc8d1880-1ce5-42a4-9168-df209175cf58/BRK3227_220.jpg)](./video02.md)|[![Hybrid multi-cloud strategies using Terraform OSS with Azure](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_220.jpg)](./video03.md)|
-|<p>Building intelligent apps is something we know a little bit about, and we wan...|<p>For the last 3 decades, Microsoft has been powered by Machine Learning. Come ...|<p>85% of enterprises have a multi-cloud strategy. Terraform is emerging as the ...|
-|**Continuous, efficient & reliable testing with integrated reporting in CI/CD**|**High Fidelity Simulations: The Critical Path to Real-World AI**|**Getting Started with Visual Studio Tools for AI**|
-|[![Continuous, efficient & reliable testing with integrated reporting in CI/CD](https://sec.ch9.ms/ch9/cb48/05da3032-0620-4ef1-9a76-a6928955cb48/THR2026_220.jpg)](./video04.md)|[![High Fidelity Simulations: The Critical Path to Real-World AI](https://sec.ch9.ms/ch9/e905/344fd49a-e882-4eb0-b5b1-4fd6d864e905/THR3130_220.jpg)](./video05.md)|[![Getting Started with Visual Studio Tools for AI](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_220.jpg)](./video06.md)|
-|<p>Continuous testing is integral to CI/CD. In this session we will show you how...|Developing and testing real-world AI is an expensive and time consuming process....|<p>Visual Studio Tools for AI makes it easy to train, debug and deploy AI infuse...|
+|**Object Detection Made Easy: Know what objects show up in your images, and where they are located**|**Build Xamarin solutions with authentication and Microsoft Graph**|**What's New in TypeScript**|
+|[![Object Detection Made Easy: Know what objects show up in your images, and where they are located](https://sec.ch9.ms/ch9/1dd4/66178867-fedc-4594-a4ed-153688471dd4/THR3104_220.jpg)](./video01.md)|[![Build Xamarin solutions with authentication and Microsoft Graph](https://sec.ch9.ms/ch9/71af/49afbecf-87e3-4d83-a365-f884bd8d71af/THR5006_220.jpg)](./video02.md)|[![What's New in TypeScript](https://sec.ch9.ms/ch9/4871/2ffba85e-32d6-4722-ad63-93baab074871/BRK2150_220.jpg)](./video03.md)|
+|<p>Computer Vision API does object detection for thousands of objects; CustomVis...|<p>Learn how to implement mobile authentication for your next integration and wa...|TypeScript has introduced groundbreaking innovations over the last year to truly...|
+|**Tooling and DevOps for the Hybrid Cloud with Azure and Azure Stack**|**Be more productive with Visual Studio extensibility**|**Designing for Everyone: Building great web experiences for any device**|
+|[![Tooling and DevOps for the Hybrid Cloud with Azure and Azure Stack](https://sec.ch9.ms/ch9/67ae/73cdbb9a-d3e4-4e9d-9a8a-d82e94f967ae/BRK2135_220.jpg)](./video04.md)|[![Be more productive with Visual Studio extensibility](https://sec.ch9.ms/ch9/d5d5/b0cd5593-0b73-40cd-9b42-f5462513d5d5/THR2002_220.jpg)](./video05.md)|[![Designing for Everyone: Building great web experiences for any device](https://sec.ch9.ms/ch9/14ad/5e493c04-b6d0-4151-883c-032dda7b14ad/BRK2411_220.jpg)](./video06.md)|
+|<p>Azure and Azure Stack provide a unified tooling and DevOps experience across ...|Extending Visual Studio with new capabilities is something that can make our liv...|As the capabilities of the web platform advance, and the pervasiveness of web co...|
 
 ## Day 1
 
 |    |   |
 |:--:|:--|
-|[![Build intelligent analytics apps with Microsoft Graph and Azure capabilities](https://sec.ch9.ms/ch9/0130/a2d82c38-fcc4-498e-8299-41d2ea970130/BRK2402_220.jpg)](./video07.md)|<p>Azure-connected capabilities of Microsoft Graph allow you to develop with the core, critical data of an organization within the...|
-|[![Spatial Analytics for Mixed Reality](https://sec.ch9.ms/ch9/0fbd/a43cf850-774f-4a53-9c52-5b0133e40fbd/BRK2427_220.jpg)](./video08.md)|Get hands on with spatial intelligence for mixed reality. We'll be working with time-series spatial data from IoT devices and inte...|
-|[![Modernize your Windows Server applications with containers](https://sec.ch9.ms/ch9/2b31/e53587cb-b938-4d15-a6c2-fb2b48382b31/BRK2149_220.jpg)](./video09.md)|<p>Do you have applications running on Windows Server? Are those applications difficult to deploy, patch, manage and maintain let ...|
-|[![Real-World Solutions with PowerApps: Building Composite Controls](https://sec.ch9.ms/ch9/7830/4fdf426c-b814-4f3c-8553-76cadfbe7830/THR3402_220.jpg)](./video10.md)|<p>Learn approaches and best practices from real apps built with PowerApps. In this session we will review how to build composite ...|
-|[![Build smart productivity apps with the Microsoft Graph Java SDK](https://sec.ch9.ms/ch9/9922/8c81fefc-8364-4e69-bc7d-10c1c17e9922/THR5003_220.jpg)](./video11.md)|<p>Learn how to get started using the Microsoft Graph Java SDK with an overview of the library and a demo of using the SDK to conn...|
+|[![PowerApps + Microsoft Graph](https://sec.ch9.ms/ch9/d1d0/35e0a4ef-37a4-4081-84fa-aaf560b3d1d0/THR2425_220.jpg)](./video07.md)|Learn how to quickly build custom business apps leveraging Microsoft Graph inside the PowerApps studio.|
+|[![Enhancing DevOps with SQL Server on Linux + containers](https://sec.ch9.ms/ch9/08fc/37ce8692-5868-4dc6-9c12-b3512c3408fc/BRK3308_220.jpg)](./video08.md)|<p>SQL Server 2017 runs now on both Linux and containers. In this session you will learn how SQL Server 2017 supports Continuous D...|
+|[![Build intelligent applications by infusing knowledge from the web](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_220.jpg)](./video09.md)|Intelligent applications are now expected to connect to and have awareness of a vast amount of information usually beyond the doma...|
+|[![What's new on Microsoft Graph](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_220.jpg)](./video10.md)|<p>Learn what is Microsoft Graph, how to use it and what are the new capabilities and data added in the last year.</p>|
+|[![Microsoft Store and Dev Center: Updated and new features to help you be successful](https://sec.ch9.ms/ch9/b0f6/c1d3f519-aade-4583-901a-dbd5474cb0f6/BRK2415_220.jpg)](./video11.md)|<p>In this session you'll learn how Microsoft Store is evolving to be the best place for you to distribute your applications on Wi...|
 
 ## Day 2
 
 |    |   |
 |:--:|:--|
-|[![MSIX: Inside and Out](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432_220.jpg)](./video12.md)|MSIX is the future of app installation building on top of and fully compatible with existing appx mechanisms. It provides a cross-...|
-|[![Entity Framework Core 2.1: Simple, Powerful Data Access for .NET](https://sec.ch9.ms/ch9/baf4/a45ab421-d64d-44ec-a126-2fbe1fcfbaf4/BRK2144_220.jpg)](./video13.md)|<p>We know the data tier is one of the most important parts of your application. That's why we've worked hard on the latest releas...|
-|[![Building Custom AI Models on Azure using TensorFlow and Keras](https://sec.ch9.ms/ch9/e0f7/091048e9-0f59-43e2-a814-5516eff8e0f7/BRK3704_220.jpg)](./video14.md)|<p>&nbsp;Learn how to simplify your Machine Learning workflow by using the experimentation, model management, and deployment servi...|
-|[![Interview with  Rob Reynolds (Chocolatey) and Matt Wrock (Boxstarter) on couch](https://sec.ch9.ms/ch9/5712/29d9a4ea-12c5-4237-aad6-382cc7355712/C9L19_220.jpg)](./video15.md)|<p>In this session, we meet with Rob Reynolds and Matt Wrock to discuss Windows Dev Box Setup</p>|
-|[![Transforming Manufacturing, Energy & Utilities industries with Azure Stream Analytics](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_220.jpg)](./video16.md)|<p>Handling IoT scale data for real-time analytics and low latency decision making requires specialized capabilities, on the netwo...|
+|[![How to migrate your existing MongoDB and Cassandra Apps to Azure Cosmos DB](https://sec.ch9.ms/ch9/37cd/d9b4060f-f542-4e4e-8125-208da73437cd/BRK3310_220.jpg)](./video12.md)|<p>Bring your Mongo DB and Cassandra applications to Azure Cosmos DB and benefit turnkey global distribution, guaranteed low laten...|
+|[![Azure Storage – Foundation for Building Secure, Scalable Cloud Applications](https://sec.ch9.ms/ch9/fbee/20d0c98a-effd-4a14-aa28-caa77a2efbee/BRK2112_220.jpg)](./video13.md)|<p>A durable, scalable and secure data infrastructure is a key piece of building, scaling and securing your existing applications....|
+|[![Transforming Manufacturing, Energy & Utilities industries with Azure Stream Analytics](https://sec.ch9.ms/ch9/b979/8d930985-b861-4a85-b50f-8aa11a82b979/BRK3323_220.jpg)](./video14.md)|<p>Handling IoT scale data for real-time analytics and low latency decision making requires specialized capabilities, on the netwo...|
+|[![Modernizing Mission-Critical Apps with SQL Server](https://sec.ch9.ms/ch9/94fe/557d952d-55fb-4135-a1c4-ceecd17994fe/BRK3315_220.jpg)](./video15.md)|Learn about the features that can help you modernize your mission critical applications, where security and performance can go han...|
+|[![Modernizing existing .NET applications with Windows Containers and Azure cloud](https://sec.ch9.ms/ch9/cf0e/8c83e6ca-6234-45b0-969f-4bbd6465cf0e/BRK3810_220.jpg)](./video16.md)|<p>In this talk we’ll show why you’d want to modernize your existing .NET apps (traditional ASP.NET WebForms, MVC apps and WCF ser...|
 

@@ -1,4 +1,4 @@
-# Microsoft Build 2018
+# Dynamics 365 @ Microsoft Build 2018
 
 Microsoft's ultimate developer conference focused on cloud, artificial intelligence, mixed reality, and more.
 
@@ -6,30 +6,30 @@ Microsoft's ultimate developer conference focused on cloud, artificial intellige
 
 |    |    |    |
 |:--:|:--:|:--:|
-|**Digital Transformation at Starbucks**|**Technology Keynote: Microsoft Azure**|**Secure and power the intelligent edge with Azure Sphere**|
-|[![Digital Transformation at Starbucks](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516_220.jpg)](./video01.md)|[![Technology Keynote: Microsoft Azure](https://sec.ch9.ms/ch9/cfa5/1a8bb2f3-3671-4a06-96fe-219f1e93cfa5/TK01_220.jpg)](./video02.md)|[![Secure and power the intelligent edge with Azure Sphere](https://sec.ch9.ms/ch9/2d5f/c103eccb-2c23-4abd-9083-7dca8b1f2d5f/BRK3801_220.jpg)](./video03.md)|
-|Digital Transformation is a common phrase across the technology industry today, ...|<p>Keynote.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azur...|<p>How about getting a close look into the new Azure Sphere solution by the team...|
-|**Azure DevOps with VSTS**|**Serverless in Action**|**Masterclass on extracting insights from your video using AI technologies**|
-|[![Azure DevOps with VSTS](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_220.jpg)](./video04.md)|[![Serverless in Action](https://sec.ch9.ms/ch9/a5e6/ad0f9cd1-0f30-484e-a3d4-9501311fa5e6/BRK2132_220.jpg)](./video05.md)|[![Masterclass on extracting insights from your video using AI technologies](https://sec.ch9.ms/ch9/1a35/70c33960-7382-4e89-b306-839744731a35/THR3126_220.jpg)](./video06.md)|
-|<p>DevOps is about people, process and products. Getting it all right requires e...|<p>Serverless is a hot trend but are you taking full advantage of all the produc...|Join us on this theatre presentation and learn how to use the Video Indexer appl...|
+|**Migrating Existing Open Source Machine Learning to Azure**|**Intelligent Edge: Microsoft Graph and IoT**|**Building Solution Templates and Managed Applications for the Azure Marketplace**|
+|[![Migrating Existing Open Source Machine Learning to Azure](https://sec.ch9.ms/ch9/935c/aadb4b55-08b6-491c-aa34-779f9724935c/BRK3709_220.jpg)](./video01.md)|[![Intelligent Edge: Microsoft Graph and IoT](https://sec.ch9.ms/ch9/cab6/8fc188e8-b883-45e4-b78a-38628b2bcab6/THR2430_220.jpg)](./video02.md)|[![Building Solution Templates and Managed Applications for the Azure Marketplace](https://sec.ch9.ms/ch9/5eb0/3b5294ae-b867-45b9-9156-d6ead1bb5eb0/BRK3603_220.jpg)](./video03.md)|
+|<p>Your data scientists have created predictive models using open-source tools, ...|Ask your toaster to update you on the location of your next meeting! Then ask yo...|<p>The Azure Marketplace provides a great opportunity for visibility and validat...|
+|**Accelerating Windows 10 enterprise app deployment with MSIX**|**Building applications at warehouse scale for HoloLens**|**How to take advantage of scale out graph in Azure Cosmos DB**|
+|[![Accelerating Windows 10 enterprise app deployment with MSIX](https://sec.ch9.ms/ch9/7ac9/006b5e88-05ce-4682-8839-f79ff9ca7ac9/BRK2416_220.jpg)](./video04.md)|[![Building applications at warehouse scale for HoloLens](https://sec.ch9.ms/ch9/2642/fbf2894f-883a-4e84-9418-2da73ca22642/THR3305_220.jpg)](./video05.md)|[![How to take advantage of scale out graph in Azure Cosmos DB](https://sec.ch9.ms/ch9/3ec0/741090b7-9da8-40c8-9622-d5b614ed3ec0/BRK3311_220.jpg)](./video06.md)|
+|<p>MSIX provides lots of benefits across the app lifecycle management. Learn how...|Spatially aware devices are enabling applications to freely mix real and virtual...|<p>Real-world data is naturally connected. Learn how to create graph database ap...|
 
 ## Day 1
 
 |    |   |
 |:--:|:--|
-|[![Azure Tips and Tricks: Become more productive with azure in 20 minutes](https://sec.ch9.ms/ch9/99c5/5a71de47-96b2-4129-8be0-e77b558899c5/THR2003_220.jpg)](./video07.md)|<p>Spend 20 minutes in this fast-faced, demo-heavy talk with CDA Cecil Philips and PM Michael Crump, that will take you through so...|
-|[![Share code and collaborate on your next project using Git and pull requests hosted by VSTS](https://sec.ch9.ms/ch9/1153/738d5eef-3eaf-4647-b74d-c72bc9491153/THR5062_220.jpg)](./video08.md)|<p>This video introduces Visual Studio Code developers on how to start collaborating using code review for Git powered by Visual S...|
-|[![Infrastructure automation at Chevron  - deployment and management at scale](https://sec.ch9.ms/ch9/97b1/8229ee61-bb27-4746-8cbf-b63fd2e097b1/THR2502_220.jpg)](./video09.md)|<p>Learn about Chevron’s journey to implement infrastructure as code.</p>|
-|[![What’s new with Cortana and the Skills Kit](https://sec.ch9.ms/ch9/89ed/a36bd845-8eba-426b-a8bd-5a2b0db589ed/BRK3236_220.jpg)](./video10.md)|Cortana is Microsoft’s personal digital assistant used by over 140 million people. In this session, we will cover how you as a dev...|
-|[![Getting started with Azure DevOps Projects to setup your CI/CD pipeline for Node.js and Containers](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_220.jpg)](./video11.md)|<p>In this video, we walk you through setting up a CI/CD pipeline for your node.js app running in a container, hosted in Azure. We...|
+|[![Getting Started with Visual Studio Tools for AI](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_220.jpg)](./video07.md)|<p>Visual Studio Tools for AI makes it easy to train, debug and deploy AI infused applications and services. Come learn how to eas...|
+|[![Diagnosing and debugging live cloud applications](https://sec.ch9.ms/ch9/adf8/f889fb32-cbe9-4cdd-a0c0-68d274c6adf8/BRK2117_220.jpg)](./video08.md)|<p>In this talk we’ll show you how Azure can help you fix issues impacting your live sites faster. From the Azure portal to Visual...|
+|[![What's new with Visual Studio for Mac](https://sec.ch9.ms/ch9/723a/66cbc014-0926-4911-8482-8d1e0ec5723a/BRK2152_220.jpg)](./video09.md)|<p>Visual Studio for Mac launched last year at Build as the Microsoft IDE natively designed for the Mac. Since then, regular relea...|
+|[![Automating business processes and approvals with Microsoft Flow](https://sec.ch9.ms/ch9/fba2/484c274b-c373-4a16-93a3-8bb35d3bfba2/BRK2302_220.jpg)](./video10.md)|<p>Use Microsoft Flow to easily add business process automation and approval processes to your solutions. You'll learn to build Fl...|
+|[![Developing custom connectors for Microsoft Flow and PowerApps](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405_220.jpg)](./video11.md)|<p>PowerApps already provides over 200 connectors -to Microsoft as well as to 3d party services- for app makers to use and combine...|
 
 ## Day 2
 
 |    |   |
 |:--:|:--|
-|[![Bing Developer Updates](https://sec.ch9.ms/ch9/4a3b/2aa96f1c-ea8b-4a12-8494-fe1413374a3b/Build2018BingDeveloperUpdatesGurpreetSinghPall_220.jpg)](./video12.md)|<p>Seth Juarez sits down with Gurpreet Singh Pall to talk about Bing developer updates.</p>|
-|[![Hybrid multi-cloud strategies using Terraform OSS with Azure](https://sec.ch9.ms/ch9/2501/a66fce67-13cb-4b57-bb58-c9f74a652501/BRK2121_220.jpg)](./video13.md)|<p>85% of enterprises have a multi-cloud strategy. Terraform is emerging as the open source standard to provision infrastructure a...|
-|[![Building powerful desktop and MR applications with new windowing apis](https://sec.ch9.ms/ch9/e52f/70843880-3e67-4a7f-b974-93a13d67e52f/BRK3506_220.jpg)](./video14.md)|<p>Join us on our journey towards a reworked and more powerful Windowing model for UWP. In this session we will introduce a toolbo...|
-|[![Azure Service Bus and Logic Apps for messaging and process automation](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_220.jpg)](./video15.md)|Messaging and process automation are key elements to architect microservice solutions. Learn how Azure Service Bus and Logic Apps ...|
-|[![Designing Inclusive Experiences to Maximize Reach and Satisfaction](https://sec.ch9.ms/ch9/c864/b98d373a-05ea-45f1-9118-99ccf892c864/THR2421_220.jpg)](./video16.md)|Demystify accessibility by explaining what users need, what developers can do to meet those needs and how accessibility works (fro...|
+|[![Serverless, SPAs, and Scalability](https://sec.ch9.ms/ch9/5fe6/8f9e8213-6e44-4f23-9a82-8fcda5105fe6/BRK3710_220.jpg)](./video12.md)|<p>Learn to build SPAs that take advantage of serverless optimizations, giving you epic scalability and super-low latencies at a f...|
+|[![Azure Service Bus and Logic Apps for messaging and process automation](https://sec.ch9.ms/ch9/5604/dfca3d59-1549-4a0b-82c9-50af324e5604/THR2015_220.jpg)](./video13.md)|Messaging and process automation are key elements to architect microservice solutions. Learn how Azure Service Bus and Logic Apps ...|
+|[![The Microsoft AI platform: a State of the Union](https://sec.ch9.ms/ch9/5931/2a928110-fa00-4a10-86bc-1228d9755931/BRK3224_220.jpg)](./video14.md)|<p>Join Joseph Sirosh, Corporate Vice President of the Cloud AI Platform, for a deep dive into the AI platform and exciting AI use...|
+|[![All Things Mobile](https://sec.ch9.ms/ch9/0b4a/eb25f901-4375-4c69-84c9-5786a37c0b4a/C9L11_220.jpg)](./video15.md)|<p>In this video, Christina and Jim interview Miguel de Icaza, Simina Pasat and Thomas Dohmke about all things mobile.</p><div id=...|
+|[![Building performant and re-engaging web apps with Service Worker](https://sec.ch9.ms/ch9/0069/acdc5e2f-76f6-4c61-b09d-3eb4a61a0069/BRK2404_220.jpg)](./video16.md)|Learn about the building blocks of creating an offline-enabled and re-engaging Progressive Web App: Service Worker, Push, Fetch, a...|
 

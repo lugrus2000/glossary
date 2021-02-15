@@ -1,15 +1,15 @@
-# Conversational AI: What's New?
+# How VSTS can power your process and product documentation needs with markdown powered Wiki
 
-*09 May 2018 17:30:00 @ WSCC: Ballrooms 6B*
+*15 February 2021 22:06:27 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3232?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/BdtlTJM6LpM]
 
 ## Details
 
-<p>Companies across the globe are laying out visions for their digital transformation, and Conversational AI is key part of that vision. In this session, we will share customer success stories on Conversational AI, cover what's new with Azure Bot Service and Microsoft's Conversational AI tools that span end-to-end bot development workflow, and share the roadmap for what's ahead.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (01:15:30)
+<p>In this video we'll show you how Visual Studio Team Services (VSTS) Wiki powered by Git, markdown and elastic search can be your complete solution for any documentation needs. We'll cover both the web UI and Git-clone scenarios for editing the markdown documentation and show you the workflow that can power your teams next doc project. For more information visit our documentation: https://docs.microsoft.com/en-us/vsts/collaborate/?view=vsts</p> (00:13:39)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232_high.mp4) (215.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232_mid.mp4) (162.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/f25f/ba68bb22-2f22-4fd8-ac15-463dc214f25f/BRK3232.mp4) (81.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064_high.mp4) (99.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064_mid.mp4) (31.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/65c6/4fe00959-671e-4914-8f43-e593721765c6/THR5064.mp4) (14.0 MB)|

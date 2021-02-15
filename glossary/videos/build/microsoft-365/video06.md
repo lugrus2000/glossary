@@ -1,15 +1,15 @@
-# Getting Started with Visual Studio Tools for AI
+# Designing for Everyone: Building great web experiences for any device
 
-*09 May 2018 22:30:00 @ Expo Hall Theater 1*
+*07 May 2018 22:00:00 @ Sheraton: Grand Ballroom C*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3129?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2411?SFYT=true]
 
 ## Details
 
-<p>Visual Studio Tools for AI makes it easy to train, debug and deploy AI infused applications and services. Come learn how to easily infuse AI into your applications and services, get started with machine learning and scale out model training in the cloud using Azure Machine Learning and Azure Batch AI all from Visual Studio for maximum productivity.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ai">https://aka.ms/azft-ai</a></p> (00:24:58)
+As the capabilities of the web platform advance, and the pervasiveness of web content proliferates, fundamental design principles are more important than ever: How do you enhance your experience as new capabilities become available in Microsoft Edge and other browsers? You've considered how your content looks and operates on mobile, but how does that design adapt to desktop devices? Is it usable via &quot;headless&quot; interfaces like screen readers or Cortana? Does your content adapt gracefully to the constraints of its environment? In this session, Aaron Gustafson will help you think about user experience from its foundation, so you understand what it means to build adaptive web experiences – whether in an app, in a browser, or beyond. We’ll show you some of the newest capabilities coming to Microsoft Edge that let you build differentiated experiences on Windows 10. You’ll walk away practical, cross-platform code examples you can put to use in your projects today, and foundational principles to ensure that your projects are ready for anything. (01:12:21)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_high.mp4) (99.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129_mid.mp4) (70.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c90b/f38d63cb-fca4-426d-ad89-1fbb73c4c90b/THR3129.mp4) (29.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/14ad/5e493c04-b6d0-4151-883c-032dda7b14ad/BRK2411_high.mp4) (202.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/14ad/5e493c04-b6d0-4151-883c-032dda7b14ad/BRK2411_mid.mp4) (152.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/14ad/5e493c04-b6d0-4151-883c-032dda7b14ad/BRK2411.mp4) (80.0 MB)|

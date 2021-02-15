@@ -1,15 +1,15 @@
-# Getting started with Azure DevOps Projects to setup your CI/CD pipeline for Node.js and Containers
+# Developing custom connectors for Microsoft Flow and PowerApps
 
-*15 February 2021 21:37:19 @ *
+*09 May 2018 22:00:00 @ WSCC: Rooms 603*
 
-> [!VIDEO https://www.youtube.com/embed/3etwjubReJs]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3405?SFYT=true]
 
 ## Details
 
-<p>In this video, we walk you through setting up a CI/CD pipeline for your node.js app running in a container, hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details &amp; to get started visit: https://aka.ms/DevOpsProjects.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-node">https://aka.ms/azft-node</a></p> (00:06:00)
+<p>PowerApps already provides over 200 connectors -to Microsoft as well as to 3d party services- for app makers to use and combine into their apps. Learn how you can build custom connectors and make them available to app makers around the world.</p> (01:18:18)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_high.mp4) (48.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051_mid.mp4) (19.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ca4e/e2420b2d-8099-41cf-8668-1dc332f3ca4e/THR5051.mp4) (8.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405_high.mp4) (197.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405_mid.mp4) (150.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/966a/23cc0d4c-e049-40b0-98bb-8d7e457f966a/BRK3405.mp4) (79.0 MB)|

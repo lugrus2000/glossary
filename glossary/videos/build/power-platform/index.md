@@ -1,4 +1,4 @@
-# Microsoft Build 2018
+# Power Platform @ Microsoft Build 2018
 
 Microsoft's ultimate developer conference focused on cloud, artificial intelligence, mixed reality, and more.
 
@@ -6,30 +6,30 @@ Microsoft's ultimate developer conference focused on cloud, artificial intellige
 
 |    |    |    |
 |:--:|:--:|:--:|
-|**What's New for Windows UX Developers: Fluent and XAML**|**Work with files everywhere: Store files, extend user experiences, and build business processes**|**Inside Azure Datacenter Architecture with Mark Russinovich**|
-|[![What's New for Windows UX Developers: Fluent and XAML](https://sec.ch9.ms/ch9/3c50/782f5e30-4ce4-40ff-935c-333260c73c50/BRK2423_220.jpg)](./video01.md)|[![Work with files everywhere: Store files, extend user experiences, and build business processes](https://sec.ch9.ms/ch9/66ab/21ff9538-ef0f-4979-ac3e-70e8ee3266ab/THR2442_220.jpg)](./video02.md)|[![Inside Azure Datacenter Architecture with Mark Russinovich](https://sec.ch9.ms/ch9/8c19/f90315c3-3f34-429a-b2e9-3059de6d8c19/BRK2508_220.jpg)](./video03.md)|
-|Join us for a lap around the new innovations coming to the Windows ux platform t...|Every app works with and store files in some form or another. Learn everythign y...|<p>Microsoft Azure has achieved massive, global scale, with 50 announced regions...|
-|**Custom Voice Update**|**Past, Present, and Future of .NET**|**Easy Site Search Solutions with Bing Custom Search API**|
-|[![Custom Voice Update](https://sec.ch9.ms/ch9/4edc/93dbb2c3-c94f-4fdb-b77b-ad96175e4edc/THR3111_220.jpg)](./video04.md)|[![Past, Present, and Future of .NET](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2_220.jpg)](./video05.md)|[![Easy Site Search Solutions with Bing Custom Search API](https://sec.ch9.ms/ch9/3135/820ca383-8e4f-4bb0-a778-a0dc4c143135/THR3113_220.jpg)](./video06.md)|
-|<p>We are releasing a new service in Preview that allows you to create Custom Vo...|<p>Beth Massi, Mads Torgersen, Scott Hunter, and Richard Campbell sit down at th...|In this session see how, in just minutes, you can create a commercial grade, ad-...|
+|**Find Security Flaws with AI using Microsoft Security Risk Detection, VSTS, and Azure**|**Language Understanding Updates**|**Multiplayer Server Scaling with Azure Container Instances**|
+|[![Find Security Flaws with AI using Microsoft Security Risk Detection, VSTS, and Azure](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115_220.jpg)](./video01.md)|[![Language Understanding Updates](https://sec.ch9.ms/ch9/33ab/d843f3ac-57db-44de-a57d-84b1dbad33ab/THR3118_220.jpg)](./video02.md)|[![Multiplayer Server Scaling with Azure Container Instances](https://sec.ch9.ms/ch9/906f/3c038be5-2cbd-47c6-87e7-bb346460906f/THR3512_220.jpg)](./video03.md)|
+|<p>You will learn how to find “million dollar bugs” in your code, report those b...|LUIS is launching a new set of features that Enable a more integrated experience...|<p>There are few things more annoying to a gamer than trying to play an online m...|
+|**Real-World Solutions with PowerApps: Tips & tricks to manage your app complexity**|**Building Web API Solutions with Authentication**|**Technology, meet Strategy: The lessons from Microsoft’s Digital Transformation with the Chief Digital Officer**|
+|[![Real-World Solutions with PowerApps: Tips & tricks to manage your app complexity](https://sec.ch9.ms/ch9/9b99/bb9ea87a-1233-4574-a6db-615bb9429b99/THR3403_220.jpg)](./video04.md)|[![Building Web API Solutions with Authentication](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000_220.jpg)](./video05.md)|[![Technology, meet Strategy: The lessons from Microsoft’s Digital Transformation with the Chief Digital Officer](https://sec.ch9.ms/ch9/7c07/49949c97-309d-469a-942e-4376b0277c07/BRK2509_220.jpg)](./video06.md)|
+|<p>Learn approaches and best practices from real apps built with PowerApps. We'l...|<p>Learn how to implement Web authentication for your next integration and walkt...|<p>Every company is becoming a software company in some form – what does this me...|
 
 ## Day 1
 
 |    |   |
 |:--:|:--|
-|[![Expediting Contract Negotiation in Icertis Using Microsoft Teams](https://sec.ch9.ms/ch9/8059/22b08bfb-10bb-4f23-8c13-9d8648168059/THR2449_220.jpg)](./video07.md)|Join us to know how Icertis leveraged Microsoft Teams’ platform to collaborate around contracts to improve overall negotiation pro...|
-|[![Building full-stack Node.js web apps with Visual Studio Code](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140_220.jpg)](./video08.md)|<p>Node.js is a scalable JavaScript server runtime with a huge ecosystem of open source packages and a variety of front-end framew...|
-|[![Project Rome APIs in Microsoft Graph](https://sec.ch9.ms/ch9/a279/83d95d3e-01ea-4241-a036-fe8a153fa279/THR5013_220.jpg)](./video09.md)|<p>Jennifer Showe demonstrates how you can make your users productive by using the Activity feed API on Microsoft Graph to build e...|
-|[![You Can’t Start a Fire Without a Spark: AI for Accessibility](https://sec.ch9.ms/ch9/9d49/ca3bbb21-8478-4d2f-854f-155072f69d49/BRK2601_220.jpg)](./video10.md)|<p>The world is brimming with innovative and impactful projects related to people with disabilities, and Microsoft can help you to...|
-|[![Real-World Solutions with PowerApps: Performance and optimization tips when building apps](https://sec.ch9.ms/ch9/f838/7c3d1d6e-c260-4342-8bd6-e51cf566f838/THR3401_220.jpg)](./video11.md)|Learn approaches and best practices from real apps built with PowerApps. In this session we will go over data loading patterns, as...|
+|[![Excel APIs in Microsoft Graph](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_220.jpg)](./video07.md)|<p>Learn about Excel service APIs available over Microsoft Graph to help your web and mobile solutions take advantage of Excel’s a...|
+|[![Build intelligent applications by infusing knowledge from the web](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_220.jpg)](./video08.md)|Intelligent applications are now expected to connect to and have awareness of a vast amount of information usually beyond the doma...|
+|[![Streamline business processes with Flow and Office 365](https://sec.ch9.ms/ch9/d0a4/7c2f3417-1a73-4657-9faf-96b6c65bd0a4/BRK2420_220.jpg)](./video09.md)|<p>Microsoft Flow provides a growing and flexible framework for connecting different systems together to achieve tasks ranging fro...|
+|[![Continuous Monitoring for DevOps with Azure Application Insights & Log Analytics](https://sec.ch9.ms/ch9/ccd1/76a59d29-6f7e-44a5-9363-3557b477ccd1/BRK2143_220.jpg)](./video10.md)|<p>Continuous monitoring through your entire DevOps life cycle can lead to better collaboration between Dev and Ops and help you o...|
+|[![Using AML Python SDK](https://sec.ch9.ms/ch9/a664/da01887b-debe-4d83-bfe9-4fdb63c8a664/THR3123_220.jpg)](./video11.md)|<p>The Azure ML SDK for Python provides a single control plane API to the data scientist to execute the key AML workflows of Provi...|
 
 ## Day 2
 
 |    |   |
 |:--:|:--|
-|[![Microsoft Graph: Connect to essential data every app needs](https://sec.ch9.ms/ch9/be88/953f85b9-98e9-49eb-8b04-76760d4fbe88/BRK2407_220.jpg)](./video12.md)|Microsoft Graph is the rich, robust API for an increasing number of products across Microsoft.&nbsp;&nbsp;Microsoft Graph has a la...|
-|[![Using existing language skillsets to create large-scale, cloud-based analytics](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_220.jpg)](./video13.md)|<p>Data Scientists and Data Wranglers often have existing code that they would like to use at scale over large data sets. In this ...|
-|[![Technology Keynote: Microsoft 365: A powerful development platform](https://sec.ch9.ms/ch9/aa4b/eb5a1091-7fd7-465f-a416-78b30174aa4b/TK02_220.jpg)](./video14.md)|Keynote|
-|[![Best Practices when using Microsoft Graph APIs platform capabilities AND How to query Microsoft Graph - tips and tricks](https://sec.ch9.ms/ch9/5a1d/1a420a45-aba2-4756-ba9b-c5241f5c5a1d/THR5009_220.jpg)](./video15.md)|<p>Learn how to slice and dice the amount of data you can get Microsoft Graph, whether you are counting, expanding, filtering, ord...|
-|[![Azure SQL Database the intelligent database – Your database on Autopilot](https://sec.ch9.ms/ch9/d3a1/5e29d46d-ea34-41b6-89d9-0e24b76ad3a1/BRK3301_220.jpg)](./video16.md)|<p>Come learn how Azure SQL DB, the most intelligent cloud database, uses machine learning and best practices to ensure your datab...|
+|[![Using existing language skillsets to create large-scale, cloud-based analytics](https://sec.ch9.ms/ch9/98d9/7bf5262d-ead4-40a5-9498-49abe1f498d9/BRK4100_220.jpg)](./video12.md)|<p>Data Scientists and Data Wranglers often have existing code that they would like to use at scale over large data sets. In this ...|
+|[![Streamline business processes with Flow and Office 365](https://sec.ch9.ms/ch9/d0a4/7c2f3417-1a73-4657-9faf-96b6c65bd0a4/BRK2420_220.jpg)](./video13.md)|<p>Microsoft Flow provides a growing and flexible framework for connecting different systems together to achieve tasks ranging fro...|
+|[![Day 2 Recap with Jeff and Charlotte](https://sec.ch9.ms/ch9/2f2b/131aedcc-4f56-4018-8ffe-b3f514692f2b/C9L15_220.jpg)](./video14.md)|<p>Watch Jeff and Charlotte recount the most important news from day 2 of Build 2018</p>|
+|[![Azure DevOps with VSTS](https://sec.ch9.ms/ch9/74a1/0e8bbb52-5eea-4d6a-b47e-fbbde06574a1/BRK2105_220.jpg)](./video15.md)|<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and cu...|
+|[![Get even more out of your beta app distribution pipeline](https://sec.ch9.ms/ch9/0343/7273b26d-a95f-4209-8737-da1f17ca0343/THR2042_220.jpg)](./video16.md)|The App Center team has been hard at work bringing even more value to your beta app distribution workflow. We will be sharing all ...|
 

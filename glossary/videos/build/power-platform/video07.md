@@ -1,15 +1,15 @@
-# Expediting Contract Negotiation in Icertis Using Microsoft Teams
+# Excel APIs in Microsoft Graph
 
-*08 May 2018 05:00:00 @ Expo Hall Theater 3*
+*15 February 2021 22:06:49 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2449?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/B14rEr3KzX8]
 
 ## Details
 
-Join us to know how Icertis leveraged Microsoft Teams’ platform to collaborate around contracts to improve overall negotiation process on contracts. Collaboration is the single most factor that can improve the overall cycle time of contracts. Learn how Icertis leverages Microsoft Teams platform and Office365 Add-ins to provide visibility to authorized parties for real time collaboration. (00:21:03)
+<p>Learn about Excel service APIs available over Microsoft Graph to help your web and mobile solutions take advantage of Excel’s analysis and calculation power. Demo shows usage of Excel table filtering and reading of filtered view.&nbsp;</p> (00:08:44)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-| |[Medium quality MP4](https://sec.ch9.ms/ch9/8059/22b08bfb-10bb-4f23-8c13-9d8648168059/THR2449_mid.mp4) (43.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8059/22b08bfb-10bb-4f23-8c13-9d8648168059/THR2449.mp4) (22.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_high.mp4) (49.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008_mid.mp4) (20.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/32fe/fd5843bf-cf78-4423-9a5a-12b51a0532fe/THR5008.mp4) (10.0 MB)|

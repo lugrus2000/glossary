@@ -1,15 +1,15 @@
-# Server Migration
+# Ignite: Day 5 Intro
 
-*25 September 2018 21:30:00 @ Channel 9 Stage*
+*28 September 2018 14:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/dTxLYGj6a0M]
+> [!VIDEO https://www.youtube.com/embed/1T5U3fado_E]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:10:24)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:09:04)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4225/5b36121c-16a3-43b9-867f-9112e3ba4225/ch9d2s06_high.mp4) (519.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4225/5b36121c-16a3-43b9-867f-9112e3ba4225/ch9d2s06_mid.mp4) (121.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4225/5b36121c-16a3-43b9-867f-9112e3ba4225/ch9d2s06.mp4) (34.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_high.mp4) (252.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro_mid.mp4) (159.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/53a0/6e71a37e-179d-4e2a-b503-168dbdd953a0/ch9d5intro.mp4) (36.0 MB)|

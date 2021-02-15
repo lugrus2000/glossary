@@ -1,15 +1,15 @@
-# Digital Transformation at Starbucks
+# Migrating Existing Open Source Machine Learning to Azure
 
-*08 May 2018 19:30:00 @ WSCC: Rooms 615*
+*08 May 2018 01:30:00 @ Sheraton: Willow AB*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2516?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3709?SFYT=true]
 
 ## Details
 
-Digital Transformation is a common phrase across the technology industry today, but what does it really mean? Join leaders from application development, data engineering, and DevOps to hear what it means at Starbucks, and learn how the company is leveraging cloud computing to drive next-generation experiences for customers and partners. (00:42:28)
+<p>Your data scientists have created predictive models using open-source tools, proprietary software, or some combination of both, and now you are interested in lifting and shifting those models to the cloud. In this talk, I'll describe how data scientists can transition their existing workflows — while using mostly the same tools and processes — to train and deploy machine learning models based on open source frameworks to Azure. I'll provide guidance on keeping connections to data sources up-to-date, evaluating and monitoring models, and deploying applications that make use of those models.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-ml">https://aka.ms/azft-ml</a></p> (00:45:35)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516_high.mp4) (126.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516_mid.mp4) (92.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/e371/c868c99d-d750-4331-9628-0d951eb8e371/BRK2516.mp4) (43.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/935c/aadb4b55-08b6-491c-aa34-779f9724935c/BRK3709_high.mp4) (119.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/935c/aadb4b55-08b6-491c-aa34-779f9724935c/BRK3709_mid.mp4) (89.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/935c/aadb4b55-08b6-491c-aa34-779f9724935c/BRK3709.mp4) (47.0 MB)|

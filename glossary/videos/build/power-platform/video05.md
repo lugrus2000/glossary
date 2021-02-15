@@ -1,15 +1,15 @@
-# Past, Present, and Future of .NET
+# Building Web API Solutions with Authentication
 
-*08 May 2018 01:30:00 @ C9L Stage*
+*15 February 2021 22:06:49 @ *
 
-> [!VIDEO https://www.youtube.com/embed/LBsGSW2-qr4]
+> [!VIDEO https://www.youtube.com/embed/5qZRzwjKNJ4]
 
 ## Details
 
-<p>Beth Massi, Mads Torgersen, Scott Hunter, and Richard Campbell sit down at the Channel 9 Live desk to discuss the future of .NET.</p> (00:54:47)
+<p>Learn how to implement Web authentication for your next integration and walkthrough the code required for this scenario.</p> (00:12:13)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2_high.mp4) (1.0 GB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2_mid.mp4) (1.0 GB)|[Low quality MP4](https://sec.ch9.ms/ch9/cca1/6243072c-0971-4967-b450-933f507ecca1/Build2018FutureOfDotNETv2.mp4) (213.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000_high.mp4) (117.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000_mid.mp4) (51.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/9d9c/0287229d-1fc4-4c09-8574-4ff7582f9d9c/THR5000.mp4) (19.0 MB)|

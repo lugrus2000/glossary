@@ -1,15 +1,15 @@
-# Overview of Visual Studio and Unity
+# A Developer’s Introduction to Big Data Processing with Azure Databricks
 
-*08 May 2018 03:30:00 @ Expo Hall Theater 2*
+*08 May 2018 04:00:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR2018?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3202?SFYT=true]
 
 ## Details
 
-2018 is an exciting year for Unity developers as Unity 2018.1 finally supports .NET 4.6 and C# 6. This session will be the opportunity to learn how to benefit from a modern ecosystem in your Unity game. We’ll also look at all the new features in the Visual Studio Tools for Unity we’re building to improve your productivity! (00:10:24)
+<p>Big Data is everywhere, and you as a developer can take advantage of the insights that can be derived of it. To make things easier, Azure brings services like Azure Databricks, that allow developers to leverage the best of OSS capabilities like Apache Spark, with the confidence of an integrated Azure environment. In this session you’ll see an introductory journey into how Azure Databricks can bring together structured, and unstructured data, help derive deep insights with Machine Learning, and even create a real-time feedback loop. Your applications deserve to be more intelligent, and when it comes to data-driven intelligence, Azure Databricks is the way to go.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-databricks">https://aka.ms/azft-databricks</a></p> (00:20:08)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018_high.mp4) (18.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018_mid.mp4) (13.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/8bba/61415159-f947-4410-b752-304b9cb98bba/THR2018.mp4) (7.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/1ff9/38642ddf-0831-4e1c-8349-f3cda6d41ff9/THR3202_high.mp4) (56.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1ff9/38642ddf-0831-4e1c-8349-f3cda6d41ff9/THR3202_mid.mp4) (42.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1ff9/38642ddf-0831-4e1c-8349-f3cda6d41ff9/THR3202.mp4) (21.0 MB)|

@@ -1,15 +1,15 @@
-# What's New in Visual Studio Code
+# Introducing Microsoft Learn
 
-*25 September 2018 18:15:00 @ Channel 9 Stage*
+*27 September 2018 16:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
+> [!VIDEO https://www.youtube.com/embed/yPQ8GXfW4Ok]
 
 ## Details
 
-<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
+<p>To learn more about Microsoft Learn head over to <a href="https://microsoft.com/learn">https://microsoft.com/learn!</a></p> (00:10:39)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4) (338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4) (214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4) (53.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/91a3/dc64606d-2546-4aef-bd17-b74c3e6b91a3/ch9d4s02_high.mp4) (334.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/91a3/dc64606d-2546-4aef-bd17-b74c3e6b91a3/ch9d4s02_mid.mp4) (212.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/91a3/dc64606d-2546-4aef-bd17-b74c3e6b91a3/ch9d4s02.mp4) (49.0 MB)|

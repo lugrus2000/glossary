@@ -1,15 +1,15 @@
-# MSIX: Inside and Out
+# How to migrate your existing MongoDB and Cassandra Apps to Azure Cosmos DB
 
-*08 May 2018 01:30:00 @ WSCC: Rooms 612*
+*09 May 2018 01:45:00 @ WSCC: Rooms 620*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2432?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3310?SFYT=true]
 
 ## Details
 
-MSIX is the future of app installation building on top of and fully compatible with existing appx mechanisms. It provides a cross-platform, down level compliant, enterprise class installer with benefits ranging from existing LOB apps, distribution through the Microsoft Store, Store for Business, or other custom distribution methods. Come see why MSIX brings the best of MSI, Click Once, App-V and APPX together for your customers and business. (01:16:35)
+<p>Bring your Mongo DB and Cassandra applications to Azure Cosmos DB and benefit turnkey global distribution, guaranteed low latency for cloud scale. Learn how easy it is to migrate your existing NoSQL applications to Azure Cosmos DB by using the MongoDB API and Cassandra API. In this sessions you will find out about the tools used in the process, see the code that leverages Azure Cosmos DB, and learn about techniques for working around the differences between the two products.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-cosmos">https://aka.ms/azft-cosmos</a></p> (00:55:37)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432_high.mp4) (137.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432_mid.mp4) (142.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/5da3/1d77a14b-975e-4078-a37e-4ab724e95da3/BRK2432.mp4) (78.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/37cd/d9b4060f-f542-4e4e-8125-208da73437cd/BRK3310_high.mp4) (147.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/37cd/d9b4060f-f542-4e4e-8125-208da73437cd/BRK3310_mid.mp4) (109.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/37cd/d9b4060f-f542-4e4e-8125-208da73437cd/BRK3310.mp4) (56.0 MB)|

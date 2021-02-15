@@ -1,15 +1,15 @@
-# Building a More Diverse and Inclusive Team
+# What's New in Visual Studio Code
 
-*27 September 2018 21:30:00 @ Channel 9 Stage*
+*25 September 2018 18:15:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/P2T_NxxZpeg]
+> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
 
 ## Details
 
-<p>Building a More Diverse and Inclusive Team at Microsoft Ignite 2018.</p> (00:12:19)
+<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07_high.mp4) (389.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07_mid.mp4) (251.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/b7cd/e41e53b2-f312-4e32-a8a3-3d997b11b7cd/ch9d4s07.mp4) (57.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4) (338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4) (214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4) (53.0 MB)|

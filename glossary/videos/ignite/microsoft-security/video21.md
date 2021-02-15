@@ -1,15 +1,15 @@
-# Everything You Need to Know About Microsoft's HCI
+# Dealing with and Managing Burn Out
 
-*27 September 2018 18:00:00 @ Channel 9 Stage*
+*28 September 2018 16:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/yE4jKFWx0Dk]
+> [!VIDEO https://www.youtube.com/embed/tAj2OBqPJ9U]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:36)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/c3be/7a2590e3-278b-4d4f-9781-a5f5eddec3be/ch9d4s03_high.mp4) (355.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/c3be/7a2590e3-278b-4d4f-9781-a5f5eddec3be/ch9d4s03_mid.mp4) (222.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/c3be/7a2590e3-278b-4d4f-9781-a5f5eddec3be/ch9d4s03.mp4) (48.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_high.mp4) (320.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_mid.mp4) (204.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02.mp4) (43.0 MB)|

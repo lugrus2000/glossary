@@ -1,15 +1,15 @@
-# Connect Anything to Everything: Serverless Routing and Messaging with Event Grid
+# Supercharge your app with Power BI Embedded analytics
 
-*09 May 2018 01:00:00 @ Expo Hall Theater 3*
+*09 May 2018 17:30:00 @ Sheraton: Grand Ballroom A*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3509?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3410?SFYT=true]
 
 ## Details
 
-<p>In this hands-on presentation, learn about the true value of Event Grid by seeing an example in action. You'll be able to understand what sets Event Grid apart from other services like Service Bus and messaging queues. Event Grid is an Azure service that routes events between endpoints. It provides support for virtually any existing Azure service from storage activity to serverless Azure Function calls. It also has support for custom end points. Instead of taking on the costly overhead of continuous polling in your applications, Event Grid will manage the events for you and publish them to your app when ready.&nbsp;</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-serverless">https://aka.ms/azft-serverless</a></p> (00:21:09)
+<p>Help your customers turn insights into action with Power BI Embedded, a promising service, that empowers ISVs and developers to put decision making power directly into their customers’ hands by embedding interactive visuals and analytics into their applications while avoiding the overhead of building analytics from scratch.</p> (01:03:17)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509_high.mp4) (53.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509_mid.mp4) (40.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/4d8e/d33bc13c-9468-44b5-b849-13251af34d8e/THR3509.mp4) (21.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/ecba/8662f2c1-7143-4ee2-8ffa-2c2297d0ecba/BRK3410_high.mp4) (168.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/ecba/8662f2c1-7143-4ee2-8ffa-2c2297d0ecba/BRK3410_mid.mp4) (126.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/ecba/8662f2c1-7143-4ee2-8ffa-2c2297d0ecba/BRK3410.mp4) (65.0 MB)|

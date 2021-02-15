@@ -1,15 +1,15 @@
-# What's New in Visual Studio Code
+# Ignite: Day 4 Intro
 
-*25 September 2018 18:15:00 @ Channel 9 Stage*
+*27 September 2018 14:45:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/-xcPwfW_U3Q]
+> [!VIDEO https://www.youtube.com/embed/825TFP3rZmI]
 
 ## Details
 
-<p>Christina Warren interviews Chris Dias, Scott Hanselman and Matt Hernandez live on Channel at Microsoft Ignite on the latest updates to Visual Studio Code.</p> (00:13:46)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:08:58)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_high.mp4) (338.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03_mid.mp4) (214.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/cf3f/aa6c5a08-4efc-4441-8b4e-4c52119fcf3f/ch9d2s03.mp4) (53.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro_high.mp4) (260.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro_mid.mp4) (164.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/39ba/aa23574a-0344-4027-a7aa-aeaea7f039ba/ch9d4intro.mp4) (40.0 MB)|

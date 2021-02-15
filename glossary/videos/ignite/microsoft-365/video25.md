@@ -1,15 +1,15 @@
-# Interview with Microsoft CVP Corey Sanders
+# Dealing with and Managing Burn Out
 
-*25 September 2018 16:15:00 @ Channel 9 Stage*
+*28 September 2018 16:30:00 @ Channel 9 Stage*
 
-> [!VIDEO https://www.youtube.com/embed/TyHi1mSgEKo]
+> [!VIDEO https://www.youtube.com/embed/tAj2OBqPJ9U]
 
 ## Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:22:51)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (00:13:19)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_high.mp4) (139.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01_mid.mp4) (82.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/1b7f/d9564e68-7a18-4169-b874-2fbea1501b7f/ch9d2s01.mp4) (26.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_high.mp4) (320.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02_mid.mp4) (204.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3256/d316cd5f-a510-436a-9683-297ba7263256/ch9d5s02.mp4) (43.0 MB)|

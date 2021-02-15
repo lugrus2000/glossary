@@ -1,15 +1,15 @@
-# What's New for Windows UX Developers: Fluent and XAML
+# Find Security Flaws with AI using Microsoft Security Risk Detection, VSTS, and Azure
 
-*09 May 2018 01:45:00 @ WSCC: Ballrooms 6A*
+*08 May 2018 03:30:00 @ Expo Hall Theater 1*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2423?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR3115?SFYT=true]
 
 ## Details
 
-Join us for a lap around the new innovations coming to the Windows ux platform this year. Catch up on the latest UWP APIs and how you can use familiar technologies like XAML and C# to build experiences that leverage the Fluent Design System to captivate your customers and maximize their productivity. This must-see session will cover improvements in ux fundamentals; new controls for navigation, commanding, collections, and forms; enhancements to developer productivity; and more! (01:12:22)
+<p>You will learn how to find “million dollar bugs” in your code, report those bugs, and prioritize them right from inside Visual Studio Team Services. Microsoft Security Risk Detection brings 15 years of innovation in fuzz testing from Microsoft to you, including the latest AI for finding security holes. Now you can kick off security testing from a Visual Studio build definition! Once bugs are found, you will see how Azure Logic Apps make it easy for you to create alerts, file work items, and fit security testing into your workflow.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/azft-security">https://aka.ms/azft-security</a></p> (00:16:53)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/3c50/782f5e30-4ce4-40ff-935c-333260c73c50/BRK2423_high.mp4) (211.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3c50/782f5e30-4ce4-40ff-935c-333260c73c50/BRK2423_mid.mp4) (155.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3c50/782f5e30-4ce4-40ff-935c-333260c73c50/BRK2423.mp4) (76.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115_high.mp4) (44.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115_mid.mp4) (33.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/513b/e07b63b2-8614-49c8-b705-531591cf513b/THR3115.mp4) (17.0 MB)|

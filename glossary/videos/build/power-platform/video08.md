@@ -1,15 +1,15 @@
-# Building full-stack Node.js web apps with Visual Studio Code
+# Build intelligent applications by infusing knowledge from the web
 
-*09 May 2018 22:00:00 @ WSCC: Ballrooms 6C*
+*07 May 2018 22:00:00 @ WSCC: Rooms 615*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2140?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK3223?SFYT=true]
 
 ## Details
 
-<p>Node.js is a scalable JavaScript server runtime with a huge ecosystem of open source packages and a variety of front-end frameworks to build web apps with, like Angular, React, and Vue. In this demo-packed session you'll learn how Visual Studio Code, our open source, cross-platform editor, supercharges your productivity as we build a web app, including debugging front-end and server-side code and deploying.</p> (00:45:11)
+Intelligent applications are now expected to connect to and have awareness of a vast amount of information usually beyond the domain of the core experience. In this session we'll discuss how businesses are making use of Bing’s powerful knowledge graph and index through our cognitive APIs to embed the world’s knowledge into their applications, making them more intelligent, and delivering insights to their customers. (01:08:03)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140_high.mp4) (156.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140_mid.mp4) (114.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/276a/3e3babec-f69a-45c6-81c5-cea14d14276a/BRK2140.mp4) (52.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_high.mp4) (268.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223_mid.mp4) (195.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/963e/45651d1d-2857-47a7-99ef-5e1d6ff3963e/BRK3223.mp4) (87.0 MB)|

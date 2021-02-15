@@ -1,15 +1,15 @@
-# Authentication in Apps for Microsoft Teams
+# Designing Realities - Building experiences not games
 
-*15 February 2021 21:37:08 @ *
+*08 May 2018 20:30:00 @ Expo Hall Theater 3*
 
-> [!VIDEO https://www.youtube.com/embed/paI3wE7vzrs]
+> [!VIDEO https://medius.studios.ms/Embed/Video/THR2422?SFYT=true]
 
 ## Details
 
-<p>In this video, Joshua Trick walks through various authentication flows for an app in Microsoft Teams. He demonstrates a tab that authenticates a user with Azure Active Directory, examines a bot that integrates with LinkedIn, and ends with tips for implementing authentication in your own Teams app.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:12:36)
+<p>The first wave of experiences that enter this new interactive world is coming to a close. Let's apply what we've learned and stop building discrete interactions or focusing on mechanics. Instead, focus on building realities people want to live in. We've been making games for decades using these tools and now they're evolving to support so much more. Small adjustments can make all the difference in your application. Keith Bradner, from Bend Labs, will talk about why we need to evolve our design, and specific examples around what that means.</p> (00:19:51)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/597e/5d6964c2-292b-4228-bb39-1619e0cc597e/THR5023_high.mp4) (58.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/597e/5d6964c2-292b-4228-bb39-1619e0cc597e/THR5023_mid.mp4) (29.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/597e/5d6964c2-292b-4228-bb39-1619e0cc597e/THR5023.mp4) (16.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422_high.mp4) (105.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422_mid.mp4) (75.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/6a83/48843945-faed-499c-be21-3b1d7ae46a83/THR2422.mp4) (29.0 MB)|

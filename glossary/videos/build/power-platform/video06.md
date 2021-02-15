@@ -1,15 +1,15 @@
-# Easy Site Search Solutions with Bing Custom Search API
+# Technology, meet Strategy: The lessons from Microsoft’s Digital Transformation with the Chief Digital Officer
 
-*08 May 2018 02:00:00 @ Expo Hall Theater 1*
+*09 May 2018 00:00:00 @ Sheraton: Willow AB*
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3113?SFYT=true]
+> [!VIDEO https://medius.studios.ms/Embed/Video/BRK2509?SFYT=true]
 
 ## Details
 
-In this session see how, in just minutes, you can create a commercial grade, ad-free, custom site search instance for your website that will improve how customers find content on your website. Learn how thousands of brand name businesses have benefited from great features like being able to customize their search rankings, block unwanted content and review statistics about your customers. (00:18:33)
+<p>Every company is becoming a software company in some form – what does this mean for your organization, your people, you!? This session will tell the story of Microsoft’s internal digital transformation through the eyes of the Chief Digital Officer, Kurt DelBene. Kurt has been on the cutting edge of tech for the last 25 years. Joining Microsoft in 1992 as a leader in Windows, he went on to help with the transformation of Office from a set of on-premises tools to the vital Office 365 cloud service it is today and went on after Microsoft to help former President Barack Obama save Healthcare.gov! Now back at Microsoft, as Chief Digital Officer, Kurt joins Julia White, CVP of Azure Marketing to discuss the nature of digital transformation and what lessons can be learned from his and Microsoft’s own digital transformation.</p><p>Create a Free Account (Azure): <a href="https://aka.ms/c9-azurefree">https://aka.ms/c9-azurefree</a></p> (00:59:48)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/3135/820ca383-8e4f-4bb0-a778-a0dc4c143135/THR3113_high.mp4) (48.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/3135/820ca383-8e4f-4bb0-a778-a0dc4c143135/THR3113_mid.mp4) (36.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/3135/820ca383-8e4f-4bb0-a778-a0dc4c143135/THR3113.mp4) (19.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/7c07/49949c97-309d-469a-942e-4376b0277c07/BRK2509_high.mp4) (467.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/7c07/49949c97-309d-469a-942e-4376b0277c07/BRK2509_mid.mp4) (271.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/7c07/49949c97-309d-469a-942e-4376b0277c07/BRK2509.mp4) (68.0 MB)|

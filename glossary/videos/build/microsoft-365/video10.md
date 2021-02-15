@@ -1,15 +1,15 @@
-# Real-World Solutions with PowerApps: Building Composite Controls
+# What's new on Microsoft Graph
 
-*09 May 2018 19:00:00 @ Expo Hall Theater 1*
+*15 February 2021 22:06:38 @ *
 
-> [!VIDEO https://medius.studios.ms/Embed/Video/THR3402?SFYT=true]
+> [!VIDEO https://www.youtube.com/embed/3X10r2VVLCg]
 
 ## Details
 
-<p>Learn approaches and best practices from real apps built with PowerApps. In this session we will review how to build composite controls for PowerApps, such as Accordion, Flyout menu, and Tab control, using basic built-in controls.</p> (00:18:08)
+<p>Learn what is Microsoft Graph, how to use it and what are the new capabilities and data added in the last year.</p> (00:12:39)
 
 ## Download
 
 ||||
 |:--:|:----:|:-:|
-|[High quality MP4](https://sec.ch9.ms/ch9/7830/4fdf426c-b814-4f3c-8553-76cadfbe7830/THR3402_high.mp4) (47.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/7830/4fdf426c-b814-4f3c-8553-76cadfbe7830/THR3402_mid.mp4) (34.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/7830/4fdf426c-b814-4f3c-8553-76cadfbe7830/THR3402.mp4) (17.0 MB)|
+|[High quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_high.mp4) (138.0 MB)|[Medium quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011_mid.mp4) (54.0 MB)|[Low quality MP4](https://sec.ch9.ms/ch9/a45d/10a19289-c870-4e95-8ace-0df80349a45d/THR5011.mp4) (21.0 MB)|
