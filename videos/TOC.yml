@@ -1,0 +1,32 @@
+- name: Microsoft Videos
+  href: videos
+
+- name: Microsoft Build 2018
+  href: videos/build
+  items:
+  - name: Azure
+    href: videos/build/azure
+  - name: Dynamics 365
+    href: videos/build/dynamics-365
+  - name: Microsoft 365
+    href: videos/build/microsoft-365
+  - name: Microsoft Security
+    href: videos/build/microsoft-security
+  - name: Power Platform
+    href: videos/build/power-platform
+
+- name: Microsoft Ignite 2018
+  href: videos/ignite
+  items:
+  - name: Azure
+    href: videos/ignite/azure
+  - name: Dynamics 365
+    href: videos/ignite/dynamics-365
+  - name: Microsoft 365
+    href: videos/ignite/microsoft-365
+  - name: Microsoft Security
+    href: videos/ignite/microsoft-security
+  - name: Power Platform
+    href: videos/ignite/power-platform
+
+
