@@ -39,13 +39,13 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/glossary/breadcrumb/toc.json",
+      "breadcrumb_path": "/videos/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "glossary",
+    "dest": "videos",
     "markdownEngineName": "markdig"
   }
 }
