@@ -5,7 +5,11 @@
   href: videos/build
   items:
   - name: Azure
-    href: videos/build/azure
+    items:
+    - name: Connection zone
+      href: videos/build/dynamics-365/connection-zone
+
+
   - name: Dynamics 365
     href: videos/build/dynamics-365
   - name: Microsoft 365
